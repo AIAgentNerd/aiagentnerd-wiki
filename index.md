@@ -1,14 +1,46 @@
 # AI Agent Nerd Wiki
 
-## Sections
-- [[00-glossary]]
-- [[01-foundations]]
-- [[02-infrastructure]]
-- [[03-agents]]
-- [[04-apps]]
-- [[05-workflows]]
-- [[06-debugging]]
-- [[07-topics]]
+## Overview
+
+Personal + product knowledge system for building TaskNerd.
+
+---
+
+## Concepts
+
+- [[llm-wiki]] — Karpathy-style knowledge system
+- [[topic-brains]] — user-specific knowledge systems (future)
+
+---
+
+## Infrastructure
+
+- [[git-obsidian-setup]] — Git version control for wiki
+
+---
+
+## Apps
+
+- [[x-post-app]] — X automation system
+
+---
+
+## Agents
+
+- [[atlas]]
+- [[nova]]
+- [[drift]]
+
+---
+
+## Workflows
+
+- [[content-ingestion]]
+- [[post-generation]]
+
+---
 
 ## Current Focus
+
 - X Post App
+- LLM Wiki system
