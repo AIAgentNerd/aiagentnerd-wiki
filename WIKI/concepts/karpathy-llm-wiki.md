@@ -4,85 +4,45 @@
 
 ---
 
-Great! You're now at the critical stage where your clipped content becomes **structured knowledge** that feeds into your AI system. Let’s walk through the exact steps to process your first clipped note into a **Topic Brain entry** (this is where your system starts compounding).
+# Karpathy-Style LLM Wiki
 
----
+## Summary
 
-### 🧠 Step 1: Open the Clipped Note
-1. In Obsidian, navigate to:  
-   `raw/web` → Open the clipped note (e.g., `2026-04-15-openai-update.md`).
+The Karpathy-Style LLM Wiki is a structured, chapter-based knowledge system designed to capture and organize everything learned while building TaskNerd. Instead of scattered information, it creates a personal and product knowledge wiki that can evolve into internal documentation, system documentation, and potentially a public learning resource.
 
----
+## Key Concepts
 
-### 📝 Step 2: Transform Raw Content into Structured Knowledge
-**Goal:** Turn the raw article into a **Topic Brain entry** that’s ready for your AI agents to use.
+- **Structured Knowledge System**: Organized into clear chapters following a consistent format
+- **Karpathy-Style**: Not just commands, but understanding with concepts, mental models, and real debugging stories
+- **Compounding Asset**: Knowledge that grows over time and becomes increasingly valuable
+- **Personal + Product Knowledge**: Combines individual learning with product development insights
 
-#### 🔹 1. Add a Summary
-At the top of the note, write:  
-```markdown
-## Summary  
-This article discusses OpenAI’s latest updates to their API, including new model capabilities and pricing changes.  
-```
+## Important Details
 
-#### 🔹 2. Extract Key Points
-List the most important details:  
-```markdown
-## Key Points  
-- New model: `gpt-4o` with improved reasoning and multimodal support.  
-- Pricing: 20% discount for developers using the OpenAI API.  
-- API rate limits increased for enterprise users.  
-```
+### Chapter Structure (Critical Format)
 
-#### 🔹 3. Add Relevance to Your System
-Explain why this matters for your X post app or AI agents:  
-```markdown
-## Why It Matters  
-- Enables more advanced X post generation with multimodal content.  
-- Reduces costs for high-volume users.  
-- Opens opportunities for new agent workflows (e.g., image-to-post generation).  
-```
+Each chapter must follow this exact template:
+1. **What it is**: Simple explanation in plain language
+2. **Why it matters**: Why this concept is important in your system
+3. **How we set it up**: Step-by-step commands and actions
+4. **Common errors**: Real problems encountered
+5. **How we fixed them**: Actual solutions (this is gold)
+6. **Final setup (standard)**: What you decided to use going forward
 
-#### 🔹 4. Add Ideas for Future Use
-Suggest how this could be used in your system:  
-```markdown
-## Ideas  
-- Use `gpt-4o` for generating image captions for X posts.  
-- Create a "cost-effective" agent for high-volume content creation.  
-```
+### Additional Elements
 
----
+- **Mental Model Layer**: Added to every important chapter explaining how concepts fit into the system
+- **Connections Section**: How each chapter connects to other chapters, creating a knowledge graph
+- **Glossary**: Simple definitions for technical terms to reduce confusion over time
 
-### 🔗 Step 3: Link to Related Notes
-Use Obsidian’s **links** to connect this note to other parts of your wiki:  
-```markdown
-[[00-glossary/ai-agent]]  
-[[03-agents/openai-api]]  
-[[04-apps/x-post-app]]  
-```
+### Implementation Approach
 
-This creates a **knowledge graph** that your agents can traverse.
+1. **Start Simple**: Use markdown files in a folder, edit in VS Code
+2. **Upgrade Later**: Convert to docs site using Docusaurus, Nextra, or MkDocs after content exists
+3. **Consistency**: Uniform formatting across all chapters
 
----
+## Relevance to AIAgentNerd / Tasknerd
 
-### 🏷️ Step 4: Add Tags (Optional but Powerful)
-At the top of the note, add tags for grouping:  
-```markdown
-#openai #api #x-post-app  
-```
+The Karpathy-Style LLM Wiki serves as the foundational knowledge system for TaskNerd, transforming scattered information into structured, reusable, and scalable knowledge. It becomes the "brain" of the system, feeding into agents like Atlas (knowledge) and Drift (research), and providing the foundation for future automation and documentation.
 
-This helps you filter notes later (e.g., click `#openai` to see all OpenAI-related notes).
-
----
-
-### 🧹 Step 5: Clean Up the Raw Clip
-1. Delete the raw article content (you’ve already extracted the key points).  
-2. Keep only the structured sections:  
-   - Summary  
-   - Key Points  
-   - Why It Matters  
-   - Ideas  
-
----
-
-### 🔄 Step 6: Sync to Server
-Run your rsync command to
+The wiki approach enables TaskNerd to evolve from a simple tool into a comprehensive intelligence system that compounds user knowledge over time, making it increasingly valuable as users build their personal research memory systems.
