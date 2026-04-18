@@ -3,3 +3,24 @@
 - Set up Obsidian wiki
 - Created folder structure
 - Installed Web Clipper
+## 2026-04-18T09:14:42.154Z
+- action: compile_raw
+- source: web/Karpathy-Style LLM Wiki.md
+- target: concepts/karpathy-llm-wiki-test.md
+- result: success
+
+## 2026-04-18T09:27:10.303Z
+- action: compile_raw
+- source: web/does-not-exist.md
+- target: concepts/test-failure.md
+- result: failure
+- error: RAW file not found: /home/nerd/aiagentnerd-wiki/RAW/web/does-not-exist.md
+
+
+## 2026-04-18T13:19:19.684Z
+- action: split_note
+- source: 
+- target_folder: workflows
+- note_count: 3
+- result: success
+
