@@ -37,6 +37,9 @@ Personal + product knowledge system for building TaskNerd.
 
 - [[content-ingestion]]
 - [[post-generation]]
+- [[codex-hermes-obsidian]]
+-
+- 
 
 ---
 
