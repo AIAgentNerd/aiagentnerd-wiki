@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T15:34:05.402Z",
+  "updatedAt": "2026-04-23T15:43:06.033Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -8,7 +8,7 @@
       "rawHash": "14ebfdcf3df44899a88faf798c598aab9fe2a59c4f63da1808b151c8562ab41f",
       "compiledAt": "2026-04-23T15:33:47.722Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/docs/aiagentnerd-master-notes.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "web/Karpathy-Style LLM Wiki.md": {
       "rawPath": "web/Karpathy-Style LLM Wiki.md",
@@ -16,7 +16,7 @@
       "rawHash": "9da604d0c604293ac5e120f705bf568fda5f5270092a6b0ff52ca3b15de5eaa6",
       "compiledAt": "2026-04-23T15:33:53.233Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/web/Karpathy-Style LLM Wiki.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "web/Networking Ports and IPs.md": {
       "rawPath": "web/Networking Ports and IPs.md",
@@ -24,7 +24,7 @@
       "rawHash": "6527614bf9989fb04408dd5cf1d08d44ee3b9a7169dbd11b8806bb5b35cbe0b9",
       "compiledAt": "2026-04-23T15:34:02.105Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/web/Networking Ports and IPs.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "web/your-karpathy-file-name.md": {
       "rawPath": "web/your-karpathy-file-name.md",
@@ -32,6 +32,14 @@
       "rawHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "compiledAt": "2026-04-23T15:34:05.402Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/web/your-karpathy-file-name.md",
+      "gitCommitted": true
+    },
+    "test-nginx.md": {
+      "rawPath": "test-nginx.md",
+      "wikiPath": "test-nginx.md",
+      "rawHash": "4e6f3974d680820f283e4b4b6828c42c52b4c02b11aa0c2daa07ef9d76f37e03",
+      "compiledAt": "2026-04-23T15:43:06.033Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/test-nginx.md",
       "gitCommitted": false
     }
   }
