@@ -32,3 +32,11 @@
 - note_count: 2
 - result: success
 
+
+## 2026-04-19T11:26:38.725Z
+- action: compile_raw
+- source: web\Networking Ports and IPs.md
+- target: concepts/Networking Ports and IPs.md
+- result: failure
+- error: RAW file not found: /home/nerd/aiagentnerd-wiki/RAW/web\Networking Ports and IPs.md
+
