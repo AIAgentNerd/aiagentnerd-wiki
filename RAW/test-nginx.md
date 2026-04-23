@@ -1,1 +1,1 @@
-Nginx reverse proxy setup with Cloudflare tunnel and port configuration.
+This test also verifies automatic infrastructure category mapping.

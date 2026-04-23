@@ -33,5 +33,12 @@
     "rawPath": "test-nginx.md",
     "wikiPath": "test-nginx.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-23T15:48:25.231Z",
+    "action": "compile_system_raw",
+    "rawPath": "test-nginx.md",
+    "wikiPath": "test-nginx.md",
+    "result": "success"
   }
 ]
