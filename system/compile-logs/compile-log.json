@@ -40,5 +40,12 @@
     "rawPath": "test-nginx.md",
     "wikiPath": "test-nginx.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-23T15:50:05.267Z",
+    "action": "compile_system_raw",
+    "rawPath": "ssh-ports.md",
+    "wikiPath": "ssh-ports.md",
+    "result": "success"
   }
 ]

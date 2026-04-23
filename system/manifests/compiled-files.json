@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T15:48:25.231Z",
+  "updatedAt": "2026-04-23T15:50:05.268Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -40,6 +40,14 @@
       "rawHash": "be0273ad85189083c1b2bcdffe452b41ac6c984ea58d4def2f1ebfe3a9a35ca2",
       "compiledAt": "2026-04-23T15:48:25.231Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/test-nginx.md",
+      "gitCommitted": true
+    },
+    "ssh-ports.md": {
+      "rawPath": "ssh-ports.md",
+      "wikiPath": "ssh-ports.md",
+      "rawHash": "bdbf7f72038c20631c614ff3bed29cd26b37d89c15b40981c7024e343eb2cdde",
+      "compiledAt": "2026-04-23T15:50:05.267Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/ssh-ports.md",
       "gitCommitted": false
     }
   }
