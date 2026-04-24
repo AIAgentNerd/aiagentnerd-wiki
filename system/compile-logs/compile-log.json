@@ -68,5 +68,13 @@
     "rawPath": "hermes-setup.md",
     "wikiPath": "infrastructure/hermes-setup.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-24T14:22:51.762Z",
+    "action": "compile_system_raw",
+    "rawPath": "hermes-setup.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "OpenRouter returned empty or invalid compiled content"
   }
 ]

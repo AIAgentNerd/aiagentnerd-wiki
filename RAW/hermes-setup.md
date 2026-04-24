@@ -10,3 +10,4 @@ Important details:
 - restart command: pm2 restart hermes --update-env
 - logs command: pm2 logs hermes
 - API port: 3100
+Hermes exposes an API on port 3100 and integrates OpenRouter for LLM calls.
