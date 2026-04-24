@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T14:11:51.329Z",
+  "updatedAt": "2026-04-24T14:15:08.447Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -60,10 +60,10 @@
     },
     "hermes-setup.md": {
       "rawPath": "hermes-setup.md",
-      "wikiPath": "services/hermes-setup.md",
-      "rawHash": "65c4d785ae5bb562b271a0ae8d7e34dc3af0e45912ba49bc4cb935ecd9433714",
-      "compiledAt": "2026-04-24T14:11:51.329Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/hermes-setup.md",
+      "wikiPath": "infrastructure/hermes-setup.md",
+      "rawHash": "c8382e89486c21dd99c2386e52380e957f689b236677c4a9623bea60541bd3c9",
+      "compiledAt": "2026-04-24T14:15:08.447Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/hermes-setup.md",
       "gitCommitted": false
     }
   }

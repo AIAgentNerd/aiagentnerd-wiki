@@ -27,6 +27,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 
 - [[cloudflare-network]] — infrastructure/cloudflare-network.md
 - [[git-obsidian-setup]] — infrastructure/git-obsidian-setup.md
+- [[hermes-setup]] — infrastructure/hermes-setup.md
 - [[index]] — infrastructure/index.md
 - [[Networking Ports and IPs]] — infrastructure/Networking Ports and IPs.md
 - [[ssh-ports]] — infrastructure/ssh-ports.md
@@ -35,6 +36,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 ## Services
 
 - [[hermes-setup]] — services/hermes-setup.md
+- [[index]] — services/index.md
 
 ## Workflows
 

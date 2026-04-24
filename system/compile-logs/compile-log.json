@@ -61,5 +61,12 @@
     "rawPath": "hermes-setup.md",
     "wikiPath": "services/hermes-setup.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-24T14:15:08.447Z",
+    "action": "compile_system_raw",
+    "rawPath": "hermes-setup.md",
+    "wikiPath": "infrastructure/hermes-setup.md",
+    "result": "success"
   }
 ]
