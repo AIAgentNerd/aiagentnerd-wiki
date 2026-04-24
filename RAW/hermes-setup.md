@@ -11,3 +11,8 @@ Important details:
 - logs command: pm2 logs hermes
 - API port: 3100
 Hermes exposes an API on port 3100 and integrates OpenRouter for LLM calls.
+
+---
+## Compiled Wiki
+- WIKI: [[WIKI/infrastructure/hermes-setup]]
+- Last compiled: 2026-04-24T14:38:15.741Z

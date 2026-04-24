@@ -1,19 +1,28 @@
 ---
 title: Ssh Ports
-source_raw: ssh-ports.md
-compiled_at: 2026-04-23T15:50:05.267Z
+source_raw: RAW/ssh-ports.md
+compiled_wiki_path: WIKI/infrastructure/ssh-ports.md
+compiled_at: 2026-04-24T14:38:35.803Z
 type: system-note
-tags: [aiagentnerd, system, wiki, compiled]
+tags: [aiagentnerd, compiled, infrastructure, ssh, ports, cloudflare, networking]
 ---
 
 # Ssh Ports
 
-```markdown
-# SSH Access, Networking Ports, and Cloudflare Tunnel Configuration
+## Summary
+SSH access, networking ports, and Cloudflare tunnel configuration for the server.
 
-## Overview
-Technical documentation of the server's inbound connectivity mechanisms, covering SSH-based remote access, required network port exposure, and the deployment of a Cloudflare tunnel for secure external access.
+## Key Concepts
+- SSH server access
+- Network port configuration
+- Cloudflare tunnel setup
 
-## SSH Access
-- Description: Secure shell service enabling remote administrative control of the server.
-- Implementation: Operates via the SSH daemon listening for client connections
+## Source
+- RAW: [[RAW/ssh-ports]]
+
+## Related
+- [[cloudflare-network]]
+- [[backlink-test]]
+- [[Networking Ports and IPs]]
+- [[git-obsidian-setup]]
+- [[hermes-setup]]

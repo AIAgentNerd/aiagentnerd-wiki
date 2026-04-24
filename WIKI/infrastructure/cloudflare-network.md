@@ -1,22 +1,36 @@
 ---
 title: Cloudflare Network
-source_raw: cloudflare-network.md
-compiled_at: 2026-04-23T15:55:19.305Z
+source_raw: RAW/cloudflare-network.md
+compiled_wiki_path: WIKI/infrastructure/cloudflare-network.md
+compiled_at: 2026-04-24T14:36:37.140Z
 type: system-note
-tags: [aiagentnerd, system, wiki, compiled]
+tags: [aiagentnerd, compiled, infrastructure, cloudflare, networking, ssh]
 ---
 
 # Cloudflare Network
 
-# Cloudflare Network Configuration
+## Summary
+Server external connectivity is handled via Cloudflare Tunnel, encompassing SSH remote access and network port configuration for exposed services.
 
-This section documents the RAW file path and associated infrastructure details for the Cloudflare network setup.
+## Key Concepts
+- **Cloudflare Tunnel** — Secure, outbound-only reverse proxy tunnel enabling external access without a public IP.
+- **SSH Access** — Remote administrative shell access to the server through the tunnel fabric.
+- **Port Configuration** — Network port assignments and exposure rules that define which services are reachable.
 
-## RAW FILE PATH
-- **File:** `cloudflare-network.md`
+## Details
+The networking stack relies on Cloudflare Tunnel to route traffic from the internet to the server. SSH is configured for remote management within this tunnel architecture. Port configuration governs service exposure, determining how traffic is mapped and which endpoints are accessible.
 
-## Target Wiki Path
-- **Wiki Path:** `infrastructure/cloudflare-network.md`
+## Practical Notes
+- Audit the tunnel dashboard and local configuration to verify SSH and application port mappings.
+- Limit exposed ports to the minimum required for operations.
+- Confirm tunnel daemon health if SSH or services become unreachable.
 
-## Configuration Overview
-The configuration details include cloudflare tunnel settings, SSH access parameters, and networking port configurations necessary for server connectivity.
+## Source
+- RAW: [[RAW/cloudflare-network]]
+
+## Related
+- [[Networking Ports and IPs]]
+- [[ssh-ports]]
+- [[git-obsidian-setup]]
+- [[hermes-setup]]
+- [[test-nginx]]

@@ -26,6 +26,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 
 ## Infrastructure
 
+- [[backlink-test]] — infrastructure/backlink-test.md
 - [[cloudflare-network]] — infrastructure/cloudflare-network.md
 - [[git-obsidian-setup]] — infrastructure/git-obsidian-setup.md
 - [[hermes-setup]] — infrastructure/hermes-setup.md

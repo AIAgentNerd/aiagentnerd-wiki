@@ -90,5 +90,68 @@
     "rawPath": "empty-test.md",
     "wikiPath": "concepts/empty-test.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-24T14:36:37.140Z",
+    "action": "compile_system_raw",
+    "rawPath": "cloudflare-network.md",
+    "wikiPath": "infrastructure/cloudflare-network.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-24T14:37:39.184Z",
+    "action": "compile_system_raw",
+    "rawPath": "empty-test.md",
+    "wikiPath": "concepts/empty-test.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-24T14:37:44.820Z",
+    "action": "compile_system_raw",
+    "rawPath": "backlink-test.md",
+    "wikiPath": "infrastructure/backlink-test.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-24T14:37:57.679Z",
+    "action": "compile_system_raw",
+    "rawPath": "hermes-setup.md",
+    "wikiPath": "infrastructure/hermes-setup.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-24T14:38:06.677Z",
+    "action": "compile_system_raw",
+    "rawPath": "empty-test.md",
+    "wikiPath": "concepts/empty-test.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-24T14:38:11.473Z",
+    "action": "compile_system_raw",
+    "rawPath": "ssh-ports.md",
+    "wikiPath": "infrastructure/ssh-ports.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-24T14:38:15.741Z",
+    "action": "compile_system_raw",
+    "rawPath": "hermes-setup.md",
+    "wikiPath": "infrastructure/hermes-setup.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-24T14:38:35.803Z",
+    "action": "compile_system_raw",
+    "rawPath": "ssh-ports.md",
+    "wikiPath": "infrastructure/ssh-ports.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-24T14:39:14.862Z",
+    "action": "compile_system_raw",
+    "rawPath": "test-nginx.md",
+    "wikiPath": "infrastructure/test-nginx.md",
+    "result": "success"
   }
 ]
