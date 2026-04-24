@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T14:05:05.846Z",
+  "updatedAt": "2026-04-24T14:11:51.329Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -57,6 +57,14 @@
       "compiledAt": "2026-04-23T15:55:19.305Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/cloudflare-network.md",
       "gitCommitted": true
+    },
+    "hermes-setup.md": {
+      "rawPath": "hermes-setup.md",
+      "wikiPath": "services/hermes-setup.md",
+      "rawHash": "65c4d785ae5bb562b271a0ae8d7e34dc3af0e45912ba49bc4cb935ecd9433714",
+      "compiledAt": "2026-04-24T14:11:51.329Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/hermes-setup.md",
+      "gitCommitted": false
     }
   }
 }

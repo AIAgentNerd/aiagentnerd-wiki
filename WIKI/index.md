@@ -32,6 +32,10 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[ssh-ports]] — infrastructure/ssh-ports.md
 - [[test-nginx]] — infrastructure/test-nginx.md
 
+## Services
+
+- [[hermes-setup]] — services/hermes-setup.md
+
 ## Workflows
 
 - [[codex-hermes-obsidian]] — workflows/codex-hermes-obsidian.md
