@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T14:39:19.655Z",
+  "updatedAt": "2026-04-24T14:39:22.698Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -40,7 +40,7 @@
       "rawHash": "e31978c77cc2e51ae9922a52a0060c2c81420dc3f75fd2cb143c004ff478b11c",
       "compiledAt": "2026-04-24T14:39:19.651Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/test-nginx.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "ssh-ports.md": {
       "rawPath": "ssh-ports.md",
@@ -48,7 +48,7 @@
       "rawHash": "69b8fc3b84c8eec483cab08062095596653795c77461096c82b75766f13a3993",
       "compiledAt": "2026-04-24T14:38:35.803Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/ssh-ports.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "cloudflare-network.md": {
       "rawPath": "cloudflare-network.md",
@@ -64,7 +64,7 @@
       "rawHash": "e0f997266f16caf57aca61de3932dfa03708486969b8fe1335d29e5ebad71f88",
       "compiledAt": "2026-04-24T14:38:15.741Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/hermes-setup.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "empty-test.md": {
       "rawPath": "empty-test.md",
@@ -72,7 +72,7 @@
       "rawHash": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
       "compiledAt": "2026-04-24T14:38:06.677Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/empty-test.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "backlink-test.md": {
       "rawPath": "backlink-test.md",
@@ -80,7 +80,7 @@
       "rawHash": "dfba2010379368bc541dc7e481a7e5cd687c59e1f7fed2a567f5bef1f9880cd6",
       "compiledAt": "2026-04-24T14:37:44.820Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/backlink-test.md",
-      "gitCommitted": false
+      "gitCommitted": true
     }
   }
 }
