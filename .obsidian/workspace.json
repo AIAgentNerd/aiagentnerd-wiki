@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topic-brains.md",
+                "file": "WIKI/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "topic-brains"
+              "title": "index"
             }
           }
         ]
@@ -194,8 +194,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb13aa51adf3fb9d",
+  "active": "1beed2ef81d1a2aa",
   "lastOpenFiles": [
+    "log.md",
+    "topic-brains.md",
+    "WIKI/workflows/index.md",
+    "WIKI/services/index.md",
+    "WIKI/services/hermes-setup.md",
+    "WIKI/infrastructure/index.md",
+    "WIKI/infrastructure/hermes-setup.md",
+    "WIKI/infrastructure/backlink-test.md",
+    "WIKI/concepts/index.md",
+    "WIKI/concepts/empty-test.md",
+    "WIKI/concepts/auto-test.md",
+    "WIKI/architecture/quality-test.md",
+    "WIKI/architecture/index.md",
+    "WIKI/apps/index.md",
+    "WIKI/agents/index.md",
+    "RAW/test/quality-test.md",
+    "RAW/test/auto-test.md",
+    "RAW/test",
+    "RAW/hermes-setup.md",
+    "RAW/empty-test.md",
+    "RAW/backlink-test.md",
     "system/manifests/compiled-files.json",
     "system/compile-logs/compile-log.json",
     "system/manifests",
@@ -207,32 +228,11 @@
     "WIKI/infrastructure/Networking Ports and IPs.md",
     "WIKI/concepts/your-karpathy-file-name.md",
     "WIKI/concepts/aiagentnerd-master-notes.md",
-    "WIKI/concepts/Karpathy-Style LLM Wiki.md",
-    "RAW/test-nginx.md",
-    "RAW/ssh-ports.md",
-    "RAW/cloudflare-network.md",
     "WIKI/troubleshooting",
     "WIKI/architecture",
     "WIKI/services",
     "RAW/logs",
-    "RAW/notes",
-    "Untitled.base",
-    "obsidian.md",
-    "wiki-system.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "log.md",
-    "Welcome.md",
-    "git.md",
-    "RAW/web/Networking Ports and IPs.md",
-    "WIKI/workflows/content ingestion.md",
-    "WIKI/workflows/hermes-wiki-split-test-capture.md",
-    "WIKI/workflows/hermes-wiki-split-test-save.md",
-    "WIKI/workflows/hermes-wiki-split-test-split.md",
-    "WIKI/workflows/test-a.md",
-    "WIKI/workflows/test-b.md",
-    "WIKI/workflows/test-memory-loop.md",
-    "2026-04-18.md",
-    "WIKI/concepts/llm-wiki.md"
+    "Untitled.canvas"
   ]
 }
