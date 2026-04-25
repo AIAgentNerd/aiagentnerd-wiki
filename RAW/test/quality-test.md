@@ -14,4 +14,4 @@ Costs can be optimized this way.
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/architecture/quality-test]]
-- Last compiled: 2026-04-25T14:00:07.207Z
+- Last compiled: 2026-04-25T14:01:41.704Z
