@@ -160,5 +160,12 @@
     "rawPath": "test-nginx.md",
     "wikiPath": "infrastructure/test-nginx.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-25T13:52:36.113Z",
+    "action": "compile_system_raw",
+    "rawPath": "test/auto-test.md",
+    "wikiPath": "concepts/auto-test.md",
+    "result": "success"
   }
 ]

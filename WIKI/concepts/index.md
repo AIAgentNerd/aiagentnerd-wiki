@@ -1,5 +1,9 @@
 # Concepts
 
+## Auto
+
+- [[auto-test]] — concepts/auto-test.md
+
 ## Empty
 
 - [[empty-test]] — concepts/empty-test.md
