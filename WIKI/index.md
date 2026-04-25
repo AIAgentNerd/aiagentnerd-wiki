@@ -52,3 +52,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[test-a]] — workflows/test-a.md
 - [[test-b]] — workflows/test-b.md
 - [[test-memory-loop]] — workflows/test-memory-loop.md
+
+## Architecture
+
+- [[quality-test]] — architecture/quality-test.md

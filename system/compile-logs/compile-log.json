@@ -167,5 +167,12 @@
     "rawPath": "test/auto-test.md",
     "wikiPath": "concepts/auto-test.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-25T14:00:07.207Z",
+    "action": "compile_system_raw",
+    "rawPath": "test/quality-test.md",
+    "wikiPath": "architecture/quality-test.md",
+    "result": "success"
   }
 ]
