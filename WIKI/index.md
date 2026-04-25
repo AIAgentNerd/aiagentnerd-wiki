@@ -56,4 +56,5 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 ## Architecture
 
 - [[index]] — architecture/index.md
+- [[model-routing-reliability]] — architecture/model-routing-reliability.md
 - [[quality-test]] — architecture/quality-test.md
