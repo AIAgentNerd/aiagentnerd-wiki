@@ -63,7 +63,7 @@ Rules for how the system works
 - knowledge compounds over time  
 - eliminates repeated work  
 - enables agent-based systems  
-- foundation for TaskNerd  
+- foundation for AiAgentNerd  
 
 ---
 

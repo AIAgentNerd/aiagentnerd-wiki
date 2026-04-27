@@ -29,7 +29,7 @@ raw → wiki → outputs
 - enables deep understanding over time
 - supports automation (agents)
 - creates reusable intelligence
-- foundation for TaskNerd product
+- foundation for GoldieNerd product
 
 ---
 

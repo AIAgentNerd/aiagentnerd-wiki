@@ -1,19 +1,26 @@
-# Agent Roles #agents
+## chief
+Orchestrates the system. Plans, routes, and coordinates tasks. Does not execute or generate final content.
 
-## ExecNerd Atlas
-Strategic coordinator, planner, and knowledge organizer.
+## forge
+Responsible for coding and building applications. Works with Codex to implement features.
 
-## DesignNerd Nova
-Creative writer and brand/content generator.
+## operator
+Executes system actions such as running commands, testing APIs, checking ports, and validating outputs.
 
-## ResearchNerd Drift
-Research, exploration, synthesis, and contextual discovery.
+## memory
+Manages long-term knowledge, summaries, and wiki storage. Retrieves and stores structured information.
 
-## CodeNerd Forge
-Implementation, coding, and build execution.
+## research
+Finds and gathers external information, sources, and insights.
 
-## TechNerd Pulse
-Monitoring, system state, and technical health.
+## content
+Creates social posts, scripts, and written content.
 
-## OpsNerd Echo
-Operations, memory, summaries, and continuity.
+## design
+Handles UI/UX, visual direction, and user experience.
+
+## data
+Processes structured data, transformations, and analytics.
+
+## watch
+Monitors system health, scheduled checks, and alerts.

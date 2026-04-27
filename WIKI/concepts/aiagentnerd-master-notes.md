@@ -94,7 +94,7 @@ AIAgentNerd-Wiki/
 1. **Ingestion**
    ```bash
    # Convert .docx to .md
-   pandoc input.docx -o raw/docs/tasknerd-business-plan.md
+   pandoc input.docx -o raw/docs/goldienerd-business-plan.md
    ```
 
 2. **Processing**
@@ -111,7 +111,7 @@ AIAgentNerd-Wiki/
 3. **Version Control**
    - Header format:
      ```markdown
-     # TaskNerd Business Plan
+     # GoldieNerd Business Plan
      ## Version v2.1 - Updated pricing model
      ## Last Updated 2026-04-16
      ```
@@ -166,7 +166,7 @@ def get_memory_context(query):
   ```
 - **Linking Strategy:**
   ```markdown
-  [[x-post-app]] [[nova]] [[openrouter]]
+  [[x-post-app]] [[content]] [[openrouter]]
   ```
 
 ### System Maintenance
