@@ -22,6 +22,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[karpathy-llm-wiki-test]] — concepts/karpathy-llm-wiki-test.md
 - [[Karpathy-Style LLM Wiki]] — concepts/Karpathy-Style LLM Wiki.md
 - [[llm-wiki]] — concepts/llm-wiki.md
+- [[test-compile]] — concepts/test-compile.md
 - [[Topic brains]] — concepts/Topic brains.md
 - [[your-karpathy-file-name]] — concepts/your-karpathy-file-name.md
 

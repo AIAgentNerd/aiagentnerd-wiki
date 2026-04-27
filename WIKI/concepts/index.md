@@ -4,6 +4,10 @@
 
 - [[auto-test]] — concepts/auto-test.md
 
+## Compile
+
+- [[test-compile]] — concepts/test-compile.md
+
 ## Empty
 
 - [[empty-test]] — concepts/empty-test.md

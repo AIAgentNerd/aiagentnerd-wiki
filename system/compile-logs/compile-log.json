@@ -181,5 +181,12 @@
     "rawPath": "test/quality-test.md",
     "wikiPath": "architecture/quality-test.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-27T16:34:16.246Z",
+    "action": "compile_system_raw",
+    "rawPath": "test-compile.md",
+    "wikiPath": "concepts/test-compile.md",
+    "result": "success"
   }
 ]

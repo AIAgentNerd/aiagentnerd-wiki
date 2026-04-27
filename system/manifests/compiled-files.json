@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-25T14:33:16.228Z",
+  "updatedAt": "2026-04-27T16:34:16.258Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -97,6 +97,14 @@
       "compiledAt": "2026-04-25T14:01:41.704Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/quality-test.md",
       "gitCommitted": true
+    },
+    "test-compile.md": {
+      "rawPath": "test-compile.md",
+      "wikiPath": "concepts/test-compile.md",
+      "rawHash": "2f81ef4979eca8b697b355b10eaa604f8df4816bdf7d4e2b5baca452ecebbd5a",
+      "compiledAt": "2026-04-27T16:34:16.246Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/test-compile.md",
+      "gitCommitted": false
     }
   }
 }
