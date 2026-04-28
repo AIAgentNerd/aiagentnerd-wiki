@@ -223,5 +223,19 @@
     "rawPath": "openwebui/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
     "wikiPath": "infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-28T19:49:58.208Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+    "wikiPath": "infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-28T19:50:22.459Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+    "wikiPath": "infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+    "result": "success"
   }
 ]
