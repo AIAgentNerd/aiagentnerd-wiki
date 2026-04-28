@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-27T16:34:16.258Z",
+  "updatedAt": "2026-04-28T03:42:20.367Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -104,6 +104,30 @@
       "rawHash": "2f81ef4979eca8b697b355b10eaa604f8df4816bdf7d4e2b5baca452ecebbd5a",
       "compiledAt": "2026-04-27T16:34:16.246Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/test-compile.md",
+      "gitCommitted": true
+    },
+    "openwebui/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md": {
+      "rawPath": "openwebui/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md",
+      "wikiPath": "infrastructure/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md",
+      "rawHash": "a11fb11b4221056a741efc63d152010b95693d25920f575877311edb60f11b48",
+      "compiledAt": "2026-04-28T03:39:54.256Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md",
+      "gitCommitted": false
+    },
+    "openwebui/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md": {
+      "rawPath": "openwebui/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md",
+      "wikiPath": "infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md",
+      "rawHash": "dbab6372ff17470e335a81cc5e2bf875b766b08f06e8722737a03401aaccd3d7",
+      "compiledAt": "2026-04-28T03:41:17.938Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md",
+      "gitCommitted": false
+    },
+    "openwebui/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md": {
+      "rawPath": "openwebui/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
+      "wikiPath": "infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
+      "rawHash": "71e76c26c0cafb23056b8e8f74a8de1c9e3047d8d7339d0f2ce848f631debdf6",
+      "compiledAt": "2026-04-28T03:42:20.363Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
       "gitCommitted": false
     }
   }

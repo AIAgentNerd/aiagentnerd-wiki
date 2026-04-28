@@ -188,5 +188,26 @@
     "rawPath": "test-compile.md",
     "wikiPath": "concepts/test-compile.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-28T03:39:54.256Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md",
+    "wikiPath": "infrastructure/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-28T03:41:17.938Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md",
+    "wikiPath": "infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-28T03:42:20.363Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
+    "wikiPath": "infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
+    "result": "success"
   }
 ]

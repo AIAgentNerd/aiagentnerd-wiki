@@ -30,11 +30,14 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 
 - [[backlink-test]] — infrastructure/backlink-test.md
 - [[cloudflare-network]] — infrastructure/cloudflare-network.md
+- [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — infrastructure/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
 - [[git-obsidian-setup]] — infrastructure/git-obsidian-setup.md
 - [[hermes-setup]] — infrastructure/hermes-setup.md
 - [[index]] — infrastructure/index.md
+- [[kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560]] — infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md
 - [[Networking Ports and IPs]] — infrastructure/Networking Ports and IPs.md
 - [[ssh-ports]] — infrastructure/ssh-ports.md
+- [[system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb]] — infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md
 - [[test-nginx]] — infrastructure/test-nginx.md
 
 ## Services
