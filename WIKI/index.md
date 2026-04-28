@@ -36,9 +36,11 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[index]] — infrastructure/index.md
 - [[kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560]] — infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md
 - [[Networking Ports and IPs]] — infrastructure/Networking Ports and IPs.md
+- [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
 - [[ssh-ports]] — infrastructure/ssh-ports.md
 - [[system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb]] — infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md
 - [[test-nginx]] — infrastructure/test-nginx.md
+- [[vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903]] — infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md
 
 ## Services
 

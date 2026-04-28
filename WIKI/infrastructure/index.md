@@ -34,6 +34,14 @@
 
 - [[system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb]] — infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md
 
+## Fill
+
+- [[vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903]] — infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md
+
+## Fun
+
+- [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
+
 ## Functionality
 
 - [[system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb]] — infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md
@@ -41,6 +49,10 @@
 ## General
 
 - [[git-obsidian-setup]] — infrastructure/git-obsidian-setup.md
+
+## Gladiator
+
+- [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
 
 ## Hermes
 
@@ -71,6 +83,14 @@
 
 - [[ssh-ports]] — infrastructure/ssh-ports.md
 
+## Practice
+
+- [[vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903]] — infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md
+
+## Roman
+
+- [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
+
 ## Setup
 
 - [[hermes-setup]] — infrastructure/hermes-setup.md
@@ -83,6 +103,10 @@
 ## System
 
 - [[Networking Ports and IPs]] — infrastructure/Networking Ports and IPs.md
+
+## Vocabulary
+
+- [[vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903]] — infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md
 
 ## Wiki
 

@@ -209,5 +209,19 @@
     "rawPath": "openwebui/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
     "wikiPath": "infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-28T06:20:06.048Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+    "wikiPath": "infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-28T06:21:10.019Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+    "wikiPath": "infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+    "result": "success"
   }
 ]

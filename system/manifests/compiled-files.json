@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T03:42:20.367Z",
+  "updatedAt": "2026-04-28T06:21:10.022Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -112,7 +112,7 @@
       "rawHash": "a11fb11b4221056a741efc63d152010b95693d25920f575877311edb60f11b48",
       "compiledAt": "2026-04-28T03:39:54.256Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "openwebui/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md": {
       "rawPath": "openwebui/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md",
@@ -120,7 +120,7 @@
       "rawHash": "dbab6372ff17470e335a81cc5e2bf875b766b08f06e8722737a03401aaccd3d7",
       "compiledAt": "2026-04-28T03:41:17.938Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "openwebui/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md": {
       "rawPath": "openwebui/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
@@ -128,6 +128,22 @@
       "rawHash": "71e76c26c0cafb23056b8e8f74a8de1c9e3047d8d7339d0f2ce848f631debdf6",
       "compiledAt": "2026-04-28T03:42:20.363Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
+      "gitCommitted": true
+    },
+    "openwebui/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md": {
+      "rawPath": "openwebui/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+      "wikiPath": "infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+      "rawHash": "c5c65869ee58e03c783199ffecd214f3b9f9dd537e23576665dc90b024a8db92",
+      "compiledAt": "2026-04-28T06:20:06.048Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+      "gitCommitted": false
+    },
+    "openwebui/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md": {
+      "rawPath": "openwebui/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+      "wikiPath": "infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+      "rawHash": "db7c20f9384f871432a954b12f6ef0a3839760a43ad4741bb877f758f308f745",
+      "compiledAt": "2026-04-28T06:21:10.019Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
       "gitCommitted": false
     }
   }
