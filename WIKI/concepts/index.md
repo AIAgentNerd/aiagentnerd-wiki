@@ -8,6 +8,10 @@
 
 - [[test-compile]] — concepts/test-compile.md
 
+## Deck
+
+- [[deck]] — concepts/deck.md
+
 ## Empty
 
 - [[empty-test]] — concepts/empty-test.md
@@ -16,6 +20,14 @@
 
 - [[llm-wiki]] — concepts/llm-wiki.md
 - [[Topic brains]] — concepts/Topic brains.md
+
+## Hermes
+
+- [[deck]] — concepts/deck.md
+
+## Queue
+
+- [[deck]] — concepts/deck.md
 
 ## System
 

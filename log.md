@@ -54,3 +54,18 @@
 - target: concepts/deck.md
 - result: success
 
+
+## 2026-04-29T14:59:36.965Z
+- action: compile_raw
+- source: concepts/deck.md
+- target: concepts/deck.md
+- result: success
+
+
+## 2026-04-29T15:02:35.974Z
+- action: compile_raw
+- source: concepts/deck.md
+- target: concepts/deck.md
+- result: failure
+- error: OpenRouter response truncated for deepseek/deepseek-v4-pro
+
