@@ -1,6 +1,6 @@
 # Deck
 
-Deck is the control interface of AiAgentNerd (formerly referred to as ACR).
+Deck is the control interface of AiAgentNerd (previous internal name).
 
 It is the central place to:
 - visualize agents

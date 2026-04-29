@@ -251,5 +251,13 @@
     "rawPath": "concepts/deck.md",
     "wikiPath": "apps/deck.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-29T14:39:13.992Z",
+    "action": "compile_system_raw",
+    "rawPath": "concepts/deck.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "OpenRouter response truncated for deepseek/deepseek-v4-pro"
   }
 ]

@@ -10,17 +10,25 @@ tags: [aiagentnerd, compiled, concepts, deck]
 # Concepts Deck
 
 ## Summary
-Deck is the primary control interface for the AiAgentNerd multi-agent system, previously known as the Agent Control Room (ACR). It centralizes agent visualization, task monitoring, user management, and system activity observation, providing a single operational dashboard for the system operator.
+Deck is the primary control interface for the AiAgentNerd multi-agent system.
+
+It provides a unified operational view to visualize agents, monitor tasks, manage users, and observe real-time system activity.
+
+The design follows a ship metaphor:
+- AiAgentNerd = the ship
+- Deck = the control surface
+- agents = the crew
+- tasks = missions
+- activity feed = the ship log
+- system monitoring = ship status
 
 ## Key Concepts
-- **Deck**: The rebranded control interface of AiAgentNerd, replacing the earlier ACR name.
-- **Centralized oversight**: Single interface for seeing agents, tasks, users, and system logs.
-- **Four core functions**:
-  - Visualize agents
-  - Monitor tasks
-  - Manage users
-  - Observe system activity
-- **Metaphor**: AiAgentNerd as a ship; Deck is the control surface where the operator commands the crew (agents) and tracks missions (tasks) via the ship log (activity feed).
+- **Deck**: Central control interface for the AiAgentNerd system
+- **Centralized oversight**: Single interface for agents, tasks, users, and system activity
+- **Agent visualization**: Real-time view of all agents and their status
+- **Task monitoring**: Active and queued task tracking
+- **User management**: Control of system users and permissions
+- **System activity**: Chronological event stream (ship log)
 
 ## Practical Use
 - Operators use Deck to monitor agent status, task progress, and system health in real time.
