@@ -17,7 +17,6 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 
 - [[aiagentnerd-master-notes]] — concepts/aiagentnerd-master-notes.md
 - [[auto-test]] — concepts/auto-test.md
-- [[deck]] — concepts/deck.md
 - [[empty-test]] — concepts/empty-test.md
 - [[index]] — concepts/index.md
 - [[karpathy-llm-wiki]] — concepts/karpathy-llm-wiki.md
