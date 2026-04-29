@@ -17,5 +17,5 @@ Metaphor:
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/concepts/deck]]
-- Last compiled: 2026-04-29T13:53:16.388Z
+- WIKI: [[WIKI/apps/deck]]
+- Last compiled: 2026-04-29T13:55:00.746Z

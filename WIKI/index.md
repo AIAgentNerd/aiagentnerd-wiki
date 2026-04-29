@@ -10,6 +10,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 ## Apps
 
 - [[acr]] — apps/acr.md
+- [[deck]] — apps/deck.md
 - [[index]] — apps/index.md
 - [[x-post-app]] — apps/x-post-app.md
 
@@ -18,6 +19,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[acr]] — concepts/acr.md
 - [[aiagentnerd-master-notes]] — concepts/aiagentnerd-master-notes.md
 - [[auto-test]] — concepts/auto-test.md
+- [[deck]] — concepts/deck.md
 - [[empty-test]] — concepts/empty-test.md
 - [[index]] — concepts/index.md
 - [[karpathy-llm-wiki]] — concepts/karpathy-llm-wiki.md

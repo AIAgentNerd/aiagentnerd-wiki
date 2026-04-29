@@ -244,5 +244,12 @@
     "rawPath": "concepts/acr.md",
     "wikiPath": "apps/acr.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-29T13:55:00.746Z",
+    "action": "compile_system_raw",
+    "rawPath": "concepts/deck.md",
+    "wikiPath": "apps/deck.md",
+    "result": "success"
   }
 ]
