@@ -53,8 +53,4 @@ Deck acts as:
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/concepts/deck]]
-- Last compiled: 2026-04-29T14:59:36.965Z
-
-## Related
-- [[apps/deck]]
-- [[aiagentnerd-master-notes]]
+- Last compiled: 2026-04-29T15:07:37.267Z
