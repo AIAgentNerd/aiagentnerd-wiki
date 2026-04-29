@@ -27,11 +27,8 @@ Deck is the primary control interface for the AiAgentNerd multi-agent system. It
 - Deck is implemented as a web-based dashboard; technical details are documented in the [[apps/deck]] app note.
 
 ## Related
-- [[deck]]
-- [[deck]]
+- [[apps/deck]]
 - [[aiagentnerd-master-notes]]
-- [[auto-test]]
-- [[empty-test]]
 
 ## Source
 - RAW: [[RAW/concepts/deck]]

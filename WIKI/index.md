@@ -30,6 +30,9 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 
 ## Infrastructure
 
+- [[acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa]] — infrastructure/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md
+- [[acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812]] — infrastructure/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md
+- [[agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca]] — infrastructure/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md
 - [[backlink-test]] — infrastructure/backlink-test.md
 - [[cloudflare-network]] — infrastructure/cloudflare-network.md
 - [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — infrastructure/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md

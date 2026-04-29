@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T15:03:24.775Z",
+  "updatedAt": "2026-04-29T19:52:37.182Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -133,18 +133,18 @@
     "openwebui/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md": {
       "rawPath": "openwebui/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
       "wikiPath": "infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
-      "rawHash": "3ebc9025af9548a8988e3883af4fd2ce569bfc30700d462061ecf52db397bc72",
-      "compiledAt": "2026-04-28T19:49:58.208Z",
+      "rawHash": "39eb48afc45cef40720d4c9d35f87ae335764bba1f7ce9ea126d50aeccb58f60",
+      "compiledAt": "2026-04-29T19:51:51.530Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
-      "gitCommitted": true
+      "gitCommitted": false
     },
     "openwebui/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md": {
       "rawPath": "openwebui/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
       "wikiPath": "infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
-      "rawHash": "d3efab18a1b13aa9ada781ef6117776f271c121eb1a2e0b266799ec9feec6443",
-      "compiledAt": "2026-04-28T19:50:22.459Z",
+      "rawHash": "ade8b78db0c79b6905f164ee2f5999e8953078a39f4276c3962a536eebe116cc",
+      "compiledAt": "2026-04-29T19:52:37.179Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
-      "gitCommitted": true
+      "gitCommitted": false
     },
     "concepts/acr.md": {
       "rawPath": "concepts/acr.md",
@@ -161,6 +161,30 @@
       "compiledAt": "2026-04-29T14:54:46.256Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/deck.md",
       "gitCommitted": true
+    },
+    "openwebui/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md": {
+      "rawPath": "openwebui/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md",
+      "wikiPath": "infrastructure/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md",
+      "rawHash": "dc1579ec3b0df84238ad7280c4942bc01a02ef12365cf9363050a8fcefac227b",
+      "compiledAt": "2026-04-29T19:49:19.750Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md",
+      "gitCommitted": false
+    },
+    "openwebui/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md": {
+      "rawPath": "openwebui/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
+      "wikiPath": "infrastructure/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
+      "rawHash": "d423e0af87dba236a2cb523049d9c0e9b83df281fc3f9ab2db8d425d4d9ba5f3",
+      "compiledAt": "2026-04-29T19:50:39.252Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
+      "gitCommitted": false
+    },
+    "openwebui/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md": {
+      "rawPath": "openwebui/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md",
+      "wikiPath": "infrastructure/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md",
+      "rawHash": "395063fffefd97e4c0e919de231e8479cbfd4821adb29d45f22aa59755ac3d0b",
+      "compiledAt": "2026-04-29T19:51:20.304Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md",
+      "gitCommitted": false
     }
   }
 }
