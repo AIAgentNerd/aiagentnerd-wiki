@@ -237,5 +237,12 @@
     "rawPath": "openwebui/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
     "wikiPath": "infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-29T07:40:47.575Z",
+    "action": "compile_system_raw",
+    "rawPath": "concepts/acr.md",
+    "wikiPath": "apps/acr.md",
+    "result": "success"
   }
 ]

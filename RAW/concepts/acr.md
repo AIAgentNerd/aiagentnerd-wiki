@@ -20,5 +20,5 @@ ACR consists of:
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/concepts/acr]]
-- Last compiled: 2026-04-29T07:40:42.742Z
+- WIKI: [[WIKI/apps/acr]]
+- Last compiled: 2026-04-29T07:40:47.575Z

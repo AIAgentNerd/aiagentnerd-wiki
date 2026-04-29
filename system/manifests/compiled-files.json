@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T19:50:26.191Z",
+  "updatedAt": "2026-04-29T07:40:47.578Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -145,6 +145,14 @@
       "compiledAt": "2026-04-28T19:50:22.459Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
       "gitCommitted": true
+    },
+    "concepts/acr.md": {
+      "rawPath": "concepts/acr.md",
+      "wikiPath": "apps/acr.md",
+      "rawHash": "44d85fb08ad58a994ba1c5362dde55372d6597c8c1350544a58071f144d7272d",
+      "compiledAt": "2026-04-29T07:40:47.575Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/apps/acr.md",
+      "gitCommitted": false
     }
   }
 }

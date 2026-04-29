@@ -40,3 +40,10 @@
 - result: failure
 - error: RAW file not found: /home/nerd/aiagentnerd-wiki/RAW/web\Networking Ports and IPs.md
 
+
+## 2026-04-29T07:40:42.742Z
+- action: compile_raw
+- source: concepts/acr.md
+- target: concepts/acr.md
+- result: success
+
