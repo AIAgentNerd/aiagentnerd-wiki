@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T14:33:24.777Z",
+  "updatedAt": "2026-04-29T14:44:00.215Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -157,10 +157,10 @@
     "concepts/deck.md": {
       "rawPath": "concepts/deck.md",
       "wikiPath": "apps/deck.md",
-      "rawHash": "e6d75243dab7bba1b74d9e4458e2b731754bdf3316d31e5373376a3cad44fdd0",
-      "compiledAt": "2026-04-29T13:55:00.746Z",
+      "rawHash": "bd431c82f7c1ebe2e0690ad86698c944d38ce236b58999aa3e2f27bbfc3bff5d",
+      "compiledAt": "2026-04-29T14:44:00.211Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/apps/deck.md",
-      "gitCommitted": true
+      "gitCommitted": false
     }
   }
 }
