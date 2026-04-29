@@ -1,9 +1,5 @@
 # Apps
 
-## Acr
-
-- [[acr]] — apps/acr.md
-
 ## Deck
 
 - [[deck]] — apps/deck.md

@@ -1,9 +1,5 @@
 # Concepts
 
-## Acr
-
-- [[acr]] — concepts/acr.md
-
 ## Auto
 
 - [[auto-test]] — concepts/auto-test.md
