@@ -69,3 +69,10 @@
 - result: failure
 - error: OpenRouter response truncated for deepseek/deepseek-v4-pro
 
+
+## 2026-04-29T15:07:37.267Z
+- action: compile_raw
+- source: concepts/deck.md
+- target: concepts/deck.md
+- result: success
+
