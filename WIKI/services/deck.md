@@ -2,7 +2,7 @@
 title: Concepts Deck
 source_raw: RAW/concepts/deck.md
 compiled_wiki_path: WIKI/services/deck.md
-compiled_at: 2026-04-29T14:54:14.562Z
+compiled_at: 2026-04-29T14:54:46.256Z
 type: system-note
 tags: [aiagentnerd, compiled, services, deck, queue, hermes]
 ---
@@ -10,24 +10,20 @@ tags: [aiagentnerd, compiled, services, deck, queue, hermes]
 # Concepts Deck
 
 ## Summary
-Deck is the primary control interface for the AiAgentNerd multi-agent system. It unifies agent visualization, task monitoring, user management, and real-time system activity logs into a single operational surface. As the visualization layer of Hermes task execution, it serves as the operator’s entry point into the system.
+Deck is the primary control interface for the AiAgentNerd multi-agent system. It provides a unified operational view to visualize agents, monitor tasks, manage users, and observe real-time system activity. The interface uses a ship metaphor where AiAgentNerd is the ship, Deck is the control surface, agents are the crew, tasks are missions, the activity feed is the ship log, and system monitoring represents ship status.
 
 ## Key Concepts
-- **Ship metaphor**: AiAgentNerd = the ship, Deck = the control interface, agents = crew, tasks = missions, activity feed = the ship log, system monitoring = ship status.
-- **Agent visualization**: Real-time display of all agents and their current status.
-- **Task monitoring**: Tracking of active and queued tasks.
-- **User management**: Control over users and permissions.
-- **System activity observation**: Chronological event stream of all system actions.
+- **Ship metaphor**: AiAgentNerd = ship, Deck = control interface, agents = crew, tasks = missions, activity feed = ship log, system monitoring = ship status.
+- **Core functions**: Agent visualization, task monitoring, user management, system activity observation.
+- **Role**: Primary control interface, visualization layer of Hermes task execution, operator’s entry point.
 
 ## Practical Use
-Deck is used as the day‑to‑day operational interface for the AiAgentNerd system. Operators interact with it to:
-- View which agents are online, what they are currently doing, and their health.
-- See active and queued tasks, including their owners and statuses.
-- Manage system users and permissions.
-- Inspect the chronological activity log to understand what happened when and to diagnose issues.
+- Operators use Deck to monitor agent status, track active and queued tasks, manage users and permissions, and observe chronological system events.
+- Deck serves as the central dashboard for real-time system oversight.
 
 ## Implementation Notes
-Deck is tightly integrated with the Hermes orchestration layer; it acts as the visualization surface for Hermes task execution. The RAW note does not specify the technology stack, endpoints, or deployment details beyond its role.
+- Deck is a conceptual interface; its concrete implementation is defined in the Deck application specification.
+- The interface is designed to be the visualization layer for Hermes task execution.
 
 ## Related
 - [[hermes-setup]]

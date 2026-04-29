@@ -53,4 +53,4 @@ Deck acts as:
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/services/deck]]
-- Last compiled: 2026-04-29T14:54:14.562Z
+- Last compiled: 2026-04-29T14:54:46.256Z
