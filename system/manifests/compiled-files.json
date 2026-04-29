@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T19:50:22.461Z",
+  "updatedAt": "2026-04-28T19:50:26.191Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -136,7 +136,7 @@
       "rawHash": "3ebc9025af9548a8988e3883af4fd2ce569bfc30700d462061ecf52db397bc72",
       "compiledAt": "2026-04-28T19:49:58.208Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "openwebui/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md": {
       "rawPath": "openwebui/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
@@ -144,7 +144,7 @@
       "rawHash": "d3efab18a1b13aa9ada781ef6117776f271c121eb1a2e0b266799ec9feec6443",
       "compiledAt": "2026-04-28T19:50:22.459Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
-      "gitCommitted": false
+      "gitCommitted": true
     }
   }
 }
