@@ -266,5 +266,12 @@
     "rawPath": "concepts/deck.md",
     "wikiPath": "apps/deck.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-29T14:54:14.562Z",
+    "action": "compile_system_raw",
+    "rawPath": "concepts/deck.md",
+    "wikiPath": "services/deck.md",
+    "result": "success"
   }
 ]

@@ -2,38 +2,94 @@
 title: Concepts Deck
 source_raw: RAW/concepts/deck.md
 compiled_wiki_path: WIKI/apps/deck.md
-compiled_at: 2026-04-29T14:44:00.211Z
+compiled_at: 2026-04-29T13:55:00.746Z
 type: system-note
 tags: [aiagentnerd, compiled, apps, deck]
 ---
 
 # Concepts Deck
 
+# App: Deck
+
 ## Summary
-Deck is the central control interface for the AiAgentNerd system, designed to unify agent visualization, task monitoring, user management, and activity observation. It follows a ship metaphor where Deck represents the bridge from which operations are coordinated.
+Deck is the operational interface of AiAgentNerd used to monitor, manage, and interact with the multi-agent system in real time.
 
-## Key Concepts
-- **Deck**: The primary operational dashboard for the multi‑agent system
-- **Agent visualization**: View all agents and their statuses
-- **Task monitoring**: Track active, queued, and completed tasks
-- **User management**: Administer system users and permissions
-- **Activity observation**: Chronological feed of system events and agent actions
-- **Ship metaphor**: `AiAgentNerd` = ship, `Deck` = control surface, `agents` = crew, `tasks` = missions, `activity` = ship log
+It is implemented as a web-based internal dashboard accessible via:
+deck.aiagentnerd.com
 
-## Practical Use
-- Operators use Deck to get a single‑pane‑of‑glass view of the entire agent system
-- It consolidates monitoring, reducing the need to inspect multiple logs or databases
-- Likely provides manual intervention capabilities such as starting, stopping, or reconfiguring agent operations
+---
 
-## Implementation Notes
-- No technical architecture is detailed in the source note
-- Presumes a web‑based internal dashboard with panels for agents, tasks, users, and an activity feed
-- Requires integration with the backend agent orchestration and task execution layers
-- Probably depends on real‑time updates (WebSockets or polling) to reflect live state
+## Core Layout
+
+Deck is a single-page dashboard composed of five main panels:
+
+1. **User Panel**
+   - Displays system users
+   - Shows active task counts per user
+   - Allows filtering by user
+
+2. **Agent Office View**
+   - Visual representation of all agents (crew)
+   - Shows current task, status, and model
+   - Primary interaction area
+
+3. **Task Panel**
+   - Lists active and queued tasks
+   - Displays task ID, type, user, status
+   - Allows admin control (stop/retry)
+
+4. **Activity Feed (Ship Log)**
+   - Chronological log of system events
+   - Agent actions, task updates, errors
+
+5. **System Monitoring Panel**
+   - CPU, memory, and system health
+   - Alerts and runtime status
+
+---
+
+## Data Model (Simplified)
+
+Deck consumes structured data:
+
+- users[]
+- agents[]
+- tasks[]
+- activity[]
+- system_status
+
+---
+
+## Interaction Model
+
+- Click agent → view current task
+- Click user → filter tasks
+- Click task → open task details
+- Admin controls → stop / retry tasks
+
+---
+
+## Real-Time Behavior
+
+Deck updates via:
+
+- polling or WebSocket
+- live task updates
+- agent state changes
+- activity stream updates
+
+---
+
+## Role in System
+
+Deck acts as:
+
+- the primary control interface for AiAgentNerd
+- the visualization layer of Hermes task execution
+- the operator’s entry point into the system
 
 ## Related
-- [[deck]]
-- [[x-post-app]]
+- [[concepts/deck]]
 
 ## Source
 - RAW: [[RAW/concepts/deck]]

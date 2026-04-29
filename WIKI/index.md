@@ -46,6 +46,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 
 ## Services
 
+- [[deck]] — services/deck.md
 - [[hermes-setup]] — services/hermes-setup.md
 - [[index]] — services/index.md
 
