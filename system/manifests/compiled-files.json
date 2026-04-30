@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T09:41:06.016Z",
+  "updatedAt": "2026-04-30T10:03:56.888Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -297,6 +297,70 @@
       "compiledAt": "2026-04-30T09:41:02.515Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/2026-04-30T09-34-36-567Z-d73099b8-3211-482e-9359-93eff9d39801.md",
       "gitCommitted": true
+    },
+    "architecture/cloudflare-network.md": {
+      "rawPath": "architecture/cloudflare-network.md",
+      "wikiPath": "infrastructure/cloudflare-network.md",
+      "rawHash": "49cabbc89b9149abc6b407e6f8e8eaa766287c99786fd80d1583f680e0760777",
+      "compiledAt": "2026-04-30T09:58:45.860Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/cloudflare-network.md",
+      "gitCommitted": false
+    },
+    "quarantine/openwebui-random/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md": {
+      "rawPath": "quarantine/openwebui-random/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md",
+      "wikiPath": "infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md",
+      "rawHash": "dbab6372ff17470e335a81cc5e2bf875b766b08f06e8722737a03401aaccd3d7",
+      "compiledAt": "2026-04-30T09:59:21.092Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md",
+      "gitCommitted": false
+    },
+    "quarantine/openwebui-random/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md": {
+      "rawPath": "quarantine/openwebui-random/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+      "wikiPath": "infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+      "rawHash": "39eb48afc45cef40720d4c9d35f87ae335764bba1f7ce9ea126d50aeccb58f60",
+      "compiledAt": "2026-04-30T10:01:04.747Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+      "gitCommitted": false
+    },
+    "quarantine/openwebui-random/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md": {
+      "rawPath": "quarantine/openwebui-random/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
+      "wikiPath": "infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
+      "rawHash": "71e76c26c0cafb23056b8e8f74a8de1c9e3047d8d7339d0f2ce848f631debdf6",
+      "compiledAt": "2026-04-30T10:01:29.221Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
+      "gitCommitted": false
+    },
+    "quarantine/openwebui-random/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md": {
+      "rawPath": "quarantine/openwebui-random/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+      "wikiPath": "infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+      "rawHash": "ade8b78db0c79b6905f164ee2f5999e8953078a39f4276c3962a536eebe116cc",
+      "compiledAt": "2026-04-30T10:02:09.498Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+      "gitCommitted": false
+    },
+    "setup/hermes-setup.md": {
+      "rawPath": "setup/hermes-setup.md",
+      "wikiPath": "infrastructure/hermes-setup.md",
+      "rawHash": "e0f997266f16caf57aca61de3932dfa03708486969b8fe1335d29e5ebad71f88",
+      "compiledAt": "2026-04-30T10:02:42.733Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/hermes-setup.md",
+      "gitCommitted": false
+    },
+    "setup/ssh-ports.md": {
+      "rawPath": "setup/ssh-ports.md",
+      "wikiPath": "infrastructure/ssh-ports.md",
+      "rawHash": "69b8fc3b84c8eec483cab08062095596653795c77461096c82b75766f13a3993",
+      "compiledAt": "2026-04-30T10:03:25.666Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/ssh-ports.md",
+      "gitCommitted": false
+    },
+    "setup/test-nginx.md": {
+      "rawPath": "setup/test-nginx.md",
+      "wikiPath": "infrastructure/test-nginx.md",
+      "rawHash": "e31978c77cc2e51ae9922a52a0060c2c81420dc3f75fd2cb143c004ff478b11c",
+      "compiledAt": "2026-04-30T10:03:56.885Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/test-nginx.md",
+      "gitCommitted": false
     }
   }
 }

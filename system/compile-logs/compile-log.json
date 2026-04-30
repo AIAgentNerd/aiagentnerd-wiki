@@ -413,5 +413,61 @@
     "rawPath": "aionui/2026-04-30T09-34-36-567Z-d73099b8-3211-482e-9359-93eff9d39801.md",
     "wikiPath": "infrastructure/2026-04-30T09-34-36-567Z-d73099b8-3211-482e-9359-93eff9d39801.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-30T09:58:45.860Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/cloudflare-network.md",
+    "wikiPath": "infrastructure/cloudflare-network.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-30T09:59:21.092Z",
+    "action": "compile_system_raw",
+    "rawPath": "quarantine/openwebui-random/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md",
+    "wikiPath": "infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-30T10:01:04.747Z",
+    "action": "compile_system_raw",
+    "rawPath": "quarantine/openwebui-random/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+    "wikiPath": "infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-30T10:01:29.221Z",
+    "action": "compile_system_raw",
+    "rawPath": "quarantine/openwebui-random/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
+    "wikiPath": "infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-30T10:02:09.498Z",
+    "action": "compile_system_raw",
+    "rawPath": "quarantine/openwebui-random/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+    "wikiPath": "infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-30T10:02:42.733Z",
+    "action": "compile_system_raw",
+    "rawPath": "setup/hermes-setup.md",
+    "wikiPath": "infrastructure/hermes-setup.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-30T10:03:25.666Z",
+    "action": "compile_system_raw",
+    "rawPath": "setup/ssh-ports.md",
+    "wikiPath": "infrastructure/ssh-ports.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-30T10:03:56.885Z",
+    "action": "compile_system_raw",
+    "rawPath": "setup/test-nginx.md",
+    "wikiPath": "infrastructure/test-nginx.md",
+    "result": "success"
   }
 ]
