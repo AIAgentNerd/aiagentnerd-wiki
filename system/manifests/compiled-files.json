@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T10:03:56.888Z",
+  "updatedAt": "2026-04-30T15:36:31.390Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -360,6 +360,14 @@
       "rawHash": "e31978c77cc2e51ae9922a52a0060c2c81420dc3f75fd2cb143c004ff478b11c",
       "compiledAt": "2026-04-30T10:03:56.885Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/test-nginx.md",
+      "gitCommitted": false
+    },
+    "architecture/knowledge-ingestion-system.md": {
+      "rawPath": "architecture/knowledge-ingestion-system.md",
+      "wikiPath": "architecture/knowledge-ingestion-system.md",
+      "rawHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "compiledAt": "2026-04-30T15:36:31.388Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/knowledge-ingestion-system.md",
       "gitCommitted": false
     }
   }

@@ -469,5 +469,12 @@
     "rawPath": "setup/test-nginx.md",
     "wikiPath": "infrastructure/test-nginx.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-30T15:36:31.388Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/knowledge-ingestion-system.md",
+    "wikiPath": "architecture/knowledge-ingestion-system.md",
+    "result": "success"
   }
 ]
