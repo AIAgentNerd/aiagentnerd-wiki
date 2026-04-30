@@ -21,4 +21,4 @@ Gladiators were often organized by weight class, experience, and fighting styleâ
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]]
-- Last compiled: 2026-04-29T19:51:51.530Z
+- Last compiled: 2026-04-30T10:01:04.747Z
