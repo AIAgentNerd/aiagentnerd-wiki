@@ -30,6 +30,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 
 ## Infrastructure
 
+- [[2026-04-30T08-30-54-915Z-d7c30494-822a-41c3-adb3-06da55b35bf0]] — infrastructure/2026-04-30T08-30-54-915Z-d7c30494-822a-41c3-adb3-06da55b35bf0.md
 - [[acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa]] — infrastructure/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md
 - [[acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812]] — infrastructure/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md
 - [[agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca]] — infrastructure/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md
@@ -49,6 +50,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 
 ## Services
 
+- [[2026-04-30T08-30-18-226Z-65efff25-9cba-4604-a909-a687e9942c3f]] — services/2026-04-30T08-30-18-226Z-65efff25-9cba-4604-a909-a687e9942c3f.md
 - [[deck]] — services/deck.md
 - [[hermes-setup]] — services/hermes-setup.md
 - [[index]] — services/index.md
