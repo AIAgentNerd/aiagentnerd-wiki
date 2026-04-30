@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T08:56:44.212Z",
+  "updatedAt": "2026-04-30T09:03:16.492Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -232,6 +232,22 @@
       "rawHash": "ac77cfe4dd41194a6cc4125f01db03371e207e448e030e2b85582c91514e6b3f",
       "compiledAt": "2026-04-30T08:56:44.209Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/2026-04-30T08-51-14-687Z-d2728295-9c71-4142-a139-19f9435a37e5.md",
+      "gitCommitted": true
+    },
+    "aionui/2026-04-30T09-00-33-283Z-1c438e8a-443d-417c-b853-a583b72d3dd0.md": {
+      "rawPath": "aionui/2026-04-30T09-00-33-283Z-1c438e8a-443d-417c-b853-a583b72d3dd0.md",
+      "wikiPath": "services/2026-04-30T09-00-33-283Z-1c438e8a-443d-417c-b853-a583b72d3dd0.md",
+      "rawHash": "bee05d5806bac84af77140fd0431b55a8013c94d24e9652b9a59cab94883c52d",
+      "compiledAt": "2026-04-30T09:02:41.735Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/2026-04-30T09-00-33-283Z-1c438e8a-443d-417c-b853-a583b72d3dd0.md",
+      "gitCommitted": false
+    },
+    "aionui/2026-04-30T09-01-11-903Z-bf936f1b-feb5-4309-89ad-c80b20c5a78b.md": {
+      "rawPath": "aionui/2026-04-30T09-01-11-903Z-bf936f1b-feb5-4309-89ad-c80b20c5a78b.md",
+      "wikiPath": "services/2026-04-30T09-01-11-903Z-bf936f1b-feb5-4309-89ad-c80b20c5a78b.md",
+      "rawHash": "5823069350e7ff70b5b645fc62fb4f8cfb34d5c7ee15b5dcb34a2a0e1d22df69",
+      "compiledAt": "2026-04-30T09:03:16.488Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/2026-04-30T09-01-11-903Z-bf936f1b-feb5-4309-89ad-c80b20c5a78b.md",
       "gitCommitted": false
     }
   }
