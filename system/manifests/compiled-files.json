@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T15:36:31.390Z",
+  "updatedAt": "2026-04-30T16:01:10.209Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -364,10 +364,10 @@
     },
     "architecture/knowledge-ingestion-system.md": {
       "rawPath": "architecture/knowledge-ingestion-system.md",
-      "wikiPath": "architecture/knowledge-ingestion-system.md",
-      "rawHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "compiledAt": "2026-04-30T15:36:31.388Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/knowledge-ingestion-system.md",
+      "wikiPath": "infrastructure/knowledge-ingestion-system.md",
+      "rawHash": "3a5526cfea92adeaa82c2f0719208ad1a61b24157ff01e05a8b727f98fb9f773",
+      "compiledAt": "2026-04-30T16:01:10.207Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/knowledge-ingestion-system.md",
       "gitCommitted": false
     }
   }

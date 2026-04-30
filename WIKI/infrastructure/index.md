@@ -66,6 +66,10 @@
 
 - [[git-obsidian-setup]] — infrastructure/git-obsidian-setup.md
 
+## Git
+
+- [[knowledge-ingestion-system]] — infrastructure/knowledge-ingestion-system.md
+
 ## Gladiator
 
 - [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
@@ -78,9 +82,17 @@
 
 - [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — infrastructure/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
 
+## Ingestion
+
+- [[knowledge-ingestion-system]] — infrastructure/knowledge-ingestion-system.md
+
 ## Kids
 
 - [[kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560]] — infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md
+
+## Knowledge
+
+- [[knowledge-ingestion-system]] — infrastructure/knowledge-ingestion-system.md
 
 ## Model
 

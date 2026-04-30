@@ -476,5 +476,12 @@
     "rawPath": "architecture/knowledge-ingestion-system.md",
     "wikiPath": "architecture/knowledge-ingestion-system.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-30T16:01:10.207Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/knowledge-ingestion-system.md",
+    "wikiPath": "infrastructure/knowledge-ingestion-system.md",
+    "result": "success"
   }
 ]

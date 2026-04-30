@@ -35,6 +35,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[hermes-setup]] — infrastructure/hermes-setup.md
 - [[index]] — infrastructure/index.md
 - [[kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560]] — infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md
+- [[knowledge-ingestion-system]] — infrastructure/knowledge-ingestion-system.md
 - [[Networking Ports and IPs]] — infrastructure/Networking Ports and IPs.md
 - [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
 - [[ssh-ports]] — infrastructure/ssh-ports.md
