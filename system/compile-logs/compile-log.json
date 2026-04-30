@@ -483,5 +483,48 @@
     "rawPath": "architecture/knowledge-ingestion-system.md",
     "wikiPath": "infrastructure/knowledge-ingestion-system.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-04-30T19:47:20.197Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md",
+    "wikiPath": "infrastructure/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-30T19:48:11.862Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "OpenRouter returned empty content for deepseek/deepseek-v4-pro"
+  },
+  {
+    "timestamp": "2026-04-30T19:48:38.885Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md",
+    "wikiPath": "infrastructure/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-30T19:49:41.432Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
+    "wikiPath": "infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-30T19:50:15.176Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+    "wikiPath": "infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-04-30T19:50:56.511Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+    "wikiPath": "infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+    "result": "success"
   }
 ]

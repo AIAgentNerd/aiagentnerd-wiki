@@ -4,6 +4,10 @@
 
 - [[system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb]] — infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md
 
+## A0406524
+
+- [[aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504]] — infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md
+
 ## Acr
 
 - [[acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa]] — infrastructure/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md
@@ -45,6 +49,10 @@
 ## Dashboard
 
 - [[acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa]] — infrastructure/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md
+
+## Deck
+
+- [[aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504]] — infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md
 
 ## E8f7
 
@@ -109,6 +117,7 @@
 ## Overview
 
 - [[acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812]] — infrastructure/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md
+- [[aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504]] — infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md
 
 ## Ports
 
