@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIKI/index.md",
+                "file": "WIKI/architecture/model-routing-reliability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "model-routing-reliability"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "1beed2ef81d1a2aa",
   "lastOpenFiles": [
+    "WIKI/index.md",
     "git.md",
     "INDEX.md",
     "log.md",
@@ -223,7 +224,6 @@
     "_archive/wiki-tests/test-compile.md",
     "_archive/wiki-tests/test-b.md",
     "_archive/wiki-tests/test-a.md",
-    "_archive/wiki-tests/empty-test.md",
     "_archive/raw-tests/test",
     "_archive/wiki-tests-leftover",
     "_archive/wiki-tests",
