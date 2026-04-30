@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T19:50:56.513Z",
+  "updatedAt": "2026-04-30T19:52:04.502Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -136,7 +136,7 @@
       "rawHash": "a2b116992fb3f79cc1fef9c47811b61f5ef4ab541bc589b4bc3eab05c4138afd",
       "compiledAt": "2026-04-30T19:50:15.176Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "openwebui/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md": {
       "rawPath": "openwebui/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
@@ -144,7 +144,7 @@
       "rawHash": "8f8ae7020ac112ad10700eb745e04d45f40af18459611995b255b5fb38a9c280",
       "compiledAt": "2026-04-30T19:50:56.511Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "concepts/acr.md": {
       "rawPath": "concepts/acr.md",
@@ -168,15 +168,15 @@
       "rawHash": "be45fd988ac13925038a387d1920a42dac49ad8d2115ad035dd102d9e82fa794",
       "compiledAt": "2026-04-30T19:47:20.197Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "openwebui/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md": {
       "rawPath": "openwebui/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
       "wikiPath": "infrastructure/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
-      "rawHash": "d423e0af87dba236a2cb523049d9c0e9b83df281fc3f9ab2db8d425d4d9ba5f3",
-      "compiledAt": "2026-04-29T19:50:39.252Z",
+      "rawHash": "420a5a95f485f0e2181cb7504332d1dda642ec16b19479d0bd249adec1fb3444",
+      "compiledAt": "2026-04-30T19:52:04.500Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
-      "gitCommitted": true
+      "gitCommitted": false
     },
     "openwebui/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md": {
       "rawPath": "openwebui/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md",
@@ -184,7 +184,7 @@
       "rawHash": "7c21f98e218e163dd3c39aef8b27cd653c1cdf340296caafaf068938b0ab5b4d",
       "compiledAt": "2026-04-30T19:48:38.885Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "aionui/2026-04-30T08-30-18-226Z-65efff25-9cba-4604-a909-a687e9942c3f.md": {
       "rawPath": "aionui/2026-04-30T08-30-18-226Z-65efff25-9cba-4604-a909-a687e9942c3f.md",
@@ -376,7 +376,7 @@
       "rawHash": "d0dbcaef9a23064bc8b9003f848eb3d13452a7c497ba871397c6d1fb8c89901c",
       "compiledAt": "2026-04-30T19:49:41.432Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
-      "gitCommitted": false
+      "gitCommitted": true
     }
   }
 }
