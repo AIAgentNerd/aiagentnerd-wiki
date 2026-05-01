@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01T16:52:48.899Z",
+  "updatedAt": "2026-05-01T16:52:52.718Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -406,7 +406,7 @@
       "rawPath": "architecture/hermes-knowledge-ingestion-system.md",
       "wikiPath": "services/hermes-knowledge-ingestion-system.md",
       "rawHash": "b15aa6ce876443ae224bbc02b87907eafb9db3c778e75556eb8d96e50494cd8f",
-      "compiledAt": "2026-05-01T16:52:48.895Z",
+      "compiledAt": "2026-05-01T16:52:52.713Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/hermes-knowledge-ingestion-system.md",
       "gitCommitted": false
     }

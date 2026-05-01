@@ -9,4 +9,4 @@ type: raw
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/services/hermes-knowledge-ingestion-system]]
-- Last compiled: 2026-05-01T16:52:48.895Z
+- Last compiled: 2026-05-01T16:52:52.713Z
