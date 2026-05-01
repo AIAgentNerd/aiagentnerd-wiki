@@ -18,6 +18,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[aiagentnerd-master-notes]] — concepts/aiagentnerd-master-notes.md
 - [[deck]] — concepts/deck.md
 - [[index]] — concepts/index.md
+- [[ingest-endpoint-test]] — concepts/ingest-endpoint-test.md
 - [[karpathy-llm-wiki]] — concepts/karpathy-llm-wiki.md
 - [[Karpathy-Style LLM Wiki]] — concepts/Karpathy-Style LLM Wiki.md
 - [[llm-wiki]] — concepts/llm-wiki.md

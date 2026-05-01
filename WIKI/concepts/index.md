@@ -4,6 +4,10 @@
 
 - [[deck]] — concepts/deck.md
 
+## Endpoint
+
+- [[ingest-endpoint-test]] — concepts/ingest-endpoint-test.md
+
 ## General
 
 - [[llm-wiki]] — concepts/llm-wiki.md
@@ -12,6 +16,10 @@
 ## Hermes
 
 - [[deck]] — concepts/deck.md
+
+## Ingest
+
+- [[ingest-endpoint-test]] — concepts/ingest-endpoint-test.md
 
 ## Queue
 

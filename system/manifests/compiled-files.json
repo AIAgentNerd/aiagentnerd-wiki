@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01T05:27:09.996Z",
+  "updatedAt": "2026-05-01T13:54:10.390Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -384,6 +384,14 @@
       "rawHash": "8b56be0f7d73779fefbf4bb2e1205ee2e983a9adb1f6bc87e1fac68155a0852a",
       "compiledAt": "2026-05-01T05:27:09.994Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/mobile-ingestion-and-hermes-skill.md",
+      "gitCommitted": true
+    },
+    "inbox/ingest-endpoint-test.md": {
+      "rawPath": "inbox/ingest-endpoint-test.md",
+      "wikiPath": "concepts/ingest-endpoint-test.md",
+      "rawHash": "57044728c3db5bdeeeb24a589fe1dc642efd27a511cbeb562605e6eca02408c7",
+      "compiledAt": "2026-05-01T13:54:10.369Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/ingest-endpoint-test.md",
       "gitCommitted": false
     }
   }

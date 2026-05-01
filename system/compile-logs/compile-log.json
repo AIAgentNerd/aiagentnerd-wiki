@@ -556,5 +556,12 @@
     "rawPath": "architecture/mobile-ingestion-and-hermes-skill.md",
     "wikiPath": "infrastructure/mobile-ingestion-and-hermes-skill.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-05-01T13:54:10.369Z",
+    "action": "compile_system_raw",
+    "rawPath": "inbox/ingest-endpoint-test.md",
+    "wikiPath": "concepts/ingest-endpoint-test.md",
+    "result": "success"
   }
 ]
