@@ -533,5 +533,13 @@
     "rawPath": "openwebui/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
     "wikiPath": "infrastructure/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-05-01T05:21:55.798Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/mobile-ingestion-and-hermes-skill.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "OpenRouter response truncated for deepseek/deepseek-v4-pro"
   }
 ]
