@@ -563,5 +563,12 @@
     "rawPath": "inbox/ingest-endpoint-test.md",
     "wikiPath": "concepts/ingest-endpoint-test.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-05-01T14:20:06.145Z",
+    "action": "compile_system_raw",
+    "rawPath": "inbox/hermes-service-restart-and-troubleshooting.md",
+    "wikiPath": "infrastructure/hermes-service-restart-and-troubleshooting.md",
+    "result": "success"
   }
 ]

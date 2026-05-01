@@ -84,6 +84,7 @@
 
 ## Hermes
 
+- [[hermes-service-restart-and-troubleshooting]] — infrastructure/hermes-service-restart-and-troubleshooting.md
 - [[hermes-setup]] — infrastructure/hermes-setup.md
 - [[mobile-ingestion-and-hermes-skill]] — infrastructure/mobile-ingestion-and-hermes-skill.md
 
@@ -133,6 +134,10 @@
 
 - [[vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903]] — infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md
 
+## Restart
+
+- [[hermes-service-restart-and-troubleshooting]] — infrastructure/hermes-service-restart-and-troubleshooting.md
+
 ## Roman
 
 - [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
@@ -140,6 +145,10 @@
 ## Room
 
 - [[agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca]] — infrastructure/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md
+
+## Service
+
+- [[hermes-service-restart-and-troubleshooting]] — infrastructure/hermes-service-restart-and-troubleshooting.md
 
 ## Setup
 

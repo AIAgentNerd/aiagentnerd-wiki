@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01T13:54:10.390Z",
+  "updatedAt": "2026-05-01T14:20:06.149Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -392,6 +392,14 @@
       "rawHash": "57044728c3db5bdeeeb24a589fe1dc642efd27a511cbeb562605e6eca02408c7",
       "compiledAt": "2026-05-01T13:54:10.369Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/ingest-endpoint-test.md",
+      "gitCommitted": false
+    },
+    "inbox/hermes-service-restart-and-troubleshooting.md": {
+      "rawPath": "inbox/hermes-service-restart-and-troubleshooting.md",
+      "wikiPath": "infrastructure/hermes-service-restart-and-troubleshooting.md",
+      "rawHash": "6fd9dda6fcafd91dd7329dd9cc5a9bf424ce7ed600dc5e2c98e44146d811cb4c",
+      "compiledAt": "2026-05-01T14:20:06.145Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/hermes-service-restart-and-troubleshooting.md",
       "gitCommitted": false
     }
   }

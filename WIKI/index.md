@@ -34,6 +34,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[cloudflare-network]] — infrastructure/cloudflare-network.md
 - [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — infrastructure/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
 - [[git-obsidian-setup]] — infrastructure/git-obsidian-setup.md
+- [[hermes-service-restart-and-troubleshooting]] — infrastructure/hermes-service-restart-and-troubleshooting.md
 - [[hermes-setup]] — infrastructure/hermes-setup.md
 - [[index]] — infrastructure/index.md
 - [[kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560]] — infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md
