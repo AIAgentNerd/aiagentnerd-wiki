@@ -570,5 +570,12 @@
     "rawPath": "inbox/hermes-service-restart-and-troubleshooting.md",
     "wikiPath": "infrastructure/hermes-service-restart-and-troubleshooting.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-05-01T16:52:48.895Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/hermes-knowledge-ingestion-system.md",
+    "wikiPath": "services/hermes-knowledge-ingestion-system.md",
+    "result": "success"
   }
 ]
