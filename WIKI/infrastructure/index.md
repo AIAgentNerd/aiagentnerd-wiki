@@ -85,6 +85,7 @@
 ## Hermes
 
 - [[hermes-setup]] — infrastructure/hermes-setup.md
+- [[mobile-ingestion-and-hermes-skill]] — infrastructure/mobile-ingestion-and-hermes-skill.md
 
 ## Info
 
@@ -93,6 +94,7 @@
 ## Ingestion
 
 - [[knowledge-ingestion-system]] — infrastructure/knowledge-ingestion-system.md
+- [[mobile-ingestion-and-hermes-skill]] — infrastructure/mobile-ingestion-and-hermes-skill.md
 
 ## Kids
 
@@ -101,6 +103,10 @@
 ## Knowledge
 
 - [[knowledge-ingestion-system]] — infrastructure/knowledge-ingestion-system.md
+
+## Mobile
+
+- [[mobile-ingestion-and-hermes-skill]] — infrastructure/mobile-ingestion-and-hermes-skill.md
 
 ## Model
 

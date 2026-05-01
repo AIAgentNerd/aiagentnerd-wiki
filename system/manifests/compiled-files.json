@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01T05:21:59.177Z",
+  "updatedAt": "2026-05-01T05:27:09.996Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -377,6 +377,14 @@
       "compiledAt": "2026-04-30T19:49:41.432Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
       "gitCommitted": true
+    },
+    "architecture/mobile-ingestion-and-hermes-skill.md": {
+      "rawPath": "architecture/mobile-ingestion-and-hermes-skill.md",
+      "wikiPath": "infrastructure/mobile-ingestion-and-hermes-skill.md",
+      "rawHash": "8b56be0f7d73779fefbf4bb2e1205ee2e983a9adb1f6bc87e1fac68155a0852a",
+      "compiledAt": "2026-05-01T05:27:09.994Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/mobile-ingestion-and-hermes-skill.md",
+      "gitCommitted": false
     }
   }
 }

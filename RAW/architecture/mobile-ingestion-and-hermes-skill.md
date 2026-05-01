@@ -307,3 +307,8 @@ ChatGPT can be temporary storage but not scalable
 Notes app is best mobile inbox
 Transcript-based ingestion is highest quality
 Automation via Hermes skill is next major upgrade
+
+---
+## Compiled Wiki
+- WIKI: [[WIKI/infrastructure/mobile-ingestion-and-hermes-skill]]
+- Last compiled: 2026-05-01T05:27:09.994Z
