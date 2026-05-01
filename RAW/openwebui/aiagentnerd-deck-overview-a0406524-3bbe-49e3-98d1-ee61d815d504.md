@@ -4,7 +4,7 @@ source: openwebui
 openwebui_chat_id: a0406524-3bbe-49e3-98d1-ee61d815d504
 created_at: 1777541551
 updated_at: 1777541655
-exported_at: 2026-05-01T02:45:01.232295
+exported_at: 2026-05-02T02:45:01.115421
 
 ---
 
@@ -33,4 +33,4 @@ Deck is the operational dashboard of the AiAgentNerd system — a single‑page 
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504]]
-- Last compiled: 2026-04-30T19:49:41.432Z
+- Last compiled: 2026-05-01T19:48:03.052Z

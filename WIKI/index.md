@@ -31,6 +31,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812]] — infrastructure/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md
 - [[agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca]] — infrastructure/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md
 - [[aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504]] — infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md
+- [[clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143]] — infrastructure/clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143.md
 - [[cloudflare-network]] — infrastructure/cloudflare-network.md
 - [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — infrastructure/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
 - [[git-obsidian-setup]] — infrastructure/git-obsidian-setup.md
@@ -41,7 +42,9 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[knowledge-ingestion-system]] — infrastructure/knowledge-ingestion-system.md
 - [[mobile-ingestion-and-hermes-skill]] — infrastructure/mobile-ingestion-and-hermes-skill.md
 - [[Networking Ports and IPs]] — infrastructure/Networking Ports and IPs.md
+- [[new-chat-fba354d7-5e23-430f-a0de-89635cec202b]] — infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md
 - [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
+- [[save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575]] — infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md
 - [[ssh-ports]] — infrastructure/ssh-ports.md
 - [[system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb]] — infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md
 - [[test-nginx]] — infrastructure/test-nginx.md

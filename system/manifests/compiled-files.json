@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01T16:52:52.718Z",
+  "updatedAt": "2026-05-01T19:50:07.084Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -373,10 +373,10 @@
     "openwebui/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md": {
       "rawPath": "openwebui/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
       "wikiPath": "infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
-      "rawHash": "d0dbcaef9a23064bc8b9003f848eb3d13452a7c497ba871397c6d1fb8c89901c",
-      "compiledAt": "2026-04-30T19:49:41.432Z",
+      "rawHash": "c6118bcd61cd9f6120066cbaeb6481bf826bb3c4e66d7967a5ab3bc1fc8dcfcd",
+      "compiledAt": "2026-05-01T19:48:03.052Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
-      "gitCommitted": true
+      "gitCommitted": false
     },
     "architecture/mobile-ingestion-and-hermes-skill.md": {
       "rawPath": "architecture/mobile-ingestion-and-hermes-skill.md",
@@ -408,6 +408,30 @@
       "rawHash": "b15aa6ce876443ae224bbc02b87907eafb9db3c778e75556eb8d96e50494cd8f",
       "compiledAt": "2026-05-01T16:52:52.713Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/hermes-knowledge-ingestion-system.md",
+      "gitCommitted": false
+    },
+    "openwebui/clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143.md": {
+      "rawPath": "openwebui/clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143.md",
+      "wikiPath": "infrastructure/clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143.md",
+      "rawHash": "7ae9db08b8076b0935be05a204b41e8106ee5611c5410e63fea89d40816febb1",
+      "compiledAt": "2026-05-01T19:48:24.096Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143.md",
+      "gitCommitted": false
+    },
+    "openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md": {
+      "rawPath": "openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
+      "wikiPath": "infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
+      "rawHash": "f83731e7d0c10a5ab3f5fe46ea0061a01add22ee4bd6bded9daead462bd49946",
+      "compiledAt": "2026-05-01T19:49:13.785Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
+      "gitCommitted": false
+    },
+    "openwebui/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md": {
+      "rawPath": "openwebui/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
+      "wikiPath": "infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
+      "rawHash": "a20e7d9922525dbfef1183147cd333311b86f35ffe09d1321108ea03207b6997",
+      "compiledAt": "2026-05-01T19:50:07.079Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
       "gitCommitted": false
     }
   }

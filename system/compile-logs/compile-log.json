@@ -584,5 +584,33 @@
     "rawPath": "architecture/hermes-knowledge-ingestion-system.md",
     "wikiPath": "services/hermes-knowledge-ingestion-system.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-05-01T19:48:03.052Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
+    "wikiPath": "infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-01T19:48:24.096Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143.md",
+    "wikiPath": "infrastructure/clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-01T19:49:13.785Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
+    "wikiPath": "infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-01T19:50:07.079Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
+    "wikiPath": "infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
+    "result": "success"
   }
 ]

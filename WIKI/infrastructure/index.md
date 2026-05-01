@@ -25,6 +25,14 @@
 
 - [[kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560]] — infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md
 
+## Chat
+
+- [[new-chat-fba354d7-5e23-430f-a0de-89635cec202b]] — infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md
+
+## Clean
+
+- [[clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143]] — infrastructure/clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143.md
+
 ## Cloudflare
 
 - [[cloudflare-network]] — infrastructure/cloudflare-network.md
@@ -57,6 +65,10 @@
 ## E8f7
 
 - [[system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb]] — infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md
+
+## Fba354d7
+
+- [[new-chat-fba354d7-5e23-430f-a0de-89635cec202b]] — infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md
 
 ## Fill
 
@@ -97,6 +109,10 @@
 - [[knowledge-ingestion-system]] — infrastructure/knowledge-ingestion-system.md
 - [[mobile-ingestion-and-hermes-skill]] — infrastructure/mobile-ingestion-and-hermes-skill.md
 
+## It
+
+- [[save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575]] — infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md
+
 ## Kids
 
 - [[kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560]] — infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md
@@ -104,6 +120,7 @@
 ## Knowledge
 
 - [[knowledge-ingestion-system]] — infrastructure/knowledge-ingestion-system.md
+- [[save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575]] — infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md
 
 ## Mobile
 
@@ -116,6 +133,10 @@
 ## Networking
 
 - [[cloudflare-network]] — infrastructure/cloudflare-network.md
+
+## New
+
+- [[new-chat-fba354d7-5e23-430f-a0de-89635cec202b]] — infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md
 
 ## Nginx
 
@@ -146,6 +167,10 @@
 
 - [[agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca]] — infrastructure/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md
 
+## Save
+
+- [[save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575]] — infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md
+
 ## Service
 
 - [[hermes-service-restart-and-troubleshooting]] — infrastructure/hermes-service-restart-and-troubleshooting.md
@@ -164,9 +189,17 @@
 
 - [[Networking Ports and IPs]] — infrastructure/Networking Ports and IPs.md
 
+## This
+
+- [[clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143]] — infrastructure/clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143.md
+
 ## Ui
 
 - [[acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa]] — infrastructure/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md
+
+## Up
+
+- [[clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143]] — infrastructure/clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143.md
 
 ## Vocabulary
 

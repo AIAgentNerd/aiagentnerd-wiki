@@ -2,7 +2,7 @@
 title: Openwebui Aiagentnerd Deck Overview A0406524 3bbe 49e3 98d1 Ee61d815d504
 source_raw: RAW/openwebui/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md
 compiled_wiki_path: WIKI/infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md
-compiled_at: 2026-04-30T19:49:41.432Z
+compiled_at: 2026-05-01T19:48:03.052Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, deck, overview, a0406524, 3bbe, 49e3]
 ---
@@ -10,30 +10,32 @@ tags: [aiagentnerd, compiled, infrastructure, deck, overview, a0406524, 3bbe, 49
 # Openwebui Aiagentnerd Deck Overview A0406524 3bbe 49e3 98d1 Ee61d815d504
 
 ## Summary
-Deck is the operational dashboard of the AiAgentNerd system, a single-page web application accessible at `deck.aiagentnerd.com`. It provides real-time monitoring and management of the multi-agent crew, serving as the primary control interface and visualization layer for Hermes task execution.
+AiAgentNerd Deck is the operational dashboard for the multi-agent system, accessible as a single-page web app at `deck.aiagentnerd.com`. It provides real-time monitoring and management of agents, tasks, and system health, acting as the primary control interface for Hermes task execution.
 
 ## Key Concepts
-- **Five-Panel Layout**: User Panel, Agent Office View, Task Panel, Activity Feed (Ship Log), System Monitoring.
-- **Agent Office View**: Central interaction area showing each agent’s current task, status, and model.
-- **Task Panel**: Lists active/queued tasks with admin controls (stop/retry).
-- **Activity Feed**: Chronological log of system events, agent actions, and errors.
-- **System Monitoring**: Displays CPU, memory, health, and runtime alerts.
-- **Structured Data Model**: Consumes `users[]`, `agents[]`, `tasks[]`, `activity[]`, `system_status`.
-- **Real-Time Updates**: Via polling or WebSocket for live task states and agent activity.
+- **Single-Page Dashboard**: Web app running at `deck.aiagentnerd.com`.
+- **Five Panels**:
+  1. **User Panel**: Lists users, active task counts, and supports filtering by user.
+  2. **Agent Office View**: Visual representation of all agents, showing current task, status, and assigned model. Primary interaction area.
+  3. **Task Panel**: Active and queued tasks with ID, type, user, status; includes admin controls to stop/retry tasks.
+  4. **Activity Feed (Ship Log)**: Chronological log of system events, agent actions, and errors.
+  5. **System Monitoring**: CPU, memory, health, and runtime alerts.
+- **Structured Data Consumption**: Deck consumes JSON-like data containing `users`, `agents`, `tasks`, `activity`, and `system_status`.
+- **Interaction Model**: Click agent to view current task; click user to filter tasks; click task for details; admins can stop/retry tasks directly.
+- **Real-Time Updates**: Updates are delivered via polling or WebSocket, enabling live stream of agent states and activity.
 
 ## Practical Use
-- Operators use Deck to monitor the entire agent system in real time.
-- Click an agent to view its current task; click a user to filter tasks; click a task to open details.
-- Admins can stop or retry tasks directly from the Task Panel.
-- The Activity Feed provides a chronological audit trail of system events and errors.
-- System Monitoring panel gives at-a-glance health and resource usage.
+- Operators use Deck to monitor agent states and task pipelines in real time.
+- Admins can intervene on stuck or failing tasks using the stop/retry controls.
+- The activity feed provides an audit trail for debugging and oversight.
+- Deck reduces the need to SSH into the server for routine status checks.
 
 ## Implementation Notes
 - **URL**: `deck.aiagentnerd.com`
-- **Data Consumption**: Structured JSON-like data for users, agents, tasks, activity, and system status.
-- **Real-Time Mechanism**: Polling or WebSocket (exact implementation not specified in source).
-- **Interaction Model**: Click-based navigation; admin controls for task lifecycle management.
-- **Role**: Primary control interface and visualization layer for Hermes task execution.
+- **Data format**: Structured objects (users, agents, tasks, activity, system_status).
+- **Update mechanism**: Polling or WebSocket (exact implementation depends on backend setup).
+- **Agent credentials**: The interface does not directly expose model keys; agent routing is handled internally (see [[model-routing-reliability]]).
+- No database or API details provided in this overview.
 
 ## Related
 - [[acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812]]
