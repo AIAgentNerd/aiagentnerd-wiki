@@ -56,6 +56,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 
 - [[deck]] — services/deck.md
 - [[hermes-knowledge-ingestion-system]] — services/hermes-knowledge-ingestion-system.md
+- [[hermes-service-restart-and-troubleshooting-merged-2]] — services/hermes-service-restart-and-troubleshooting-merged-2.md
 - [[hermes-setup]] — services/hermes-setup.md
 - [[index]] — services/index.md
 

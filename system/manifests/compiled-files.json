@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-02T10:42:09.803Z",
+  "updatedAt": "2026-05-02T10:48:38.605Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -456,6 +456,14 @@
       "rawHash": "96a1455bf0323cecd78ef8aa985acb53c6c196f49d60f77652f0a0947ceca57f",
       "compiledAt": "2026-05-02T10:42:09.799Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/hermes-service-restart-and-troubleshooting-merged.md",
+      "gitCommitted": false
+    },
+    "inbox/hermes-service-restart-and-troubleshooting-merged-2.md": {
+      "rawPath": "inbox/hermes-service-restart-and-troubleshooting-merged-2.md",
+      "wikiPath": "services/hermes-service-restart-and-troubleshooting-merged-2.md",
+      "rawHash": "ac32cedc9d4b937dac1b91ec30112f049fdd4174716dbc725c7b5036983e04b9",
+      "compiledAt": "2026-05-02T10:48:38.600Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/hermes-service-restart-and-troubleshooting-merged-2.md",
       "gitCommitted": false
     }
   }

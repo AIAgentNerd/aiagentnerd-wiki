@@ -8,6 +8,7 @@
 
 - [[deck]] — services/deck.md
 - [[hermes-knowledge-ingestion-system]] — services/hermes-knowledge-ingestion-system.md
+- [[hermes-service-restart-and-troubleshooting-merged-2]] — services/hermes-service-restart-and-troubleshooting-merged-2.md
 - [[hermes-setup]] — services/hermes-setup.md
 
 ## Ingestion
@@ -25,6 +26,14 @@
 ## Queue
 
 - [[deck]] — services/deck.md
+
+## Restart
+
+- [[hermes-service-restart-and-troubleshooting-merged-2]] — services/hermes-service-restart-and-troubleshooting-merged-2.md
+
+## Service
+
+- [[hermes-service-restart-and-troubleshooting-merged-2]] — services/hermes-service-restart-and-troubleshooting-merged-2.md
 
 ## Setup
 
