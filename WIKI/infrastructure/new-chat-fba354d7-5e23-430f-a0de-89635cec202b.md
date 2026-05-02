@@ -2,7 +2,7 @@
 title: Openwebui New Chat Fba354d7 5e23 430f A0de 89635cec202b
 source_raw: RAW/openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md
 compiled_wiki_path: WIKI/infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md
-compiled_at: 2026-05-01T19:49:13.785Z
+compiled_at: 2026-05-02T19:51:06.654Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, new, chat, fba354d7, 5e23, 430f]
 ---
@@ -10,26 +10,24 @@ tags: [aiagentnerd, compiled, infrastructure, new, chat, fba354d7, 5e23, 430f]
 # Openwebui New Chat Fba354d7 5e23 430f A0de 89635cec202b
 
 ## Summary
-This note documents a failed multi-note save operation in the AiAgentNerd system. The error occurred because the split response from a model did not contain valid RAW notes, preventing the system from persisting any extracted notes. This event is relevant to the knowledge ingestion and wiki compilation pipelines.
+This note captures an exported OpenWebUI chat where the assistant attempted a multi-note save operation but failed. The error message “Split response did not include valid RAW notes” indicates that the model’s output, expected to contain multiple structured RAW notes, could not be parsed. This record serves as a debugging artifact for the ingestion pipeline.
 
 ## Key Concepts
-- **Multi-note save**: A process that attempts to extract and persist multiple individual notes from a single model response.
-- **Split response**: The model output is divided into separate note candidates based on a delimiter or structural pattern.
-- **Valid RAW notes**: The expected format for raw notes includes frontmatter (YAML) and content; the system requires this structure to proceed.
-- **Error handling**: The operation fails gracefully, logging the error and aborting without partial saves.
+- Multi‑note save is a feature that splits an LLM response into separate RAW notes for storage.
+- The pipeline expects a specific format to identify individual RAW notes; when not found, ingestion is rejected.
+- Failure can stem from model output truncation, incorrect formatting, or routing misbehavior.
 
 ## Practical Use
-- When this error appears, inspect the model’s response for missing or malformed frontmatter, empty content, or incorrect delimiters.
-- Verify that the prompt or system instructions explicitly require the model to output notes in the correct RAW format (e.g., `---` frontmatter, title, and body).
-- This failure is commonly seen during `wiki_compile` or knowledge ingestion tasks, especially when using models prone to truncation or empty responses (e.g., Kimi).
+- Use this chat export to reproduce the failure scenario and improve split-parsing logic.
+- Reference the chat ID `fba354d7-5e23-430f-a0de-89635cec202b` when correlating with backend logs.
+- Helps diagnose whether the issue is model‑side (e.g., Kimi returning empty/incomplete content) or parser‑side.
 
 ## Implementation Notes
-- **Error message**: `Multi-note save failed: Split response did not include valid RAW notes`
-- **Context**: Likely triggered by the `wiki_compile` or `knowledge-ingestion` pipeline when processing a model response.
-- **Expected note format**: Each note must contain a YAML frontmatter block (delimited by `---`) with at least a `title` field, followed by markdown content.
-- **Failure mode**: The split response either contained no valid frontmatter blocks or the blocks were empty/incomplete.
-- **Operational impact**: No notes are saved; the task must be retried with corrected instructions or a different model.
-- **Related fallback**: If the primary model (e.g., Kimi) fails, the system may fall back to Qwen, but this error indicates the fallback also produced an invalid response or the split logic itself failed.
+- **Chat ID**: `fba354d7-5e23-430f-a0de-89635cec202b` (OpenWebUI)
+- **Timestamps**: created at Unix epoch `1777651240`, updated at `1777652030`, exported at `2026-05-03T02:45:01.904288`
+- **Error**: `Multi-note save failed: Split response did not include valid RAW notes`
+- Likely occurs when the system routes a compilation task to the secondary model (`moonshotai/kimi-k2.6`) and the response is empty, causing the split parser to receive no valid note candidates.
+- May also occur if the formatting of the split response is malformed (missing markdown or metadata markers).
 
 ## Related
 - [[acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa]]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-02T10:48:38.605Z",
+  "updatedAt": "2026-05-02T19:52:18.336Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -373,10 +373,10 @@
     "openwebui/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md": {
       "rawPath": "openwebui/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
       "wikiPath": "infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
-      "rawHash": "c6118bcd61cd9f6120066cbaeb6481bf826bb3c4e66d7967a5ab3bc1fc8dcfcd",
-      "compiledAt": "2026-05-01T19:48:03.052Z",
+      "rawHash": "3cda5bb9cec52481d016197a934391a7c2522ba8c9d521e30271042134822320",
+      "compiledAt": "2026-05-02T19:49:17.896Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
-      "gitCommitted": true
+      "gitCommitted": false
     },
     "architecture/mobile-ingestion-and-hermes-skill.md": {
       "rawPath": "architecture/mobile-ingestion-and-hermes-skill.md",
@@ -421,18 +421,18 @@
     "openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md": {
       "rawPath": "openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
       "wikiPath": "infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
-      "rawHash": "f83731e7d0c10a5ab3f5fe46ea0061a01add22ee4bd6bded9daead462bd49946",
-      "compiledAt": "2026-05-01T19:49:13.785Z",
+      "rawHash": "10ea2c9eac353c2da4e6beaf35b73271e0a86e1a7d4a0aa05d866cb73d44d6e1",
+      "compiledAt": "2026-05-02T19:51:06.654Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
-      "gitCommitted": true
+      "gitCommitted": false
     },
     "openwebui/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md": {
       "rawPath": "openwebui/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
       "wikiPath": "infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
-      "rawHash": "a20e7d9922525dbfef1183147cd333311b86f35ffe09d1321108ea03207b6997",
-      "compiledAt": "2026-05-01T19:50:07.079Z",
+      "rawHash": "ed150e39832a6fe3429cd6209112d6bb0ade1722cee847b5ccae3c1cd476049b",
+      "compiledAt": "2026-05-02T19:52:18.332Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
-      "gitCommitted": true
+      "gitCommitted": false
     },
     "architecture/test-raw-bypass.md": {
       "rawPath": "architecture/test-raw-bypass.md",
@@ -464,6 +464,22 @@
       "rawHash": "ac32cedc9d4b937dac1b91ec30112f049fdd4174716dbc725c7b5036983e04b9",
       "compiledAt": "2026-05-02T10:48:38.600Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/hermes-service-restart-and-troubleshooting-merged-2.md",
+      "gitCommitted": false
+    },
+    "openwebui/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--2f69dc4a-1e47-4de3-855b-d2df003e689e.md": {
+      "rawPath": "openwebui/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--2f69dc4a-1e47-4de3-855b-d2df003e689e.md",
+      "wikiPath": "infrastructure/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--2f69dc4a-1e47-4de3-855b-d2df003e689e.md",
+      "rawHash": "1b5b9423158b783b8361972f3b3766cac6109112d0d4601e6f7b4dbbb10a97d4",
+      "compiledAt": "2026-05-02T19:49:53.249Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--2f69dc4a-1e47-4de3-855b-d2df003e689e.md",
+      "gitCommitted": false
+    },
+    "openwebui/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--d5dbc08e-5438-420f-9daf-0f235ae7ac8f.md": {
+      "rawPath": "openwebui/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--d5dbc08e-5438-420f-9daf-0f235ae7ac8f.md",
+      "wikiPath": "infrastructure/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--d5dbc08e-5438-420f-9daf-0f235ae7ac8f.md",
+      "rawHash": "33a7e290a39fbf518e82cbbc777c1d7d8e68211090089b59654d970d63c080e5",
+      "compiledAt": "2026-05-02T19:50:31.638Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--d5dbc08e-5438-420f-9daf-0f235ae7ac8f.md",
       "gitCommitted": false
     }
   }

@@ -41,6 +41,8 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[index]] — infrastructure/index.md
 - [[kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560]] — infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md
 - [[knowledge-ingestion-system]] — infrastructure/knowledge-ingestion-system.md
+- [[merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--2f69dc4a-1e47-4de3-855b-d2df003e689e]] — infrastructure/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--2f69dc4a-1e47-4de3-855b-d2df003e689e.md
+- [[merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--d5dbc08e-5438-420f-9daf-0f235ae7ac8f]] — infrastructure/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--d5dbc08e-5438-420f-9daf-0f235ae7ac8f.md
 - [[mobile-ingestion-and-hermes-skill]] — infrastructure/mobile-ingestion-and-hermes-skill.md
 - [[Networking Ports and IPs]] — infrastructure/Networking Ports and IPs.md
 - [[new-chat-fba354d7-5e23-430f-a0de-89635cec202b]] — infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md
