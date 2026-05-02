@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-02T04:40:08.318Z",
+  "updatedAt": "2026-05-02T04:42:26.149Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -440,6 +440,14 @@
       "rawHash": "50cfe9ba8867df95b27ad8de5dc5e694267b355b1795a45a55ece4b2c367fe19",
       "compiledAt": "2026-05-02T04:40:08.312Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/test-raw-bypass.md",
+      "gitCommitted": false
+    },
+    "architecture/save-to-knowledge-skill.md": {
+      "rawPath": "architecture/save-to-knowledge-skill.md",
+      "wikiPath": "infrastructure/save-to-knowledge-skill.md",
+      "rawHash": "d50fb0d2ae4c6c1bff7ce62e412e102250df59bff9bdb6783c4dec55b3b5445e",
+      "compiledAt": "2026-05-02T04:42:26.145Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/save-to-knowledge-skill.md",
       "gitCommitted": false
     }
   }

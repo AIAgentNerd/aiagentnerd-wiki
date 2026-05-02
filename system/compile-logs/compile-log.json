@@ -619,5 +619,12 @@
     "rawPath": "architecture/test-raw-bypass.md",
     "wikiPath": "architecture/test-raw-bypass.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-05-02T04:42:26.145Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/save-to-knowledge-skill.md",
+    "wikiPath": "infrastructure/save-to-knowledge-skill.md",
+    "result": "success"
   }
 ]

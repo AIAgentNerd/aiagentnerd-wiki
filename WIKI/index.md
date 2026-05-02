@@ -45,6 +45,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[new-chat-fba354d7-5e23-430f-a0de-89635cec202b]] — infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md
 - [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
 - [[save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575]] — infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md
+- [[save-to-knowledge-skill]] — infrastructure/save-to-knowledge-skill.md
 - [[ssh-ports]] — infrastructure/ssh-ports.md
 - [[system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb]] — infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md
 - [[test-nginx]] — infrastructure/test-nginx.md

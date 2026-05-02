@@ -121,6 +121,7 @@
 
 - [[knowledge-ingestion-system]] — infrastructure/knowledge-ingestion-system.md
 - [[save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575]] — infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md
+- [[save-to-knowledge-skill]] — infrastructure/save-to-knowledge-skill.md
 
 ## Mobile
 
@@ -170,6 +171,7 @@
 ## Save
 
 - [[save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575]] — infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md
+- [[save-to-knowledge-skill]] — infrastructure/save-to-knowledge-skill.md
 
 ## Service
 
@@ -179,6 +181,10 @@
 
 - [[hermes-setup]] — infrastructure/hermes-setup.md
 - [[test-nginx]] — infrastructure/test-nginx.md
+
+## Skill
+
+- [[save-to-knowledge-skill]] — infrastructure/save-to-knowledge-skill.md
 
 ## SSH
 
