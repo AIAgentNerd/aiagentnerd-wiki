@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01T19:50:07.084Z",
+  "updatedAt": "2026-05-02T04:40:08.318Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -376,7 +376,7 @@
       "rawHash": "c6118bcd61cd9f6120066cbaeb6481bf826bb3c4e66d7967a5ab3bc1fc8dcfcd",
       "compiledAt": "2026-05-01T19:48:03.052Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "architecture/mobile-ingestion-and-hermes-skill.md": {
       "rawPath": "architecture/mobile-ingestion-and-hermes-skill.md",
@@ -416,7 +416,7 @@
       "rawHash": "7ae9db08b8076b0935be05a204b41e8106ee5611c5410e63fea89d40816febb1",
       "compiledAt": "2026-05-01T19:48:24.096Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md": {
       "rawPath": "openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
@@ -424,7 +424,7 @@
       "rawHash": "f83731e7d0c10a5ab3f5fe46ea0061a01add22ee4bd6bded9daead462bd49946",
       "compiledAt": "2026-05-01T19:49:13.785Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "openwebui/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md": {
       "rawPath": "openwebui/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
@@ -432,6 +432,14 @@
       "rawHash": "a20e7d9922525dbfef1183147cd333311b86f35ffe09d1321108ea03207b6997",
       "compiledAt": "2026-05-01T19:50:07.079Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
+      "gitCommitted": true
+    },
+    "architecture/test-raw-bypass.md": {
+      "rawPath": "architecture/test-raw-bypass.md",
+      "wikiPath": "architecture/test-raw-bypass.md",
+      "rawHash": "50cfe9ba8867df95b27ad8de5dc5e694267b355b1795a45a55ece4b2c367fe19",
+      "compiledAt": "2026-05-02T04:40:08.312Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/test-raw-bypass.md",
       "gitCommitted": false
     }
   }

@@ -68,3 +68,4 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[index]] — architecture/index.md
 - [[knowledge-ingestion-system]] — architecture/knowledge-ingestion-system.md
 - [[model-routing-reliability]] — architecture/model-routing-reliability.md
+- [[test-raw-bypass]] — architecture/test-raw-bypass.md

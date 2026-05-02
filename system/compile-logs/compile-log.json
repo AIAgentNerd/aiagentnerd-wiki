@@ -612,5 +612,12 @@
     "rawPath": "openwebui/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
     "wikiPath": "infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-05-02T04:40:08.312Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/test-raw-bypass.md",
+    "wikiPath": "architecture/test-raw-bypass.md",
+    "result": "success"
   }
 ]
