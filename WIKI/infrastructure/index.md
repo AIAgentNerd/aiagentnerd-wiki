@@ -97,6 +97,7 @@
 ## Hermes
 
 - [[hermes-service-restart-and-troubleshooting]] — infrastructure/hermes-service-restart-and-troubleshooting.md
+- [[hermes-service-restart-and-troubleshooting-merged]] — infrastructure/hermes-service-restart-and-troubleshooting-merged.md
 - [[hermes-setup]] — infrastructure/hermes-setup.md
 - [[mobile-ingestion-and-hermes-skill]] — infrastructure/mobile-ingestion-and-hermes-skill.md
 
@@ -159,6 +160,7 @@
 ## Restart
 
 - [[hermes-service-restart-and-troubleshooting]] — infrastructure/hermes-service-restart-and-troubleshooting.md
+- [[hermes-service-restart-and-troubleshooting-merged]] — infrastructure/hermes-service-restart-and-troubleshooting-merged.md
 
 ## Roman
 
@@ -176,6 +178,7 @@
 ## Service
 
 - [[hermes-service-restart-and-troubleshooting]] — infrastructure/hermes-service-restart-and-troubleshooting.md
+- [[hermes-service-restart-and-troubleshooting-merged]] — infrastructure/hermes-service-restart-and-troubleshooting-merged.md
 
 ## Setup
 

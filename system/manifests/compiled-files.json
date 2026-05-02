@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-02T04:42:26.149Z",
+  "updatedAt": "2026-05-02T10:42:09.803Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -448,6 +448,14 @@
       "rawHash": "d50fb0d2ae4c6c1bff7ce62e412e102250df59bff9bdb6783c4dec55b3b5445e",
       "compiledAt": "2026-05-02T04:42:26.145Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/save-to-knowledge-skill.md",
+      "gitCommitted": false
+    },
+    "inbox/hermes-service-restart-and-troubleshooting-merged.md": {
+      "rawPath": "inbox/hermes-service-restart-and-troubleshooting-merged.md",
+      "wikiPath": "infrastructure/hermes-service-restart-and-troubleshooting-merged.md",
+      "rawHash": "96a1455bf0323cecd78ef8aa985acb53c6c196f49d60f77652f0a0947ceca57f",
+      "compiledAt": "2026-05-02T10:42:09.799Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/hermes-service-restart-and-troubleshooting-merged.md",
       "gitCommitted": false
     }
   }
