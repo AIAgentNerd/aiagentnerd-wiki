@@ -1,5 +1,9 @@
 # Infrastructure
 
+## 3a89446a
+
+- [[cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd]] — infrastructure/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md
+
 ## 671903ef
 
 - [[system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb]] — infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md
@@ -40,6 +44,7 @@
 
 ## Cleanup
 
+- [[cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd]] — infrastructure/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md
 - [[cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad]] — infrastructure/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad.md
 - [[cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4]] — infrastructure/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4.md
 - [[knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06]] — infrastructure/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md
@@ -131,6 +136,7 @@
 
 ## Knowledge
 
+- [[cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd]] — infrastructure/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md
 - [[cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad]] — infrastructure/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad.md
 - [[cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4]] — infrastructure/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4.md
 - [[knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06]] — infrastructure/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md

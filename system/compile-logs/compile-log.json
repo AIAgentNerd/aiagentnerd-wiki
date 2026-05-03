@@ -747,5 +747,19 @@
     "wikiPath": null,
     "result": "failure",
     "error": "Model output was truncated. Please split the source into smaller chunks."
+  },
+  {
+    "timestamp": "2026-05-03T20:07:30.178Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md",
+    "wikiPath": "infrastructure/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-03T20:09:28.322Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
+    "wikiPath": "infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
+    "result": "success"
   }
 ]

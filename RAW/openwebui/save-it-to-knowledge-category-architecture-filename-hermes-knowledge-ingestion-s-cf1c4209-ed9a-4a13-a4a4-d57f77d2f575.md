@@ -3240,3 +3240,8 @@ RAW path: /home/nerd/aiagentnerd-wiki/RAW/architecture/hermes-knowledge-ingestio
 Compile: compiled=1, skipped=28, failed=0
 Git: To github.com:AIAgentNerd/aiagentnerd-wiki.git
    ad0db78..516d78c  main -> main
+
+---
+## Compiled Wiki
+- WIKI: [[WIKI/infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575]]
+- Last compiled: 2026-05-03T20:09:28.322Z

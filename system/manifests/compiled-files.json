@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-03T19:59:39.865Z",
+  "updatedAt": "2026-05-03T20:09:28.325Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -376,7 +376,7 @@
       "rawHash": "46c88b21be5b9ea20a1d78c037bc8537fef4d0a1572d151a3cfb68ccadba6509",
       "compiledAt": "2026-05-03T19:47:14.698Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "architecture/mobile-ingestion-and-hermes-skill.md": {
       "rawPath": "architecture/mobile-ingestion-and-hermes-skill.md",
@@ -424,15 +424,15 @@
       "rawHash": "dfdb0977dff6bdde7339c9cdc89341bd23c595ae42e4ca17e6e694d15c500372",
       "compiledAt": "2026-05-03T19:59:39.861Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "openwebui/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md": {
       "rawPath": "openwebui/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
       "wikiPath": "infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
-      "rawHash": "ed150e39832a6fe3429cd6209112d6bb0ade1722cee847b5ccae3c1cd476049b",
-      "compiledAt": "2026-05-02T19:52:18.332Z",
+      "rawHash": "54961719109e05d8e4ca8f5276663e7e8e9e58c2d873ef205270b99e2cc67da1",
+      "compiledAt": "2026-05-03T20:09:28.322Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
-      "gitCommitted": true
+      "gitCommitted": false
     },
     "architecture/test-raw-bypass.md": {
       "rawPath": "architecture/test-raw-bypass.md",
@@ -480,7 +480,7 @@
       "rawHash": "ba0e0468456240b86cd0e2f13b3d71e05f44abd88c3b2219f5db21af24007a4a",
       "compiledAt": "2026-05-03T19:58:32.936Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--d5dbc08e-5438-420f-9daf-0f235ae7ac8f.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "_archived/openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md": {
       "rawPath": "_archived/openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
@@ -496,7 +496,7 @@
       "rawHash": "5d7f7d757a4cfa81062660b841f9e88fe27e8699922718e58da7bc5486cdfd6d",
       "compiledAt": "2026-05-03T19:51:08.590Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "openwebui/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4.md": {
       "rawPath": "openwebui/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4.md",
@@ -504,7 +504,7 @@
       "rawHash": "2c22d1977b5cbc27f0df597a6efc69c0668f841a723f382a512c10e5b8ceb98c",
       "compiledAt": "2026-05-03T19:53:48.267Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "openwebui/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md": {
       "rawPath": "openwebui/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md",
@@ -512,7 +512,7 @@
       "rawHash": "b70cf5d1db81a213b3794f0911d3e274a6cb279679cc553e04d1b89b29b202cc",
       "compiledAt": "2026-05-03T19:55:09.113Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "openwebui/merge-this-with-existing-file-hermes-setup.md-with-preview-new-info-hermes-statu-0c8dcfde-a9bb-4cf4-b763-3a69efacd410.md": {
       "rawPath": "openwebui/merge-this-with-existing-file-hermes-setup.md-with-preview-new-info-hermes-statu-0c8dcfde-a9bb-4cf4-b763-3a69efacd410.md",
@@ -520,6 +520,14 @@
       "rawHash": "862030fe0a355dac55e0284da46b98e62e4c728a6be87eed124b8d32aba1d212",
       "compiledAt": "2026-05-03T19:56:41.173Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/merge-this-with-existing-file-hermes-setup.md-with-preview-new-info-hermes-statu-0c8dcfde-a9bb-4cf4-b763-3a69efacd410.md",
+      "gitCommitted": true
+    },
+    "openwebui/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md": {
+      "rawPath": "openwebui/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md",
+      "wikiPath": "infrastructure/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md",
+      "rawHash": "589adb8a3e32b5cedd7afb464ed7297f9886215fed46b445576de417eb350c3d",
+      "compiledAt": "2026-05-03T20:07:30.178Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md",
       "gitCommitted": false
     }
   }

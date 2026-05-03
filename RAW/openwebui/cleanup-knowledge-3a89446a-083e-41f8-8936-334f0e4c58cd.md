@@ -343,3 +343,8 @@ Group: 1 - [Low-value group]
 Confidence: high
 
 - RAW/openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md: success
+
+---
+## Compiled Wiki
+- WIKI: [[WIKI/infrastructure/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd]]
+- Last compiled: 2026-05-03T20:07:30.178Z
