@@ -682,5 +682,70 @@
     "rawPath": "_archived/openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
     "wikiPath": "infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-05-03T19:47:14.698Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
+    "wikiPath": "infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-03T19:49:35.481Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "Model output was truncated. Please split the source into smaller chunks."
+  },
+  {
+    "timestamp": "2026-05-03T19:51:08.590Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad.md",
+    "wikiPath": "infrastructure/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-03T19:53:48.267Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4.md",
+    "wikiPath": "infrastructure/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-03T19:55:09.113Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md",
+    "wikiPath": "infrastructure/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-03T19:56:41.173Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/merge-this-with-existing-file-hermes-setup.md-with-preview-new-info-hermes-statu-0c8dcfde-a9bb-4cf4-b763-3a69efacd410.md",
+    "wikiPath": "infrastructure/merge-this-with-existing-file-hermes-setup.md-with-preview-new-info-hermes-statu-0c8dcfde-a9bb-4cf4-b763-3a69efacd410.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-03T19:58:32.936Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--d5dbc08e-5438-420f-9daf-0f235ae7ac8f.md",
+    "wikiPath": "infrastructure/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--d5dbc08e-5438-420f-9daf-0f235ae7ac8f.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-03T19:59:39.861Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
+    "wikiPath": "infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-03T20:03:00.468Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "Model output was truncated. Please split the source into smaller chunks."
   }
 ]

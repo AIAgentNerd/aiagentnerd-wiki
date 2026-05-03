@@ -5,7 +5,7 @@ source: openwebui
 openwebui_chat_id: d5dbc08e-5438-420f-9daf-0f235ae7ac8f
 created_at: 1777724326
 updated_at: 1777724368
-exported_at: 2026-05-03T02:45:01.905435
+exported_at: 2026-05-04T02:45:01.580558
 
 ---
 
@@ -101,4 +101,4 @@ pm2 status
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/infrastructure/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--d5dbc08e-5438-420f-9daf-0f235ae7ac8f]]
-- Last compiled: 2026-05-02T19:50:31.638Z
+- Last compiled: 2026-05-03T19:58:32.936Z

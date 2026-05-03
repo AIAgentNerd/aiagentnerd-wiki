@@ -32,6 +32,8 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca]] — infrastructure/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md
 - [[aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504]] — infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md
 - [[clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143]] — infrastructure/clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143.md
+- [[cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad]] — infrastructure/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad.md
+- [[cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4]] — infrastructure/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4.md
 - [[cloudflare-network]] — infrastructure/cloudflare-network.md
 - [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — infrastructure/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
 - [[git-obsidian-setup]] — infrastructure/git-obsidian-setup.md
@@ -40,7 +42,9 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[hermes-setup]] — infrastructure/hermes-setup.md
 - [[index]] — infrastructure/index.md
 - [[kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560]] — infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md
+- [[knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06]] — infrastructure/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md
 - [[knowledge-ingestion-system]] — infrastructure/knowledge-ingestion-system.md
+- [[merge-this-with-existing-file-hermes-setup.md-with-preview-new-info-hermes-statu-0c8dcfde-a9bb-4cf4-b763-3a69efacd410]] — infrastructure/merge-this-with-existing-file-hermes-setup.md-with-preview-new-info-hermes-statu-0c8dcfde-a9bb-4cf4-b763-3a69efacd410.md
 - [[merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--2f69dc4a-1e47-4de3-855b-d2df003e689e]] — infrastructure/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--2f69dc4a-1e47-4de3-855b-d2df003e689e.md
 - [[merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--d5dbc08e-5438-420f-9daf-0f235ae7ac8f]] — infrastructure/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--d5dbc08e-5438-420f-9daf-0f235ae7ac8f.md
 - [[mobile-ingestion-and-hermes-skill]] — infrastructure/mobile-ingestion-and-hermes-skill.md

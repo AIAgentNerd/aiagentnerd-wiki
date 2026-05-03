@@ -2,7 +2,7 @@
 title: Openwebui Aiagentnerd Deck Overview A0406524 3bbe 49e3 98d1 Ee61d815d504
 source_raw: RAW/openwebui/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md
 compiled_wiki_path: WIKI/infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md
-compiled_at: 2026-05-02T19:49:17.896Z
+compiled_at: 2026-05-03T19:47:14.698Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, deck, overview, a0406524, 3bbe, 49e3]
 ---
@@ -10,30 +10,28 @@ tags: [aiagentnerd, compiled, infrastructure, deck, overview, a0406524, 3bbe, 49
 # Openwebui Aiagentnerd Deck Overview A0406524 3bbe 49e3 98d1 Ee61d815d504
 
 ## Summary
-Deck is the operational dashboard of the AiAgentNerd system, a single-page web application at `deck.aiagentnerd.com`. It provides real-time monitoring and management of the entire multi-agent crew, serving as the primary control interface and visualization layer for Hermes task execution.
+Deck is the operational single-page dashboard for the AiAgentNerd multi-agent system, hosted at `deck.aiagentnerd.com`. It provides real-time visualization and administrative control over agents, tasks, users, and system health. It serves as the primary human interface for monitoring Hermes task execution and managing crew operations.
 
 ## Key Concepts
-- **Five-panel layout**: User Panel, Agent Office View, Task Panel, Activity Feed (Ship Log), System Monitoring.
-- **Agent Office View**: Visual representation of all agents showing current task, status, and model; primary interaction area.
-- **Task Panel**: Lists active and queued tasks with admin controls (stop/retry).
-- **Activity Feed**: Chronological log of system events, agent actions, and errors.
-- **System Monitoring**: CPU, memory, health, and runtime alerts.
-- **Data model**: Consumes structured data for users, agents, tasks, activity, and system status.
-- **Interaction**: Click agent to view task, click user to filter tasks, click task for details; admins can stop/retry tasks.
-- **Real-time updates**: Via polling or WebSocket, streaming task states and agent activity live.
+- **Single-Page Dashboard**: A unified web interface that displays the full system state without page reloads.
+- **Five-Panel Layout**: User Panel, Agent Office View, Task Panel, Activity Feed (Ship Log), and System Monitoring Panel.
+- **Agent Office View**: Visual representation of the agent crew showing each agent’s current task, status, and active model.
+- **Real-Time Transport**: Live updates delivered via polling or WebSocket.
+- **Hermes Visualization Layer**: Deck renders backend task execution into an operator-friendly control surface.
 
 ## Practical Use
-- Operators use Deck to monitor the health and activity of the AiAgentNerd multi-agent system.
-- Accessible at `deck.aiagentnerd.com`.
-- Provides a visual overview of all agents and their current workloads.
-- Enables direct task management (stop/retry) from the interface.
-- Acts as the entry point for system operators to interact with Hermes task execution.
+- Access the dashboard at `deck.aiagentnerd.com`.
+- Use the **User Panel** to list users, view active task counts, and filter tasks by user.
+- Use the **Agent Office View** to inspect agent status, current assignments, and which model each agent is using.
+- Use the **Task Panel** to review active and queued tasks by ID, type, user, and status; admins can stop or retry jobs directly from the interface.
+- Monitor CPU, memory, health metrics, and runtime alerts in the **System Monitoring Panel**.
+- Review the **Activity Feed** for chronological system events, agent actions, and error messages.
 
 ## Implementation Notes
-- Single-page web application.
-- Real-time updates implemented via polling or WebSocket.
-- Consumes structured data endpoints (users, agents, tasks, activity, system_status).
-- URL: `deck.aiagentnerd.com`.
+- Deck consumes a structured data model consisting of `users`, `agents`, `tasks`, `activity`, and `system_status`.
+- Real-time behavior is implemented through polling or WebSocket connections.
+- Admin controls in the Task Panel trigger stop/retry actions against backend jobs.
+- The dashboard is the primary operator entry point and the main visualization layer for Hermes.
 
 ## Related
 - [[acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812]]
