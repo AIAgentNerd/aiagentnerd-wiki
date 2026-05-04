@@ -80,4 +80,10 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[index]] — architecture/index.md
 - [[knowledge-ingestion-system]] — architecture/knowledge-ingestion-system.md
 - [[model-routing-reliability]] — architecture/model-routing-reliability.md
+- [[save-this-to-knowledge-with-preview-----category-architecture-filename-hermes-kn-4debc305-26df-4725-a347-4effb3d3b3e5]] — architecture/save-this-to-knowledge-with-preview-----category-architecture-filename-hermes-kn-4debc305-26df-4725-a347-4effb3d3b3e5.md
+- [[save-this-to-knowledge-with-preview-this-document-talks-about-cleanup-archive-me-f8699000-87a3-4a87-aa95-f6997d445829]] — architecture/save-this-to-knowledge-with-preview-this-document-talks-about-cleanup-archive-me-f8699000-87a3-4a87-aa95-f6997d445829.md
 - [[test-raw-bypass]] — architecture/test-raw-bypass.md
+
+## Troubleshooting
+
+- [[new-chat-fba354d7-5e23-430f-a0de-89635cec202b]] — troubleshooting/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md
