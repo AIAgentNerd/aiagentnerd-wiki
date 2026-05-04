@@ -2,7 +2,7 @@
 title: Architecture Hermes Knowledge System Full Architecture
 source_raw: RAW/architecture/hermes-knowledge-system-full-architecture.md
 compiled_wiki_path: WIKI/architecture/hermes-knowledge-system-full-architecture.md
-compiled_at: 2026-05-04T10:16:11.527Z
+compiled_at: 2026-05-04T10:17:40.689Z
 type: system-note
 tags: [aiagentnerd, compiled, architecture, hermes, knowledge, full, workflow, debugging]
 ---
@@ -10,7 +10,7 @@ tags: [aiagentnerd, compiled, architecture, hermes, knowledge, full, workflow, d
 # Architecture Hermes Knowledge System Full Architecture
 
 ## Summary
-This document outlines the full architecture of the Hermes Knowledge System, including the processes for knowledge ingestion, data cleanup, archive management, merge logic, and the role of the Knowledge Cleanup Agent. It is crucial for maintaining the integrity and efficiency of the AiAgentNerd knowledge base.
+This document outlines the full architecture of the Hermes Knowledge System, detailing the processes for knowledge ingestion, data cleanup, archive management, merge logic, and the role of the Knowledge Cleanup Agent. It is crucial for maintaining the integrity and efficiency of the AiAgentNerd knowledge base.
 
 ## Key Concepts
 - **Knowledge Ingestion**: The process of importing and processing raw data into a structured format.
