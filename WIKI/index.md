@@ -76,6 +76,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 
 ## Architecture
 
+- [[hermes-knowledge-system-full-architecture]] — architecture/hermes-knowledge-system-full-architecture.md
 - [[index]] — architecture/index.md
 - [[knowledge-ingestion-system]] — architecture/knowledge-ingestion-system.md
 - [[model-routing-reliability]] — architecture/model-routing-reliability.md

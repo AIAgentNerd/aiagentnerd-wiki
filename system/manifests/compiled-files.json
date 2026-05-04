@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T09:51:44.475Z",
+  "updatedAt": "2026-05-04T10:16:11.532Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -532,10 +532,10 @@
     },
     "architecture/hermes-knowledge-system-full-architecture.md": {
       "rawPath": "architecture/hermes-knowledge-system-full-architecture.md",
-      "wikiPath": "infrastructure/hermes-knowledge-system-full-architecture.md",
+      "wikiPath": "architecture/hermes-knowledge-system-full-architecture.md",
       "rawHash": "1a6a72dc598fa1d70d35473c511be574cb977b4a9ace95356860d26aece24f9f",
-      "compiledAt": "2026-05-04T09:51:44.469Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/hermes-knowledge-system-full-architecture.md",
+      "compiledAt": "2026-05-04T10:16:11.527Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/hermes-knowledge-system-full-architecture.md",
       "gitCommitted": false
     }
   }

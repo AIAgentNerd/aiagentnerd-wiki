@@ -63,5 +63,5 @@ python scripts/knowledge_cleanup_agent.py --action=cleanup --source=raw_data --d
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/infrastructure/hermes-knowledge-system-full-architecture]]
-- Last compiled: 2026-05-04T09:51:44.469Z
+- WIKI: [[WIKI/architecture/hermes-knowledge-system-full-architecture]]
+- Last compiled: 2026-05-04T10:16:11.527Z
