@@ -38,6 +38,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[cloudflare-network]] — infrastructure/cloudflare-network.md
 - [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — infrastructure/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
 - [[git-obsidian-setup]] — infrastructure/git-obsidian-setup.md
+- [[hermes-knowledge-system-full-architecture]] — infrastructure/hermes-knowledge-system-full-architecture.md
 - [[hermes-service-restart-and-troubleshooting]] — infrastructure/hermes-service-restart-and-troubleshooting.md
 - [[hermes-service-restart-and-troubleshooting-merged]] — infrastructure/hermes-service-restart-and-troubleshooting-merged.md
 - [[hermes-setup]] — infrastructure/hermes-setup.md

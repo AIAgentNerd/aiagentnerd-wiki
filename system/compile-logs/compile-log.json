@@ -761,5 +761,12 @@
     "rawPath": "openwebui/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
     "wikiPath": "infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-05-04T09:51:44.469Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/hermes-knowledge-system-full-architecture.md",
+    "wikiPath": "infrastructure/hermes-knowledge-system-full-architecture.md",
+    "result": "success"
   }
 ]

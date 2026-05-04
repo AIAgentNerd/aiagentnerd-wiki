@@ -90,6 +90,10 @@
 
 - [[vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903]] — infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md
 
+## Full
+
+- [[hermes-knowledge-system-full-architecture]] — infrastructure/hermes-knowledge-system-full-architecture.md
+
 ## Fun
 
 - [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
@@ -112,6 +116,7 @@
 
 ## Hermes
 
+- [[hermes-knowledge-system-full-architecture]] — infrastructure/hermes-knowledge-system-full-architecture.md
 - [[hermes-service-restart-and-troubleshooting]] — infrastructure/hermes-service-restart-and-troubleshooting.md
 - [[hermes-service-restart-and-troubleshooting-merged]] — infrastructure/hermes-service-restart-and-troubleshooting-merged.md
 - [[hermes-setup]] — infrastructure/hermes-setup.md
@@ -139,6 +144,7 @@
 - [[cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd]] — infrastructure/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md
 - [[cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad]] — infrastructure/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad.md
 - [[cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4]] — infrastructure/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4.md
+- [[hermes-knowledge-system-full-architecture]] — infrastructure/hermes-knowledge-system-full-architecture.md
 - [[knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06]] — infrastructure/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md
 - [[knowledge-ingestion-system]] — infrastructure/knowledge-ingestion-system.md
 - [[save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575]] — infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md

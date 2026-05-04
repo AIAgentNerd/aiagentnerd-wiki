@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-03T20:09:28.325Z",
+  "updatedAt": "2026-05-04T09:51:44.475Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -432,7 +432,7 @@
       "rawHash": "54961719109e05d8e4ca8f5276663e7e8e9e58c2d873ef205270b99e2cc67da1",
       "compiledAt": "2026-05-03T20:09:28.322Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "architecture/test-raw-bypass.md": {
       "rawPath": "architecture/test-raw-bypass.md",
@@ -528,6 +528,14 @@
       "rawHash": "589adb8a3e32b5cedd7afb464ed7297f9886215fed46b445576de417eb350c3d",
       "compiledAt": "2026-05-03T20:07:30.178Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md",
+      "gitCommitted": true
+    },
+    "architecture/hermes-knowledge-system-full-architecture.md": {
+      "rawPath": "architecture/hermes-knowledge-system-full-architecture.md",
+      "wikiPath": "infrastructure/hermes-knowledge-system-full-architecture.md",
+      "rawHash": "1a6a72dc598fa1d70d35473c511be574cb977b4a9ace95356860d26aece24f9f",
+      "compiledAt": "2026-05-04T09:51:44.469Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/hermes-knowledge-system-full-architecture.md",
       "gitCommitted": false
     }
   }
