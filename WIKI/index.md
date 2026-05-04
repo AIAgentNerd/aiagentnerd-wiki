@@ -86,4 +86,5 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 
 ## Troubleshooting
 
+- [[index]] — troubleshooting/index.md
 - [[new-chat-fba354d7-5e23-430f-a0de-89635cec202b]] — troubleshooting/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md
