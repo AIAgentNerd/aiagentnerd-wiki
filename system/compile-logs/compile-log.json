@@ -1427,5 +1427,13 @@
     "wikiPath": null,
     "result": "failure",
     "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
+  },
+  {
+    "timestamp": "2026-05-05T10:22:45.926Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md",
+    "previousRawPath": "inbox/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md",
+    "wikiPath": "architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md",
+    "result": "success"
   }
 ]
