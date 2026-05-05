@@ -3684,5 +3684,48 @@
     "reason": "skipped_large_input",
     "size": 27507,
     "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
+  },
+  {
+    "timestamp": "2026-05-05T16:00:23.179Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md",
+    "previousRawPath": null,
+    "wikiPath": "architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T16:00:23.179Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md",
+    "previousRawPath": null,
+    "wikiPath": "architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T16:02:59.059Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "concepts/small-test-chunk.md",
+    "previousRawPath": null,
+    "wikiPath": "concepts/small-test-chunk.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T16:02:59.059Z",
+    "action": "compile_system_raw",
+    "rawPath": "concepts/small-test-chunk.md",
+    "previousRawPath": null,
+    "wikiPath": "concepts/small-test-chunk.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T16:02:59.081Z",
+    "action": "skip_specific_system_raw",
+    "rawPath": "web/Karpathy-Style LLM Wiki.md",
+    "previousRawPath": null,
+    "wikiPath": "web/Karpathy-Style LLM Wiki.md",
+    "result": "skipped",
+    "reason": "skipped_large_input",
+    "size": 27508,
+    "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
   }
 ]
