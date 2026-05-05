@@ -3291,5 +3291,39 @@
     "wikiPath": null,
     "result": "failure",
     "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
+  },
+  {
+    "timestamp": "2026-05-05T14:59:23.979Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md",
+    "previousRawPath": null,
+    "wikiPath": "architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md",
+    "result": "failure",
+    "error": "Model output was truncated. Please split the source into smaller chunks."
+  },
+  {
+    "timestamp": "2026-05-05T14:59:23.982Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "Model output was truncated. Please split the source into smaller chunks."
+  },
+  {
+    "timestamp": "2026-05-05T14:59:23.998Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "web/Karpathy-Style LLM Wiki.md",
+    "previousRawPath": null,
+    "wikiPath": "web/Karpathy-Style LLM Wiki.md",
+    "result": "failure",
+    "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
+  },
+  {
+    "timestamp": "2026-05-05T14:59:23.999Z",
+    "action": "compile_system_raw",
+    "rawPath": "web/Karpathy-Style LLM Wiki.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
   }
 ]
