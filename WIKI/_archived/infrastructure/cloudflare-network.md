@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/infrastructure/cloudflare-network.md
 compiled_at: 2026-04-30T09:58:45.860Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, cloudflare, networking, ssh, architecture]
+status: archived
+archived_at: 2026-05-05T06:28:12.241Z
+reclassified_to: architecture/cloudflare-network.md
 ---
 
 # Architecture Cloudflare Network

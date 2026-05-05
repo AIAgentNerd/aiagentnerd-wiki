@@ -2,5 +2,5 @@ Cloudflare tunnel, SSH access, and networking port configuration for the server.
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/infrastructure/cloudflare-network]]
-- Last compiled: 2026-04-30T09:58:45.860Z
+- WIKI: [[WIKI/architecture/cloudflare-network]]
+- Last compiled: 2026-05-05T06:28:12.235Z

@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/services/hermes-knowledge-ingestion-system.md
 compiled_at: 2026-05-01T16:52:52.713Z
 type: system-note
 tags: [aiagentnerd, compiled, services, hermes, knowledge, ingestion, architecture]
+status: archived
+archived_at: 2026-05-05T06:29:10.699Z
+reclassified_to: architecture/hermes-knowledge-ingestion-system.md
 ---
 
 # Architecture Hermes Knowledge Ingestion System

@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635ce
 compiled_at: 2026-05-03T19:59:39.861Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, new, chat, fba354d7, 5e23, 430f]
+status: archived
+archived_at: 2026-05-05T06:21:27.967Z
+reclassified_to: troubleshooting/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md
 ---
 
 # Openwebui New Chat Fba354d7 5e23 430f A0de 89635cec202b
