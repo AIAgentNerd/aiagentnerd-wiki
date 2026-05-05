@@ -1,9 +1,5 @@
 # Infrastructure
 
-## 3a89446a
-
-- [[cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd]] — infrastructure/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md
-
 ## Api
 
 - [[hermes-setup]] — infrastructure/hermes-setup.md
@@ -11,10 +7,6 @@
 ## Clean
 
 - [[clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143]] — infrastructure/clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143.md
-
-## Cleanup
-
-- [[cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd]] — infrastructure/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md
 
 ## Cloudflare
 
@@ -46,7 +38,6 @@
 
 ## Knowledge
 
-- [[cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd]] — infrastructure/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md
 - [[hermes-knowledge-system-full-architecture]] — infrastructure/hermes-knowledge-system-full-architecture.md
 - [[save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575]] — infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md
 

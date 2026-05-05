@@ -346,5 +346,5 @@ Confidence: high
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/infrastructure/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd]]
-- Last compiled: 2026-05-03T20:07:30.178Z
+- WIKI: [[WIKI/architecture/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd]]
+- Last compiled: 2026-05-05T08:22:42.809Z

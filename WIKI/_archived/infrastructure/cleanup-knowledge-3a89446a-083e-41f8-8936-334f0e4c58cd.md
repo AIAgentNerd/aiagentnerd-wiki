@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/infrastructure/cleanup-knowledge-3a89446a-083e-41f8-893
 compiled_at: 2026-05-03T20:07:30.178Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, cleanup, knowledge, 3a89446a, 083e, 41f8]
+status: archived
+archived_at: 2026-05-05T08:22:42.826Z
+reclassified_to: architecture/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md
 ---
 
 # Openwebui Cleanup Knowledge 3a89446a 083e 41f8 8936 334f0e4c58cd
