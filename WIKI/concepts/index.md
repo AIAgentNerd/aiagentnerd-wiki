@@ -4,6 +4,10 @@
 
 - [[random-messy-broken-test]] — concepts/random-messy-broken-test.md
 
+## Chunk
+
+- [[small-test-chunk]] — concepts/small-test-chunk.md
+
 ## Current
 
 - [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — concepts/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
@@ -80,6 +84,10 @@
 ## Roman
 
 - [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — concepts/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
+
+## Small
+
+- [[small-test-chunk]] — concepts/small-test-chunk.md
 
 ## State
 
