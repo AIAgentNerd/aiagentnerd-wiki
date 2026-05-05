@@ -839,5 +839,12 @@
     "rawPath": "architecture/raw-test-3.md",
     "wikiPath": "architecture/raw-test-3.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T03:37:11.746Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "architecture/raw-test-3-2.md",
+    "wikiPath": "architecture/raw-test-3-2.md",
+    "result": "success"
   }
 ]
