@@ -3,10 +3,12 @@
 ## 2
 
 - [[raw-test-2]] — architecture/raw-test-2.md
+- [[raw-test-3-2]] — architecture/raw-test-3-2.md
 
 ## 3
 
 - [[raw-test-3]] — architecture/raw-test-3.md
+- [[raw-test-3-2]] — architecture/raw-test-3-2.md
 
 ## Bypass
 
@@ -23,6 +25,10 @@
 ## General
 
 - [[model-routing-reliability]] — architecture/model-routing-reliability.md
+
+## Git
+
+- [[raw-test-3-2]] — architecture/raw-test-3-2.md
 
 ## Hermes
 
