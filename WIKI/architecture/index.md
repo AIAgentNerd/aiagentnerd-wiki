@@ -4,6 +4,10 @@
 
 - [[test-raw-bypass]] — architecture/test-raw-bypass.md
 
+## Debugging
+
+- [[raw-test]] — architecture/raw-test.md
+
 ## Full
 
 - [[hermes-knowledge-system-full-architecture]] — architecture/hermes-knowledge-system-full-architecture.md
@@ -15,6 +19,7 @@
 ## Hermes
 
 - [[hermes-knowledge-system-full-architecture]] — architecture/hermes-knowledge-system-full-architecture.md
+- [[raw-test]] — architecture/raw-test.md
 
 ## Ingestion
 
