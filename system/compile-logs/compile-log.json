@@ -3735,5 +3735,32 @@
     "previousRawPath": null,
     "wikiPath": "concepts/aiagentnerd-knowledge-system-explainer-and-workflow.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T16:08:33.310Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "concepts/small-test-chunk.md",
+    "previousRawPath": null,
+    "wikiPath": "concepts/small-test-chunk.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T16:08:33.310Z",
+    "action": "compile_system_raw",
+    "rawPath": "concepts/small-test-chunk.md",
+    "previousRawPath": null,
+    "wikiPath": "concepts/small-test-chunk.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T16:08:33.330Z",
+    "action": "skip_specific_system_raw",
+    "rawPath": "web/Karpathy-Style LLM Wiki.md",
+    "previousRawPath": null,
+    "wikiPath": "web/Karpathy-Style LLM Wiki.md",
+    "result": "skipped",
+    "reason": "skipped_large_input",
+    "size": 27508,
+    "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
   }
 ]

@@ -15,6 +15,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 
 ## Concepts
 
+- [[aiagentnerd-knowledge-system-explainer-and-workflow]] — concepts/aiagentnerd-knowledge-system-explainer-and-workflow.md
 - [[aiagentnerd-master-notes]] — concepts/aiagentnerd-master-notes.md
 - [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — concepts/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
 - [[deck]] — concepts/deck.md

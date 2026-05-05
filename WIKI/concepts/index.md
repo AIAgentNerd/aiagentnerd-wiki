@@ -20,6 +20,10 @@
 
 - [[ingest-endpoint-test]] — concepts/ingest-endpoint-test.md
 
+## Explainer
+
+- [[aiagentnerd-knowledge-system-explainer-and-workflow]] — concepts/aiagentnerd-knowledge-system-explainer-and-workflow.md
+
 ## Fill
 
 - [[vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903]] — concepts/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md
@@ -52,6 +56,10 @@
 ## Karpathy
 
 - [[your-karpathy-file-name]] — concepts/your-karpathy-file-name.md
+
+## Knowledge
+
+- [[aiagentnerd-knowledge-system-explainer-and-workflow]] — concepts/aiagentnerd-knowledge-system-explainer-and-workflow.md
 
 ## Messy
 
@@ -111,6 +119,10 @@
 - [[aiagentnerd-master-notes]] — concepts/aiagentnerd-master-notes.md
 - [[karpathy-llm-wiki]] — concepts/karpathy-llm-wiki.md
 - [[Karpathy-Style LLM Wiki]] — concepts/Karpathy-Style LLM Wiki.md
+
+## Workflow
+
+- [[aiagentnerd-knowledge-system-explainer-and-workflow]] — concepts/aiagentnerd-knowledge-system-explainer-and-workflow.md
 
 ## Your
 
