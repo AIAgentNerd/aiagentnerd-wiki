@@ -4211,5 +4211,32 @@
     "reason": "skipped_large_input",
     "size": 27508,
     "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
+  },
+  {
+    "timestamp": "2026-05-05T17:36:40.028Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "concepts/small-test-chunk.md",
+    "previousRawPath": null,
+    "wikiPath": "concepts/small-test-chunk.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T17:36:40.028Z",
+    "action": "compile_system_raw",
+    "rawPath": "concepts/small-test-chunk.md",
+    "previousRawPath": null,
+    "wikiPath": "concepts/small-test-chunk.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T17:36:40.046Z",
+    "action": "skip_specific_system_raw",
+    "rawPath": "web/Karpathy-Style LLM Wiki.md",
+    "previousRawPath": null,
+    "wikiPath": "web/Karpathy-Style LLM Wiki.md",
+    "result": "skipped",
+    "reason": "skipped_large_input",
+    "size": 27508,
+    "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
   }
 ]
