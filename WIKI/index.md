@@ -23,6 +23,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[karpathy-llm-wiki]] — concepts/karpathy-llm-wiki.md
 - [[Karpathy-Style LLM Wiki]] — concepts/Karpathy-Style LLM Wiki.md
 - [[llm-wiki]] — concepts/llm-wiki.md
+- [[random-messy-broken-test]] — concepts/random-messy-broken-test.md
 - [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — concepts/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
 - [[Topic brains]] — concepts/Topic brains.md
 - [[vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903]] — concepts/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md

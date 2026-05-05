@@ -1,5 +1,9 @@
 # Concepts
 
+## Broken
+
+- [[random-messy-broken-test]] — concepts/random-messy-broken-test.md
+
 ## Current
 
 - [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — concepts/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
@@ -45,6 +49,10 @@
 
 - [[your-karpathy-file-name]] — concepts/your-karpathy-file-name.md
 
+## Messy
+
+- [[random-messy-broken-test]] — concepts/random-messy-broken-test.md
+
 ## Model
 
 - [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — concepts/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
@@ -60,6 +68,10 @@
 ## Queue
 
 - [[deck]] — concepts/deck.md
+
+## Random
+
+- [[random-messy-broken-test]] — concepts/random-messy-broken-test.md
 
 ## Roman
 
