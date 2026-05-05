@@ -46,6 +46,10 @@
 - [[acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa]] — architecture/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md
 - [[acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812]] — architecture/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md
 
+## Again
+
+- [[lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture]] — architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md
+
 ## Agent
 
 - [[agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca]] — architecture/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md
@@ -142,6 +146,10 @@
 - [[save-this-to-knowledge-with-preview-this-document-talks-about-cleanup-archive-me-f8699000-87a3-4a87-aa95-f6997d445829]] — architecture/save-this-to-knowledge-with-preview-this-document-talks-about-cleanup-archive-me-f8699000-87a3-4a87-aa95-f6997d445829.md
 - [[save-to-knowledge-skill]] — architecture/save-to-knowledge-skill.md
 
+## Lets
+
+- [[lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture]] — architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md
+
 ## Master
 
 - [[aiagentnerd-master-notes]] — architecture/aiagentnerd-master-notes.md
@@ -199,6 +207,10 @@
 
 - [[save-this-to-knowledge-with-preview-----category-architecture-filename-hermes-kn-4debc305-26df-4725-a347-4effb3d3b3e5]] — architecture/save-this-to-knowledge-with-preview-----category-architecture-filename-hermes-kn-4debc305-26df-4725-a347-4effb3d3b3e5.md
 - [[save-this-to-knowledge-with-preview-this-document-talks-about-cleanup-archive-me-f8699000-87a3-4a87-aa95-f6997d445829]] — architecture/save-this-to-knowledge-with-preview-this-document-talks-about-cleanup-archive-me-f8699000-87a3-4a87-aa95-f6997d445829.md
+
+## Try
+
+- [[lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture]] — architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md
 
 ## Ui
 
