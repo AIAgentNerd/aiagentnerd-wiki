@@ -4,6 +4,10 @@
 
 - [[raw-test-2]] — architecture/raw-test-2.md
 
+## 3
+
+- [[raw-test-3]] — architecture/raw-test-3.md
+
 ## Bypass
 
 - [[test-raw-bypass]] — architecture/test-raw-bypass.md
