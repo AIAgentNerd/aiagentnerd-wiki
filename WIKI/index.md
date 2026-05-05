@@ -26,6 +26,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[random-messy-broken-test]] — concepts/random-messy-broken-test.md
 - [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — concepts/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
 - [[Topic brains]] — concepts/Topic brains.md
+- [[unique-pending-state-test-2026-05-05-1738]] — concepts/unique-pending-state-test-2026-05-05-1738.md
 - [[vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903]] — concepts/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md
 - [[your-karpathy-file-name]] — concepts/your-karpathy-file-name.md
 
