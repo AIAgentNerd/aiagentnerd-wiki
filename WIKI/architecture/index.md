@@ -38,6 +38,7 @@
 
 - [[cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad]] — architecture/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad.md
 - [[cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4]] — architecture/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4.md
+- [[random-note-about-knowledge-systems-and-structure]] — architecture/random-note-about-knowledge-systems-and-structure.md
 
 ## Acr
 
@@ -135,6 +136,7 @@
 - [[hermes-knowledge-system-full-architecture]] — architecture/hermes-knowledge-system-full-architecture.md
 - [[knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06]] — architecture/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md
 - [[knowledge-ingestion-system]] — architecture/knowledge-ingestion-system.md
+- [[random-note-about-knowledge-systems-and-structure]] — architecture/random-note-about-knowledge-systems-and-structure.md
 - [[save-this-to-knowledge-with-preview-----category-architecture-filename-hermes-kn-4debc305-26df-4725-a347-4effb3d3b3e5]] — architecture/save-this-to-knowledge-with-preview-----category-architecture-filename-hermes-kn-4debc305-26df-4725-a347-4effb3d3b3e5.md
 - [[save-this-to-knowledge-with-preview-this-document-talks-about-cleanup-archive-me-f8699000-87a3-4a87-aa95-f6997d445829]] — architecture/save-this-to-knowledge-with-preview-this-document-talks-about-cleanup-archive-me-f8699000-87a3-4a87-aa95-f6997d445829.md
 - [[save-to-knowledge-skill]] — architecture/save-to-knowledge-skill.md
@@ -156,6 +158,10 @@
 
 - [[acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812]] — architecture/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md
 - [[aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504]] — architecture/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md
+
+## Random
+
+- [[random-note-about-knowledge-systems-and-structure]] — architecture/random-note-about-knowledge-systems-and-structure.md
 
 ## Request
 

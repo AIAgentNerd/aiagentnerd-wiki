@@ -84,6 +84,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[knowledge-ingestion-system]] — architecture/knowledge-ingestion-system.md
 - [[mobile-ingestion-and-hermes-skill]] — architecture/mobile-ingestion-and-hermes-skill.md
 - [[model-routing-reliability]] — architecture/model-routing-reliability.md
+- [[random-note-about-knowledge-systems-and-structure]] — architecture/random-note-about-knowledge-systems-and-structure.md
 - [[raw-test]] — architecture/raw-test.md
 - [[raw-test-2]] — architecture/raw-test-2.md
 - [[raw-test-3]] — architecture/raw-test-3.md

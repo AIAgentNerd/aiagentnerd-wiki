@@ -19,4 +19,4 @@ random note about knowledge systems and structure
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/architecture/random-note-about-knowledge-systems-and-structure]]
-- Last compiled: 2026-05-05T09:47:29.298Z
+- Last compiled: 2026-05-05T09:48:55.306Z
