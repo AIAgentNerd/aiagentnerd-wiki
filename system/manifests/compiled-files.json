@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T08:22:42.826Z",
+  "updatedAt": "2026-05-05T09:32:41.323Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -528,7 +528,7 @@
       "rawHash": "589adb8a3e32b5cedd7afb464ed7297f9886215fed46b445576de417eb350c3d",
       "compiledAt": "2026-05-05T08:22:42.809Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md",
-      "gitCommitted": false
+      "gitCommitted": true
     },
     "architecture/hermes-knowledge-system-full-architecture.md": {
       "rawPath": "architecture/hermes-knowledge-system-full-architecture.md",
@@ -601,6 +601,14 @@
       "compiledAt": "2026-05-05T07:19:32.798Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/aiagentnerd-backend-hardening-summary.md",
       "gitCommitted": true
+    },
+    "inbox/random-messy-broken-test.md": {
+      "rawPath": "inbox/random-messy-broken-test.md",
+      "wikiPath": "concepts/random-messy-broken-test.md",
+      "rawHash": "b1887b033c6f287f043dabb4bdd88fe07321c183bd225d02f8d311d148056dcc",
+      "compiledAt": "2026-05-05T09:32:41.314Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/random-messy-broken-test.md",
+      "gitCommitted": false
     }
   }
 }
