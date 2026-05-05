@@ -1,5 +1,13 @@
 # Services
 
+## Cleanup
+
+- [[hermes-cleanup-system]] — services/hermes-cleanup-system.md
+
+## Debugging
+
+- [[hermes-cleanup-system]] — services/hermes-cleanup-system.md
+
 ## Deck
 
 - [[deck]] — services/deck.md
@@ -7,6 +15,7 @@
 ## Hermes
 
 - [[deck]] — services/deck.md
+- [[hermes-cleanup-system]] — services/hermes-cleanup-system.md
 - [[hermes-knowledge-ingestion-system]] — services/hermes-knowledge-ingestion-system.md
 - [[hermes-service-restart-and-troubleshooting-merged-2]] — services/hermes-service-restart-and-troubleshooting-merged-2.md
 - [[hermes-setup]] — services/hermes-setup.md
