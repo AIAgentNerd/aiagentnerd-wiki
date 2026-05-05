@@ -1301,5 +1301,30 @@
     "wikiPath": null,
     "result": "failure",
     "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
+  },
+  {
+    "timestamp": "2026-05-05T09:55:07.158Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "architecture/random-test-about-systems-architecture-and-pipelines.md",
+    "previousRawPath": "inbox/random-test-about-systems-architecture-and-pipelines.md",
+    "wikiPath": "architecture/random-test-about-systems-architecture-and-pipelines.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T09:58:46.594Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "web/Karpathy-Style LLM Wiki.md",
+    "previousRawPath": null,
+    "wikiPath": "web/Karpathy-Style LLM Wiki.md",
+    "result": "failure",
+    "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
+  },
+  {
+    "timestamp": "2026-05-05T09:58:46.594Z",
+    "action": "compile_system_raw",
+    "rawPath": "web/Karpathy-Style LLM Wiki.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
   }
 ]

@@ -39,6 +39,7 @@
 - [[cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad]] — architecture/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad.md
 - [[cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4]] — architecture/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4.md
 - [[random-note-about-knowledge-systems-and-structure]] — architecture/random-note-about-knowledge-systems-and-structure.md
+- [[random-test-about-systems-architecture-and-pipelines]] — architecture/random-test-about-systems-architecture-and-pipelines.md
 
 ## Acr
 
@@ -162,6 +163,7 @@
 ## Random
 
 - [[random-note-about-knowledge-systems-and-structure]] — architecture/random-note-about-knowledge-systems-and-structure.md
+- [[random-test-about-systems-architecture-and-pipelines]] — architecture/random-test-about-systems-architecture-and-pipelines.md
 
 ## Request
 
@@ -188,6 +190,10 @@
 ## Summary
 
 - [[aiagentnerd-backend-hardening-summary]] — architecture/aiagentnerd-backend-hardening-summary.md
+
+## Systems
+
+- [[random-test-about-systems-architecture-and-pipelines]] — architecture/random-test-about-systems-architecture-and-pipelines.md
 
 ## This
 
