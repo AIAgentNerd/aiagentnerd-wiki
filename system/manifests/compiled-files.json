@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T03:37:11.753Z",
+  "updatedAt": "2026-05-05T06:56:28.228Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
-      "wikiPath": "docs/aiagentnerd-master-notes.md",
+      "wikiPath": "architecture/aiagentnerd-master-notes.md",
       "rawHash": "14ebfdcf3df44899a88faf798c598aab9fe2a59c4f63da1808b151c8562ab41f",
-      "compiledAt": "2026-04-23T15:33:47.722Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/docs/aiagentnerd-master-notes.md",
-      "gitCommitted": true
+      "compiledAt": "2026-05-05T06:37:31.469Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/aiagentnerd-master-notes.md",
+      "gitCommitted": false
     },
     "web/Karpathy-Style LLM Wiki.md": {
       "rawPath": "web/Karpathy-Style LLM Wiki.md",
@@ -164,27 +164,27 @@
     },
     "openwebui/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md": {
       "rawPath": "openwebui/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md",
-      "wikiPath": "infrastructure/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md",
+      "wikiPath": "architecture/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md",
       "rawHash": "be45fd988ac13925038a387d1920a42dac49ad8d2115ad035dd102d9e82fa794",
-      "compiledAt": "2026-04-30T19:47:20.197Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md",
-      "gitCommitted": true
+      "compiledAt": "2026-05-05T06:41:02.524Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md",
+      "gitCommitted": false
     },
     "openwebui/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md": {
       "rawPath": "openwebui/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
-      "wikiPath": "infrastructure/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
+      "wikiPath": "architecture/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
       "rawHash": "420a5a95f485f0e2181cb7504332d1dda642ec16b19479d0bd249adec1fb3444",
-      "compiledAt": "2026-04-30T19:52:04.500Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
-      "gitCommitted": true
+      "compiledAt": "2026-05-05T06:44:09.259Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
+      "gitCommitted": false
     },
     "openwebui/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md": {
       "rawPath": "openwebui/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md",
-      "wikiPath": "infrastructure/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md",
+      "wikiPath": "architecture/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md",
       "rawHash": "7c21f98e218e163dd3c39aef8b27cd653c1cdf340296caafaf068938b0ab5b4d",
-      "compiledAt": "2026-04-30T19:48:38.885Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md",
-      "gitCommitted": true
+      "compiledAt": "2026-05-05T06:46:34.676Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md",
+      "gitCommitted": false
     },
     "aionui/2026-04-30T08-30-18-226Z-65efff25-9cba-4604-a909-a687e9942c3f.md": {
       "rawPath": "aionui/2026-04-30T08-30-18-226Z-65efff25-9cba-4604-a909-a687e9942c3f.md",
@@ -270,40 +270,40 @@
       "rawPath": "aionui/2026-04-30T09-33-08-023Z-7d152c30-ef2e-4ac0-9288-8bb570a37193.md",
       "wikiPath": "services/2026-04-30T09-33-08-023Z-7d152c30-ef2e-4ac0-9288-8bb570a37193.md",
       "rawHash": "bc8ce7c76cf3fb8a92484a275f9c5f5b98557c3256bb8c301488128f5427b6df",
-      "compiledAt": "2026-04-30T09:36:52.139Z",
+      "compiledAt": "2026-05-05T06:23:01.395Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/2026-04-30T09-33-08-023Z-7d152c30-ef2e-4ac0-9288-8bb570a37193.md",
-      "gitCommitted": true
+      "gitCommitted": false
     },
     "aionui/2026-04-30T09-34-03-702Z-97bba13e-8095-4f44-995d-1398af93b407.md": {
       "rawPath": "aionui/2026-04-30T09-34-03-702Z-97bba13e-8095-4f44-995d-1398af93b407.md",
-      "wikiPath": "infrastructure/2026-04-30T09-34-03-702Z-97bba13e-8095-4f44-995d-1398af93b407.md",
+      "wikiPath": "services/2026-04-30T09-34-03-702Z-97bba13e-8095-4f44-995d-1398af93b407.md",
       "rawHash": "2883fcf613e47302b7c8d05348d4dcb06ae1dedce6e58df190d6e51eadead515",
-      "compiledAt": "2026-04-30T09:38:52.733Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/2026-04-30T09-34-03-702Z-97bba13e-8095-4f44-995d-1398af93b407.md",
-      "gitCommitted": true
+      "compiledAt": "2026-05-05T06:23:39.118Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/2026-04-30T09-34-03-702Z-97bba13e-8095-4f44-995d-1398af93b407.md",
+      "gitCommitted": false
     },
     "aionui/2026-04-30T09-34-15-091Z-4d760d59-a6b6-4af0-b0ef-5d2e6ffe86cf.md": {
       "rawPath": "aionui/2026-04-30T09-34-15-091Z-4d760d59-a6b6-4af0-b0ef-5d2e6ffe86cf.md",
-      "wikiPath": "services/2026-04-30T09-34-15-091Z-4d760d59-a6b6-4af0-b0ef-5d2e6ffe86cf.md",
+      "wikiPath": "architecture/2026-04-30T09-34-15-091Z-4d760d59-a6b6-4af0-b0ef-5d2e6ffe86cf.md",
       "rawHash": "8acc8e9f2be1265de683c1a496c0e8ccdcc11bf079ccc8cc0d84fb6693c697b5",
-      "compiledAt": "2026-04-30T09:39:55.365Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/2026-04-30T09-34-15-091Z-4d760d59-a6b6-4af0-b0ef-5d2e6ffe86cf.md",
-      "gitCommitted": true
+      "compiledAt": "2026-05-05T06:25:10.812Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/2026-04-30T09-34-15-091Z-4d760d59-a6b6-4af0-b0ef-5d2e6ffe86cf.md",
+      "gitCommitted": false
     },
     "aionui/2026-04-30T09-34-36-567Z-d73099b8-3211-482e-9359-93eff9d39801.md": {
       "rawPath": "aionui/2026-04-30T09-34-36-567Z-d73099b8-3211-482e-9359-93eff9d39801.md",
-      "wikiPath": "infrastructure/2026-04-30T09-34-36-567Z-d73099b8-3211-482e-9359-93eff9d39801.md",
+      "wikiPath": "services/2026-04-30T09-34-36-567Z-d73099b8-3211-482e-9359-93eff9d39801.md",
       "rawHash": "48214ec8910fe46838027fb3455a5cd005b7ed6eac8c49199792a38e038f9021",
-      "compiledAt": "2026-04-30T09:41:02.515Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/2026-04-30T09-34-36-567Z-d73099b8-3211-482e-9359-93eff9d39801.md",
-      "gitCommitted": true
+      "compiledAt": "2026-05-05T06:26:46.286Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/2026-04-30T09-34-36-567Z-d73099b8-3211-482e-9359-93eff9d39801.md",
+      "gitCommitted": false
     },
     "architecture/cloudflare-network.md": {
       "rawPath": "architecture/cloudflare-network.md",
-      "wikiPath": "infrastructure/cloudflare-network.md",
+      "wikiPath": "architecture/cloudflare-network.md",
       "rawHash": "49cabbc89b9149abc6b407e6f8e8eaa766287c99786fd80d1583f680e0760777",
-      "compiledAt": "2026-04-30T09:58:45.860Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/cloudflare-network.md",
+      "compiledAt": "2026-05-05T06:28:12.235Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/cloudflare-network.md",
       "gitCommitted": false
     },
     "quarantine/openwebui-random/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md": {
@@ -364,27 +364,27 @@
     },
     "architecture/knowledge-ingestion-system.md": {
       "rawPath": "architecture/knowledge-ingestion-system.md",
-      "wikiPath": "infrastructure/knowledge-ingestion-system.md",
+      "wikiPath": "architecture/knowledge-ingestion-system.md",
       "rawHash": "3a5526cfea92adeaa82c2f0719208ad1a61b24157ff01e05a8b727f98fb9f773",
-      "compiledAt": "2026-04-30T16:01:10.207Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/knowledge-ingestion-system.md",
+      "compiledAt": "2026-05-05T06:31:48.703Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/knowledge-ingestion-system.md",
       "gitCommitted": false
     },
     "openwebui/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md": {
       "rawPath": "openwebui/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
-      "wikiPath": "infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
+      "wikiPath": "architecture/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
       "rawHash": "46c88b21be5b9ea20a1d78c037bc8537fef4d0a1572d151a3cfb68ccadba6509",
-      "compiledAt": "2026-05-03T19:47:14.698Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
-      "gitCommitted": true
+      "compiledAt": "2026-05-05T06:50:26.101Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
+      "gitCommitted": false
     },
     "architecture/mobile-ingestion-and-hermes-skill.md": {
       "rawPath": "architecture/mobile-ingestion-and-hermes-skill.md",
-      "wikiPath": "infrastructure/mobile-ingestion-and-hermes-skill.md",
+      "wikiPath": "architecture/mobile-ingestion-and-hermes-skill.md",
       "rawHash": "8b56be0f7d73779fefbf4bb2e1205ee2e983a9adb1f6bc87e1fac68155a0852a",
-      "compiledAt": "2026-05-01T05:27:09.994Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/mobile-ingestion-and-hermes-skill.md",
-      "gitCommitted": true
+      "compiledAt": "2026-05-05T06:33:49.385Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/mobile-ingestion-and-hermes-skill.md",
+      "gitCommitted": false
     },
     "inbox/ingest-endpoint-test.md": {
       "rawPath": "inbox/ingest-endpoint-test.md",
@@ -404,10 +404,10 @@
     },
     "architecture/hermes-knowledge-ingestion-system.md": {
       "rawPath": "architecture/hermes-knowledge-ingestion-system.md",
-      "wikiPath": "services/hermes-knowledge-ingestion-system.md",
+      "wikiPath": "architecture/hermes-knowledge-ingestion-system.md",
       "rawHash": "b15aa6ce876443ae224bbc02b87907eafb9db3c778e75556eb8d96e50494cd8f",
-      "compiledAt": "2026-05-01T16:52:52.713Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/hermes-knowledge-ingestion-system.md",
+      "compiledAt": "2026-05-05T06:29:10.694Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/hermes-knowledge-ingestion-system.md",
       "gitCommitted": false
     },
     "openwebui/clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143.md": {
@@ -444,10 +444,10 @@
     },
     "architecture/save-to-knowledge-skill.md": {
       "rawPath": "architecture/save-to-knowledge-skill.md",
-      "wikiPath": "infrastructure/save-to-knowledge-skill.md",
+      "wikiPath": "architecture/save-to-knowledge-skill.md",
       "rawHash": "d50fb0d2ae4c6c1bff7ce62e412e102250df59bff9bdb6783c4dec55b3b5445e",
-      "compiledAt": "2026-05-02T04:42:26.145Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/save-to-knowledge-skill.md",
+      "compiledAt": "2026-05-05T06:36:20.408Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/save-to-knowledge-skill.md",
       "gitCommitted": false
     },
     "inbox/hermes-service-restart-and-troubleshooting-merged.md": {
@@ -460,10 +460,10 @@
     },
     "inbox/hermes-service-restart-and-troubleshooting-merged-2.md": {
       "rawPath": "inbox/hermes-service-restart-and-troubleshooting-merged-2.md",
-      "wikiPath": "services/hermes-service-restart-and-troubleshooting-merged-2.md",
+      "wikiPath": "infrastructure/hermes-service-restart-and-troubleshooting-merged-2.md",
       "rawHash": "ac32cedc9d4b937dac1b91ec30112f049fdd4174716dbc725c7b5036983e04b9",
-      "compiledAt": "2026-05-02T10:48:38.600Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/services/hermes-service-restart-and-troubleshooting-merged-2.md",
+      "compiledAt": "2026-05-05T06:38:22.660Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/hermes-service-restart-and-troubleshooting-merged-2.md",
       "gitCommitted": false
     },
     "openwebui/merge-this-with-existing-knowledge-about-hermes-restart-with-preview-hermes-can--2f69dc4a-1e47-4de3-855b-d2df003e689e.md": {
@@ -484,11 +484,11 @@
     },
     "_archived/openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md": {
       "rawPath": "_archived/openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
-      "wikiPath": "infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
+      "wikiPath": "troubleshooting/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
       "rawHash": "10ea2c9eac353c2da4e6beaf35b73271e0a86e1a7d4a0aa05d866cb73d44d6e1",
-      "compiledAt": "2026-05-03T11:48:20.092Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
-      "gitCommitted": true
+      "compiledAt": "2026-05-05T06:21:27.952Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/troubleshooting/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
+      "gitCommitted": false
     },
     "openwebui/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad.md": {
       "rawPath": "openwebui/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad.md",
@@ -592,6 +592,14 @@
       "rawHash": "43945f2c2df4bc74dfd629506f480141c606e68e501622ea5cbc9d24674a54fb",
       "compiledAt": "2026-05-05T03:37:11.746Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/raw-test-3-2.md",
+      "gitCommitted": false
+    },
+    "architecture/aiagentnerd-backend-hardening-summary.md": {
+      "rawPath": "architecture/aiagentnerd-backend-hardening-summary.md",
+      "wikiPath": "architecture/aiagentnerd-backend-hardening-summary.md",
+      "rawHash": "d683b22620811a4578fbfef7b6e14f233d768b189c3924b70d45fd9d5d9b48f1",
+      "compiledAt": "2026-05-05T06:56:28.221Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/aiagentnerd-backend-hardening-summary.md",
       "gitCommitted": false
     }
   }

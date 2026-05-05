@@ -846,5 +846,139 @@
     "rawPath": "architecture/raw-test-3-2.md",
     "wikiPath": "architecture/raw-test-3-2.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:21:27.952Z",
+    "action": "compile_system_raw",
+    "rawPath": "_archived/openwebui/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
+    "wikiPath": "troubleshooting/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:23:01.395Z",
+    "action": "compile_system_raw",
+    "rawPath": "aionui/2026-04-30T09-33-08-023Z-7d152c30-ef2e-4ac0-9288-8bb570a37193.md",
+    "wikiPath": "services/2026-04-30T09-33-08-023Z-7d152c30-ef2e-4ac0-9288-8bb570a37193.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:23:39.118Z",
+    "action": "compile_system_raw",
+    "rawPath": "aionui/2026-04-30T09-34-03-702Z-97bba13e-8095-4f44-995d-1398af93b407.md",
+    "wikiPath": "services/2026-04-30T09-34-03-702Z-97bba13e-8095-4f44-995d-1398af93b407.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:25:10.812Z",
+    "action": "compile_system_raw",
+    "rawPath": "aionui/2026-04-30T09-34-15-091Z-4d760d59-a6b6-4af0-b0ef-5d2e6ffe86cf.md",
+    "wikiPath": "architecture/2026-04-30T09-34-15-091Z-4d760d59-a6b6-4af0-b0ef-5d2e6ffe86cf.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:26:46.286Z",
+    "action": "compile_system_raw",
+    "rawPath": "aionui/2026-04-30T09-34-36-567Z-d73099b8-3211-482e-9359-93eff9d39801.md",
+    "wikiPath": "services/2026-04-30T09-34-36-567Z-d73099b8-3211-482e-9359-93eff9d39801.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:28:12.235Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/cloudflare-network.md",
+    "wikiPath": "architecture/cloudflare-network.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:29:10.694Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/hermes-knowledge-ingestion-system.md",
+    "wikiPath": "architecture/hermes-knowledge-ingestion-system.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:31:48.703Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/knowledge-ingestion-system.md",
+    "wikiPath": "architecture/knowledge-ingestion-system.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:33:49.385Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/mobile-ingestion-and-hermes-skill.md",
+    "wikiPath": "architecture/mobile-ingestion-and-hermes-skill.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:36:20.408Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/save-to-knowledge-skill.md",
+    "wikiPath": "architecture/save-to-knowledge-skill.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:37:31.469Z",
+    "action": "compile_system_raw",
+    "rawPath": "docs/aiagentnerd-master-notes.md",
+    "wikiPath": "architecture/aiagentnerd-master-notes.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:38:22.660Z",
+    "action": "compile_system_raw",
+    "rawPath": "inbox/hermes-service-restart-and-troubleshooting-merged-2.md",
+    "wikiPath": "infrastructure/hermes-service-restart-and-troubleshooting-merged-2.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:41:02.524Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md",
+    "wikiPath": "architecture/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:44:09.259Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
+    "wikiPath": "architecture/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:46:34.676Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md",
+    "wikiPath": "architecture/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:50:26.101Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
+    "wikiPath": "architecture/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:53:56.715Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "Model output was truncated. Please split the source into smaller chunks."
+  },
+  {
+    "timestamp": "2026-05-05T06:55:35.302Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad.md",
+    "wikiPath": "architecture/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:56:28.221Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "architecture/aiagentnerd-backend-hardening-summary.md",
+    "wikiPath": "architecture/aiagentnerd-backend-hardening-summary.md",
+    "result": "success"
   }
 ]
