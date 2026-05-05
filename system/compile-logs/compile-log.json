@@ -6231,5 +6231,135 @@
     "reason": "skipped_large_input",
     "size": 27508,
     "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
+  },
+  {
+    "timestamp": "2026-05-05T20:35:59.647Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "concepts/small-test-chunk.md",
+    "previousRawPath": null,
+    "wikiPath": "concepts/small-test-chunk.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 3774 > 3493. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-05T20:35:59.655Z",
+    "action": "compile_system_raw",
+    "rawPath": "concepts/small-test-chunk.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 3774 > 3493. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-05T20:35:59.935Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 8466 > 3493. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-05T20:35:59.944Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 8466 > 3493. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-05T20:36:00.148Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 11598 > 3493. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-05T20:36:00.156Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 11598 > 3493. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-05T20:36:00.827Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 10467 > 3687. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-05T20:36:00.834Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 10467 > 3687. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-05T20:36:01.070Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 13908 > 3687. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-05T20:36:01.077Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 13908 > 3687. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-05T20:36:01.256Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 5458 > 3493. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-05T20:36:01.263Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 5458 > 3493. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-05T20:36:01.450Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 12818 > 3493. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-05T20:36:01.458Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 12818 > 3493. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-05T20:36:01.485Z",
+    "action": "skip_specific_system_raw",
+    "rawPath": "web/Karpathy-Style LLM Wiki.md",
+    "previousRawPath": null,
+    "wikiPath": "web/Karpathy-Style LLM Wiki.md",
+    "result": "skipped",
+    "reason": "skipped_large_input",
+    "size": 27508,
+    "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
   }
 ]
