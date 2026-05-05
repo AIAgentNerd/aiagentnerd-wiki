@@ -1254,5 +1254,12 @@
     "wikiPath": null,
     "result": "failure",
     "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
+  },
+  {
+    "timestamp": "2026-05-05T09:47:29.298Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "inbox/random-note-about-knowledge-systems-and-structure.md",
+    "wikiPath": "architecture/random-note-about-knowledge-systems-and-structure.md",
+    "result": "success"
   }
 ]
