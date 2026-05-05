@@ -180,5 +180,5 @@ Canonical files created via merge
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/infrastructure/knowledge-ingestion-system]]
-- Last compiled: 2026-04-30T16:01:10.207Z
+- WIKI: [[WIKI/architecture/knowledge-ingestion-system]]
+- Last compiled: 2026-05-05T06:31:48.703Z

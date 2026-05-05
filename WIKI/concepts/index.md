@@ -1,5 +1,9 @@
 # Concepts
 
+## Current
+
+- [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — concepts/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
+
 ## Deck
 
 - [[deck]] — concepts/deck.md
@@ -8,32 +12,74 @@
 
 - [[ingest-endpoint-test]] — concepts/ingest-endpoint-test.md
 
+## Fill
+
+- [[vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903]] — concepts/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md
+
+## Fun
+
+- [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — concepts/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
+
 ## General
 
 - [[llm-wiki]] — concepts/llm-wiki.md
 - [[Topic brains]] — concepts/Topic brains.md
 
+## Gladiator
+
+- [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — concepts/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
+
 ## Hermes
 
 - [[deck]] — concepts/deck.md
+
+## Info
+
+- [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — concepts/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
 
 ## Ingest
 
 - [[ingest-endpoint-test]] — concepts/ingest-endpoint-test.md
 
+## Karpathy
+
+- [[your-karpathy-file-name]] — concepts/your-karpathy-file-name.md
+
+## Model
+
+- [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — concepts/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
+
+## Name
+
+- [[your-karpathy-file-name]] — concepts/your-karpathy-file-name.md
+
+## Practice
+
+- [[vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903]] — concepts/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md
+
 ## Queue
 
 - [[deck]] — concepts/deck.md
+
+## Roman
+
+- [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — concepts/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
 
 ## System
 
 - [[aiagentnerd-master-notes]] — concepts/aiagentnerd-master-notes.md
 - [[Karpathy-Style LLM Wiki]] — concepts/Karpathy-Style LLM Wiki.md
-- [[your-karpathy-file-name]] — concepts/your-karpathy-file-name.md
+
+## Vocabulary
+
+- [[vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903]] — concepts/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md
 
 ## Wiki
 
 - [[aiagentnerd-master-notes]] — concepts/aiagentnerd-master-notes.md
 - [[karpathy-llm-wiki]] — concepts/karpathy-llm-wiki.md
 - [[Karpathy-Style LLM Wiki]] — concepts/Karpathy-Style LLM Wiki.md
+
+## Your
+
 - [[your-karpathy-file-name]] — concepts/your-karpathy-file-name.md

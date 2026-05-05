@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/infrastructure/save-to-knowledge-skill.md
 compiled_at: 2026-05-02T04:42:26.145Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, save, knowledge, skill, git, workflow]
+status: archived
+archived_at: 2026-05-05T06:36:20.413Z
+reclassified_to: architecture/save-to-knowledge-skill.md
 ---
 
 # Architecture Save To Knowledge Skill

@@ -8,5 +8,5 @@ type: raw
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/services/hermes-service-restart-and-troubleshooting-merged-2]]
-- Last compiled: 2026-05-02T10:48:38.600Z
+- WIKI: [[WIKI/infrastructure/hermes-service-restart-and-troubleshooting-merged-2]]
+- Last compiled: 2026-05-05T06:38:22.660Z

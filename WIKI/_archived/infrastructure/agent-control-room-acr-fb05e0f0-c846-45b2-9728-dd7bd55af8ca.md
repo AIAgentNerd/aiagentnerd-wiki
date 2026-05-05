@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/infrastructure/agent-control-room-acr-fb05e0f0-c846-45b
 compiled_at: 2026-04-30T19:48:38.885Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, agent, control, room, acr, fb05e0f0]
+status: archived
+archived_at: 2026-05-05T06:46:34.682Z
+reclassified_to: architecture/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md
 ---
 
 # Openwebui Agent Control Room Acr Fb05e0f0 C846 45b2 9728 Dd7bd55af8ca

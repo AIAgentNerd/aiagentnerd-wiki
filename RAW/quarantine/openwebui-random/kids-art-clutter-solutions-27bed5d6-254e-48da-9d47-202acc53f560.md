@@ -55,5 +55,5 @@ Would any of these ideas work well for your family? I can help you find specific
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560]]
-- Last compiled: 2026-04-30T09:59:21.092Z
+- WIKI: [[WIKI/services/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560]]
+- Last compiled: 2026-05-05T07:04:52.633Z

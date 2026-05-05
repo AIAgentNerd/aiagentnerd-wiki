@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/infrastructure/knowledge-ingestion-system.md
 compiled_at: 2026-04-30T16:01:10.207Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, knowledge, ingestion, git, api, hermes]
+status: archived
+archived_at: 2026-05-05T06:31:48.717Z
+reclassified_to: architecture/knowledge-ingestion-system.md
 ---
 
 # Architecture Knowledge Ingestion System

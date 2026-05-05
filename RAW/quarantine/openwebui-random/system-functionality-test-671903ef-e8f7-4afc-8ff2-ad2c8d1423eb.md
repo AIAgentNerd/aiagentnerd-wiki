@@ -34,5 +34,5 @@ The startup’s growth was a double‑edged sword, cutting through market barrie
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb]]
-- Last compiled: 2026-04-30T10:01:29.221Z
+- WIKI: [[WIKI/architecture/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb]]
+- Last compiled: 2026-05-05T07:06:30.148Z

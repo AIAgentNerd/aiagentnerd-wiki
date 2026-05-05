@@ -18,5 +18,5 @@ The model I'mcurrently using is gpt-5.4-mini via OpenAI Codex. This is based on 
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/infrastructure/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]]
-- Last compiled: 2026-04-28T03:39:54.256Z
+- WIKI: [[WIKI/concepts/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]]
+- Last compiled: 2026-05-05T06:58:38.594Z

@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/infrastructure/cleanup-knowledge-about-hermes-setup-ef1
 compiled_at: 2026-05-03T19:53:48.267Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, cleanup, knowledge, about, hermes, setup]
+status: archived
+archived_at: 2026-05-05T06:57:23.888Z
+reclassified_to: architecture/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4.md
 ---
 
 # Openwebui Cleanup Knowledge About Hermes Setup Ef1de140 A2ad 459a 8174 Ae17d74be2f4

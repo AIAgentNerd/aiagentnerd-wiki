@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/services/hermes-service-restart-and-troubleshooting-mer
 compiled_at: 2026-05-02T10:48:38.600Z
 type: system-note
 tags: [aiagentnerd, compiled, services, hermes, service, restart, troubleshooting, merged]
+status: archived
+archived_at: 2026-05-05T06:38:22.678Z
+reclassified_to: infrastructure/hermes-service-restart-and-troubleshooting-merged-2.md
 ---
 
 # Inbox Hermes Service Restart And Troubleshooting Merged 2

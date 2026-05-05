@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-
 compiled_at: 2026-05-03T19:47:14.698Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, deck, overview, a0406524, 3bbe, 49e3]
+status: archived
+archived_at: 2026-05-05T06:50:26.106Z
+reclassified_to: architecture/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504.md
 ---
 
 # Openwebui Aiagentnerd Deck Overview A0406524 3bbe 49e3 98d1 Ee61d815d504

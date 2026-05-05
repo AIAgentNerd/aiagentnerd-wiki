@@ -2674,3 +2674,8 @@ If you want next:
 Just say:
 
 👉 “automate document updates”
+
+---
+## Compiled Wiki
+- WIKI: [[WIKI/architecture/aiagentnerd-master-notes]]
+- Last compiled: 2026-05-05T06:37:31.469Z

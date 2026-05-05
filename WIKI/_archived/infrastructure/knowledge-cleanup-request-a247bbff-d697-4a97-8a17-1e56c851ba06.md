@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/infrastructure/knowledge-cleanup-request-a247bbff-d697-
 compiled_at: 2026-05-03T19:55:09.113Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, knowledge, cleanup, request, a247bbff, d697]
+status: archived
+archived_at: 2026-05-05T07:00:55.874Z
+reclassified_to: architecture/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md
 ---
 
 # Openwebui Knowledge Cleanup Request A247bbff D697 4a97 8a17 1e56c851ba06

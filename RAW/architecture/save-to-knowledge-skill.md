@@ -48,5 +48,5 @@ Chat history shows a user command "Save this to knowledge" followed by a raw mar
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/infrastructure/save-to-knowledge-skill]]
-- Last compiled: 2026-05-02T04:42:26.145Z
+- WIKI: [[WIKI/architecture/save-to-knowledge-skill]]
+- Last compiled: 2026-05-05T06:36:20.408Z

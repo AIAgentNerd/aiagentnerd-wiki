@@ -526,5 +526,5 @@ Gladiators were often organized by weight class, experience, and fighting styleâ
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/infrastructure/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4]]
-- Last compiled: 2026-05-03T19:53:48.267Z
+- WIKI: [[WIKI/architecture/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4]]
+- Last compiled: 2026-05-05T06:57:23.884Z

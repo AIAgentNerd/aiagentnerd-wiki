@@ -980,5 +980,90 @@
     "rawPath": "architecture/aiagentnerd-backend-hardening-summary.md",
     "wikiPath": "architecture/aiagentnerd-backend-hardening-summary.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:57:23.884Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4.md",
+    "wikiPath": "architecture/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T06:58:38.594Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md",
+    "wikiPath": "concepts/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T07:00:55.867Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md",
+    "wikiPath": "architecture/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T07:01:58.458Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+    "wikiPath": "concepts/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T07:03:41.947Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+    "wikiPath": "concepts/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T07:04:52.633Z",
+    "action": "compile_system_raw",
+    "rawPath": "quarantine/openwebui-random/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md",
+    "wikiPath": "services/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T07:05:42.012Z",
+    "action": "compile_system_raw",
+    "rawPath": "quarantine/openwebui-random/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+    "wikiPath": "concepts/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T07:06:30.148Z",
+    "action": "compile_system_raw",
+    "rawPath": "quarantine/openwebui-random/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
+    "wikiPath": "architecture/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T07:07:49.376Z",
+    "action": "compile_system_raw",
+    "rawPath": "quarantine/openwebui-random/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+    "wikiPath": "concepts/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T07:07:49.391Z",
+    "action": "compile_system_raw",
+    "rawPath": "web/Karpathy-Style LLM Wiki.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
+  },
+  {
+    "timestamp": "2026-05-05T07:08:57.785Z",
+    "action": "compile_system_raw",
+    "rawPath": "web/Networking Ports and IPs.md",
+    "wikiPath": "infrastructure/Networking Ports and IPs.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T07:09:11.813Z",
+    "action": "compile_system_raw",
+    "rawPath": "web/your-karpathy-file-name.md",
+    "wikiPath": "concepts/your-karpathy-file-name.md",
+    "result": "success"
   }
 ]

@@ -18,5 +18,5 @@ I assume you're referring to cleaning up the knowledge repositories (wiki, syste
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/infrastructure/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06]]
-- Last compiled: 2026-05-03T19:55:09.113Z
+- WIKI: [[WIKI/architecture/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06]]
+- Last compiled: 2026-05-05T07:00:55.867Z

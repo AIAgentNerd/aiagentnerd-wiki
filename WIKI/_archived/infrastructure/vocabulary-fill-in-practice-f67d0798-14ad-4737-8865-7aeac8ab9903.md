@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/infrastructure/vocabulary-fill-in-practice-f67d0798-14a
 compiled_at: 2026-04-30T19:50:56.511Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, vocabulary, fill, practice, f67d0798, 14ad]
+status: archived
+archived_at: 2026-05-05T07:03:41.954Z
+reclassified_to: concepts/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md
 ---
 
 # Openwebui Vocabulary Fill In Practice F67d0798 14ad 4737 8865 7aeac8ab9903

@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/infrastructure/current-model-info-b2c3571b-712e-4f82-83
 compiled_at: 2026-04-28T03:39:54.256Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, current, model, info, b2c3571b, 712e]
+status: archived
+archived_at: 2026-05-05T06:58:38.599Z
+reclassified_to: concepts/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
 ---
 
 # Openwebui Current Model Info B2c3571b 712e 4f82 8396 34b87b7f16d7

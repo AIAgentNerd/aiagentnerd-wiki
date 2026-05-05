@@ -639,5 +639,5 @@ No pending archive action found.
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/infrastructure/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad]]
-- Last compiled: 2026-05-03T19:51:08.590Z
+- WIKI: [[WIKI/architecture/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad]]
+- Last compiled: 2026-05-05T06:55:35.302Z

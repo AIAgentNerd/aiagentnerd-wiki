@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/infrastructure/mobile-ingestion-and-hermes-skill.md
 compiled_at: 2026-05-01T05:27:09.994Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, mobile, ingestion, hermes, skill, git]
+status: archived
+archived_at: 2026-05-05T06:33:49.390Z
+reclassified_to: architecture/mobile-ingestion-and-hermes-skill.md
 ---
 
 # Architecture Mobile Ingestion And Hermes Skill

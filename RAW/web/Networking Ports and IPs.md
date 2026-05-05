@@ -325,3 +325,8 @@ If you want next step, I can:
 👉 Or debug your current issue (x.aiagentnerd showing wrong UI) using this model
 
 Just say the word 👍
+
+---
+## Compiled Wiki
+- WIKI: [[WIKI/infrastructure/Networking Ports and IPs]]
+- Last compiled: 2026-05-05T07:08:57.785Z

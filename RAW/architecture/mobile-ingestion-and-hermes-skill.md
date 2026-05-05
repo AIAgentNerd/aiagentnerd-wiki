@@ -310,5 +310,5 @@ Automation via Hermes skill is next major upgrade
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/infrastructure/mobile-ingestion-and-hermes-skill]]
-- Last compiled: 2026-05-01T05:27:09.994Z
+- WIKI: [[WIKI/architecture/mobile-ingestion-and-hermes-skill]]
+- Last compiled: 2026-05-05T06:33:49.385Z

@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/infrastructure/cleanup-knowledge-about-deck-deeec384-5c
 compiled_at: 2026-05-03T19:51:08.590Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, cleanup, knowledge, about, deck, deeec384]
+status: archived
+archived_at: 2026-05-05T06:55:35.307Z
+reclassified_to: architecture/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad.md
 ---
 
 # Openwebui Cleanup Knowledge About Deck Deeec384 5ce3 477e 884a Aff13904a4ad

@@ -5,6 +5,9 @@ compiled_wiki_path: WIKI/infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4
 compiled_at: 2026-04-30T19:50:15.176Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, roman, gladiator, fun, fact, 3e49211f]
+status: archived
+archived_at: 2026-05-05T07:01:58.464Z
+reclassified_to: concepts/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
 ---
 
 # Openwebui Roman Gladiator Fun Fact 3e49211f 16ba 4be9 Ac9d A02ef2ce0617

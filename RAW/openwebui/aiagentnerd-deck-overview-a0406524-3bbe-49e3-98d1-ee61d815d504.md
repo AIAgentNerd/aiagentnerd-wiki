@@ -32,5 +32,5 @@ Deck is the operational dashboard of the AiAgentNerd system — a single‑page 
 
 ---
 ## Compiled Wiki
-- WIKI: [[WIKI/infrastructure/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504]]
-- Last compiled: 2026-05-03T19:47:14.698Z
+- WIKI: [[WIKI/architecture/aiagentnerd-deck-overview-a0406524-3bbe-49e3-98d1-ee61d815d504]]
+- Last compiled: 2026-05-05T06:50:26.101Z
