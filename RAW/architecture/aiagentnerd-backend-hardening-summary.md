@@ -174,4 +174,4 @@ Paste anything → preview → confirm → save safely → compile into usable k
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/architecture/aiagentnerd-backend-hardening-summary]]
-- Last compiled: 2026-05-05T06:56:28.221Z
+- Last compiled: 2026-05-05T07:19:32.798Z
