@@ -817,5 +817,20 @@
     "rawPath": "architecture/raw-test.md",
     "wikiPath": "architecture/raw-test.md",
     "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T03:05:44.005Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "architecture/raw-test-2.md",
+    "wikiPath": "architecture/raw-test-2.md",
+    "result": "failure",
+    "error": "Model output was truncated. Please split the source into smaller chunks."
+  },
+  {
+    "timestamp": "2026-05-05T03:06:06.564Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/raw-test-2.md",
+    "wikiPath": "architecture/raw-test-2.md",
+    "result": "success"
   }
 ]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T02:59:08.301Z",
+  "updatedAt": "2026-05-05T03:06:06.569Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -568,6 +568,14 @@
       "rawHash": "fa7e7c10059ed5799c5b10cdbdd83708086864f790be512ce6814100ee39ddfb",
       "compiledAt": "2026-05-05T02:59:08.295Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/raw-test.md",
+      "gitCommitted": false
+    },
+    "architecture/raw-test-2.md": {
+      "rawPath": "architecture/raw-test-2.md",
+      "wikiPath": "architecture/raw-test-2.md",
+      "rawHash": "29a57352594692c8c864d6d3b82335f66b80407ca776bc70e0ab79496e127247",
+      "compiledAt": "2026-05-05T03:06:06.564Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/raw-test-2.md",
       "gitCommitted": false
     }
   }

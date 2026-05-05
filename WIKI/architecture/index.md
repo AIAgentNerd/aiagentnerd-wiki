@@ -1,5 +1,9 @@
 # Architecture
 
+## 2
+
+- [[raw-test-2]] — architecture/raw-test-2.md
+
 ## Bypass
 
 - [[test-raw-bypass]] — architecture/test-raw-bypass.md
