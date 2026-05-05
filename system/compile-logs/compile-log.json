@@ -3597,5 +3597,54 @@
     "wikiPath": null,
     "result": "failure",
     "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
+  },
+  {
+    "timestamp": "2026-05-05T15:50:44.430Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md",
+    "previousRawPath": null,
+    "wikiPath": "architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T15:50:44.430Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md",
+    "previousRawPath": null,
+    "wikiPath": "architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T15:50:57.924Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "concepts/small-test-chunk.md",
+    "previousRawPath": null,
+    "wikiPath": "concepts/small-test-chunk.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T15:50:57.924Z",
+    "action": "compile_system_raw",
+    "rawPath": "concepts/small-test-chunk.md",
+    "previousRawPath": null,
+    "wikiPath": "concepts/small-test-chunk.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-05T15:50:57.946Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "web/Karpathy-Style LLM Wiki.md",
+    "previousRawPath": null,
+    "wikiPath": "web/Karpathy-Style LLM Wiki.md",
+    "result": "failure",
+    "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
+  },
+  {
+    "timestamp": "2026-05-05T15:50:57.947Z",
+    "action": "compile_system_raw",
+    "rawPath": "web/Karpathy-Style LLM Wiki.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
   }
 ]
