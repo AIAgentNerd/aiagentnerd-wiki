@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T15:40:46.615Z",
+  "updatedAt": "2026-05-06T15:41:23.563Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -654,24 +654,8 @@
       "rawPath": "concepts/small-test-chunk.md",
       "wikiPath": "concepts/small-test-chunk.md",
       "rawHash": "c41c8f54d6b491cac238abc22cb3ba07d9a1a80a9e5c4bab4a1bf582150465b7",
-      "compiledAt": "2026-05-06T15:32:00.279Z",
+      "compiledAt": "2026-05-06T15:41:23.555Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/small-test-chunk.md",
-      "gitCommitted": false
-    },
-    "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md": {
-      "rawPath": "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
-      "wikiPath": "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
-      "rawHash": "ffe4831970710f4037465a5233d479e6b68e2884efd465bd5ce8ed5b4aa18dad",
-      "compiledAt": "2026-05-06T15:37:50.985Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
-      "gitCommitted": false
-    },
-    "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md": {
-      "rawPath": "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
-      "wikiPath": "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
-      "rawHash": "d037e522540de54884b27a15bd0c8482764cc1e1adbc9fcf2d5c1e95ea663e5d",
-      "compiledAt": "2026-05-06T15:40:46.609Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
       "gitCommitted": false
     }
   }
