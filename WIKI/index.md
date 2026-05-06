@@ -121,6 +121,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560]] — _archived/infrastructure/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md
 - [[knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06]] — _archived/infrastructure/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md
 - [[knowledge-ingestion-system]] — _archived/infrastructure/knowledge-ingestion-system.md
+- [[knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625]] — openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md
 - [[knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68]] — openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md
 - [[mobile-ingestion-and-hermes-skill]] — _archived/infrastructure/mobile-ingestion-and-hermes-skill.md
 - [[new-chat-538a6d4c-495a-4807-93a4-549df022cb7f]] — openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md
