@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T14:31:20.252Z",
+  "updatedAt": "2026-05-06T14:41:18.550Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -654,7 +654,7 @@
       "rawPath": "concepts/small-test-chunk.md",
       "wikiPath": "concepts/small-test-chunk.md",
       "rawHash": "c41c8f54d6b491cac238abc22cb3ba07d9a1a80a9e5c4bab4a1bf582150465b7",
-      "compiledAt": "2026-05-06T14:31:20.247Z",
+      "compiledAt": "2026-05-06T14:41:18.545Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/small-test-chunk.md",
       "gitCommitted": false
     }
