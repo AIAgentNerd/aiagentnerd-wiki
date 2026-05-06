@@ -122,6 +122,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06]] — _archived/infrastructure/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md
 - [[knowledge-ingestion-system]] — _archived/infrastructure/knowledge-ingestion-system.md
 - [[mobile-ingestion-and-hermes-skill]] — _archived/infrastructure/mobile-ingestion-and-hermes-skill.md
+- [[new-chat-538a6d4c-495a-4807-93a4-549df022cb7f]] — openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md
 - [[new-chat-fba354d7-5e23-430f-a0de-89635cec202b]] — _archived/infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md
 - [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — _archived/infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
 - [[save-to-knowledge-skill]] — _archived/infrastructure/save-to-knowledge-skill.md
