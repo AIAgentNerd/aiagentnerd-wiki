@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T14:49:39.661Z",
+  "updatedAt": "2026-05-06T15:04:24.945Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -650,20 +650,12 @@
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/aiagentnerd-knowledge-system-explainer-and-workflow.md",
       "gitCommitted": false
     },
-    "concepts/small-test-chunk.md": {
-      "rawPath": "concepts/small-test-chunk.md",
-      "wikiPath": "concepts/small-test-chunk.md",
-      "rawHash": "c41c8f54d6b491cac238abc22cb3ba07d9a1a80a9e5c4bab4a1bf582150465b7",
-      "compiledAt": "2026-05-06T14:46:49.040Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/small-test-chunk.md",
-      "gitCommitted": false
-    },
-    "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md": {
-      "rawPath": "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
-      "wikiPath": "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
-      "rawHash": "63e4e173040995fbedc139c3136df534b76441136dd5d83d14e494fc8085f9d5",
-      "compiledAt": "2026-05-06T14:49:39.656Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
+    "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md": {
+      "rawPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+      "wikiPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+      "rawHash": "37acee1fe8a2d9fbfed2c06f275bb95d119b4d0506018ec1c54610fafaf572c5",
+      "compiledAt": "2026-05-06T15:04:24.939Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
       "gitCommitted": false
     }
   }

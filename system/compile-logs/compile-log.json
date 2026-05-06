@@ -33437,5 +33437,98 @@
     "reason": "skipped_large_input",
     "size": 27508,
     "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
+  },
+  {
+    "timestamp": "2026-05-06T14:57:41.398Z",
+    "action": "skip_specific_system_raw",
+    "rawPath": "concepts/small-test-chunk.md",
+    "previousRawPath": null,
+    "wikiPath": "concepts/small-test-chunk.md",
+    "result": "skipped",
+    "reason": "needs_split",
+    "size": 34,
+    "error": "Model output was truncated for moonshotai/kimi-k2.6. Please split the source into smaller chunks."
+  },
+  {
+    "timestamp": "2026-05-06T14:58:18.905Z",
+    "action": "skip_specific_system_raw",
+    "rawPath": "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
+    "result": "skipped",
+    "reason": "needs_split",
+    "size": 4078,
+    "error": "Model output was truncated for moonshotai/kimi-k2.6. Please split the source into smaller chunks."
+  },
+  {
+    "timestamp": "2026-05-06T14:59:42.506Z",
+    "action": "skip_specific_system_raw",
+    "rawPath": "openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md",
+    "result": "skipped",
+    "reason": "needs_split",
+    "size": 6951,
+    "error": "Model output was truncated for moonshotai/kimi-k2.6. Please split the source into smaller chunks."
+  },
+  {
+    "timestamp": "2026-05-06T15:01:20.305Z",
+    "action": "skip_specific_system_raw",
+    "rawPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
+    "result": "skipped",
+    "reason": "needs_split",
+    "size": 5553,
+    "error": "Model output was truncated for moonshotai/kimi-k2.6. Please split the source into smaller chunks."
+  },
+  {
+    "timestamp": "2026-05-06T15:04:24.939Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-06T15:04:24.939Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-05-06T15:05:04.523Z",
+    "action": "skip_specific_system_raw",
+    "rawPath": "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
+    "result": "skipped",
+    "reason": "needs_split",
+    "size": 1415,
+    "error": "Model output was truncated for moonshotai/kimi-k2.6. Please split the source into smaller chunks."
+  },
+  {
+    "timestamp": "2026-05-06T15:05:50.261Z",
+    "action": "skip_specific_system_raw",
+    "rawPath": "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
+    "result": "skipped",
+    "reason": "needs_split",
+    "size": 8225,
+    "error": "Model output was truncated for moonshotai/kimi-k2.6. Please split the source into smaller chunks."
+  },
+  {
+    "timestamp": "2026-05-06T15:05:50.287Z",
+    "action": "skip_specific_system_raw",
+    "rawPath": "web/Karpathy-Style LLM Wiki.md",
+    "previousRawPath": null,
+    "wikiPath": "web/Karpathy-Style LLM Wiki.md",
+    "result": "skipped",
+    "reason": "skipped_large_input",
+    "size": 27508,
+    "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
   }
 ]
