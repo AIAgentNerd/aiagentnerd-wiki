@@ -2,7 +2,7 @@
 title: Openwebui Knowledge System Workflow Guide Af6c6ecf 58d0 42d7 Ac3b 3766effa775c
 source_raw: RAW/openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md
 compiled_wiki_path: WIKI/openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md
-compiled_at: 2026-05-06T15:04:24.939Z
+compiled_at: 2026-05-06T15:24:33.042Z
 type: system-note
 tags: [aiagentnerd, compiled, uncategorized, knowledge, workflow, af6c6ecf, 58d0, 42d7]
 ---
@@ -10,51 +10,36 @@ tags: [aiagentnerd, compiled, uncategorized, knowledge, workflow, af6c6ecf, 58d0
 # Openwebui Knowledge System Workflow Guide Af6c6ecf 58d0 42d7 Ac3b 3766effa775c
 
 ## Summary
-Operational guide for the AiAgentNerd knowledge ingestion, merge, and cleanup workflows. Describes how unstructured input is transformed into structured knowledge, the mandatory preview-confirm-save safety flow, and the cleanup agent’s deduplication and archival procedures.
+The AiAgentNerd knowledge system ingests unstructured content, automatically structures and categorizes it, and maintains an evolving knowledge base through merge and cleanup workflows. It uses a preview-confirmation safety model and prioritizes updating existing knowledge over creating duplicates.
 
 ## Key Concepts
-- **Automatic ingestion**: accepts raw input (notes, transcripts, chat logs, ideas) and converts it into structured knowledge automatically
-- **Structured output**: every entry is organized into topics, context, key concepts, steps, commands, and important details
-- **Automatic organization**: system assigns a category, generates a filename, and routes the content to the correct storage location without manual filing
-- **Merge workflow**: new information updates existing files rather than creating duplicates; knowledge evolves through iterative merges
-- **Safety model**: all mutating operations follow preview → confirm → save; no automatic overwrites or deletions
-- **Cleanup agent**: scans the knowledge base for duplicates, similar topics, and low-value notes; groups them for review with confidence scores and recommended actions (merge, archive, ignore)
-- **Archive preference**: deletion is restricted to high-confidence cases; archive is the default cleanup action, with backups created before changes
+- **Automatic Ingestion**: Accepts raw notes, transcripts, chat outputs, and ideas without pre-formatting
+- **Auto-Organization**: Assigns categories, generates filenames, structures content, and stores it in the correct location automatically
+- **Structured Knowledge**: Transforms input into topics, context, key concepts, steps, commands, and important details
+- **Merge Workflow**: Combines new information into existing knowledge to prevent duplication and enable continuous evolution
+- **Safety Model**: Preview → Confirm → Save pattern; backups created before changes; no automatic deletion
+- **Cleanup Agent**: Scans the knowledge base for duplicates, similar topics, and low-value notes; groups them for review with confidence scores and recommendations
+- **Canonical Files**: Preferred merge targets when duplicate groups are identified
 
 ## Practical Use
-- **Ingestion commands**:
-  - `Clean this up and save it` — process and store raw input
-  - `Save this to knowledge with preview` — generate a preview before persisting
-  - `Clean this up` — clean without saving
-- **Merge commands**:
-  - `Merge these` — combine multiple raw chunks into one entry
-  - `Merge this with existing knowledge about <topic> with preview` — update a topic; if multiple files match, select by index (e.g., `merge 1`)
-  - `Merge this with existing file <filename>.md with preview` — targeted merge into a specific file
-  - `confirm merge` / `cancel merge` — finalize or abort
-- **Split command**:
-  - `Split this into multiple notes` — decompose large content into discrete entries
-- **Cleanup commands**:
-  - `cleanup knowledge` or `cleanup knowledge about <topic>` — initiate a scan
-  - `merge cleanup group <N> into canonical with preview` — deduplicate a group into its canonical file
-  - `archive cleanup group <N>` — archive a low-value group
-  - `delete cleanup group <N>` — delete restricted to high-confidence cases only
-  - `cancel cleanup` — abort the cleanup session
-- **Confirmation commands**: `confirm`, `cancel`, `confirm archive`, `confirm cleanup merge`
-- **Daily workflow**: capture → improve → combine
-- **Operational guidance**:
-  - Prefer merge over duplicate; always update instead of re-saving
-  - Let the system decide categories
-  - Use preview for important content
-  - Think in topics, not files
-  - Keep input raw and let the system handle cleanup
+- **Save new knowledge**: `Clean this up and save it` (auto-save) or `Save this to knowledge with preview` (requires confirmation)
+- **Clean without saving**: `Clean this up`
+- **Merge multiple inputs**: `Merge these` followed by content chunks, then `confirm merge`
+- **Update existing knowledge**: `Merge this with existing knowledge about <topic> with preview` → review → `confirm merge`
+- **Targeted file merge**: `Merge this with existing file <filename>.md with preview`
+- **Split large content**: `Split this into multiple notes`
+- **Confirmation commands**: `confirm`, `cancel`, `confirm merge`, `cancel merge`
 
 ## Implementation Notes
-- **Category routing**: when unspecified, inputs default to `inbox`; otherwise they route to assigned categories (e.g., `concepts`)
-- **Filename generation**: derived from content title or topic (e.g., `aiagentnerd-knowledge-system-explainer-and-workflow.md`)
-- **Raw capture fallback**: if automatic cleaning fails, the system stores a `type: raw` preview under the `inbox` category
-- **Preview expiration**: knowledge previews are transient; delayed confirmation may require regeneration before saving
-- **Cleanup group metadata**: each group includes file references, confidence score, and recommended action
-- **Safety constraints**: no automatic deletion; archive preferred over delete; backups created before merge/archive; user confirmation required for all mutations
+- **Cleanup Workflow**: Trigger via `cleanup knowledge` or `cleanup knowledge about <topic>`
+- **Cleanup Output**: Returns duplicate groups, low-value groups, and similar topic groups; each lists files, confidence, and recommendation
+- **Cleanup Actions**:
+  - Merge: `merge cleanup group <n> into canonical with preview` → `confirm cleanup merge`
+  - Archive: `archive cleanup group <n>` → `confirm archive`
+  - Delete: `delete cleanup group <n>` (restricted to high-confidence cases only)
+  - Cancel: `cancel cleanup`
+- **Daily Flow**: Capture (`Clean this up and save it`) → Improve (`Merge with existing knowledge`) → Combine (`Merge related ideas`)
+- **Operational Preferences**: Prefer merge over duplicate; use preview for important content; think in topics not files; keep input raw and let the system handle cleanup
 
 ## Related
 - [[knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68]]
