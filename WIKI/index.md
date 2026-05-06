@@ -123,6 +123,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[knowledge-ingestion-system]] — _archived/infrastructure/knowledge-ingestion-system.md
 - [[knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625]] — openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md
 - [[knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68]] — openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md
+- [[knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c]] — openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md
 - [[mobile-ingestion-and-hermes-skill]] — _archived/infrastructure/mobile-ingestion-and-hermes-skill.md
 - [[new-chat-538a6d4c-495a-4807-93a4-549df022cb7f]] — openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md
 - [[new-chat-fba354d7-5e23-430f-a0de-89635cec202b]] — _archived/infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md
