@@ -129,6 +129,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[new-chat-538a6d4c-495a-4807-93a4-549df022cb7f]] — openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md
 - [[new-chat-fba354d7-5e23-430f-a0de-89635cec202b]] — _archived/infrastructure/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md
 - [[roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617]] — _archived/infrastructure/roman-gladiator-fun-fact-3e49211f-16ba-4be9-ac9d-a02ef2ce0617.md
+- [[save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9]] — openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md
 - [[save-to-knowledge-skill]] — _archived/infrastructure/save-to-knowledge-skill.md
 - [[system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb]] — _archived/infrastructure/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md
 - [[vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903]] — _archived/infrastructure/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md
