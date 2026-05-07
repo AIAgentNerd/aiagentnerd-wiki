@@ -2278,4 +2278,4 @@ If you intended to save this somewhere (e.g., system logs, wiki page), I need cl
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c]]
-- Last compiled: 2026-05-07T07:04:16.818Z
+- Last compiled: 2026-05-07T08:36:31.249Z
