@@ -2,7 +2,7 @@
 title: Openwebui Broken Test Preview Bbffa48b Fb2b 4f65 Ac58 2963bd6e0b82
 source_raw: RAW/openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md
 compiled_wiki_path: WIKI/openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md
-compiled_at: 2026-05-07T09:53:16.649Z
+compiled_at: 2026-05-07T10:41:54.762Z
 type: system-note
 tags: [aiagentnerd, compiled, uncategorized, broken, preview, bbffa48b, fb2b, 4f65]
 ---
@@ -10,36 +10,34 @@ tags: [aiagentnerd, compiled, uncategorized, broken, preview, bbffa48b, fb2b, 4f
 # Openwebui Broken Test Preview Bbffa48b Fb2b 4f65 Ac58 2963bd6e0b82
 
 ## Summary
-Transcript of a debugging session exercising the AiAgentNerd knowledge ingestion pipeline. Captures the preview-confirm-save workflow, the distinction between RAW and compiled notes, and specific failure modes including git push failures and reclassification target conflicts.
+Transcript of a knowledge-system ingestion test session demonstrating the RAW→compiled pipeline, preview/confirm workflow, and failure modes. Includes the canonical explanation of RAW versus compiled notes and observed error states during save operations.
 
 ## Key Concepts
-- **Preview Workflow**: Ingestion is gated by preview → confirm → save to prevent accidental writes
-- **RAW Notes**: Unprocessed captures stored at `RAW/inbox/<filename>.md`
-- **Compiled Notes**: Structured wiki outputs derived from RAW sources, written to category paths such as `concepts/` or `architecture/`
-- **Pending Action State**: The system allows only one pending preview at a time; previews can expire
-- **`git_failed`**: Save pipeline error when pushing to the remote wiki repository fails
-- **`raw_reclassification_target_exists`**: Save pipeline error when the target compiled path for a RAW file already exists
+- **RAW notes**: original unprocessed captures imported directly from OpenWebUI or other feeds; stored in `RAW/` without enrichment
+- **Compiled notes**: processed, structured outputs stored in `WIKI/` with added metadata, summaries, tags, and cross-references
+- **Preview/confirm workflow**: two-phase save requiring explicit user confirmation before committing to the wiki
+- **Pending action queue**: only one preview/save action may be in flight at a time; must confirm or cancel before starting another
+- **Safe raw capture fallback**: when automatic cleaning fails, the system generates a `type: raw` preview instead of structured output
+- **RAW reclassification**: compilation moves files from `RAW/inbox/` to category directories (e.g., `concepts/`, `architecture/`)
 
 ## Practical Use
-- Initiate ingestion with `Save this to knowledge with preview`, then reply `confirm save` after review
-- Cancel or confirm any pending preview before starting a new ingestion request
-- If confirmation fails with "No pending knowledge preview found", recreate the preview; do not retry the confirmation alone
-- On `raw_reclassification_target_exists`, compile the existing RAW file directly rather than re-saving
-- On `git_failed`, verify repository state and network connectivity to the git remote
+- Reference this transcript when debugging ingestion failures or preview-state issues
+- Use the RAW vs compiled distinction to explain the knowledge pipeline to operators
+- Note the specific error signatures (`git_failed`, `raw_reclassification_target_exists`) for log analysis and alerting
 
 ## Implementation Notes
-- RAW path on server: `/home/nerd/aiagentnerd-wiki/RAW/inbox/`
-- Git remote: `github.com:AIAgentNerd/aiagentnerd-wiki.git`
-- Compilation metrics reported per save: `compiled`, `skipped`, `failed`
-- Auto-suggested metadata includes `category` (e.g., `inbox`) and `filename` derived from content
-- RAW vs compiled distinction (as defined by the system):
-  - RAW = original unprocessed source; unfiltered content without structure or enrichment
-  - Compiled = curated wiki-ready document with added metadata, summary, key concepts, and cross-references
-- Observed error messages:
-  - `Save to Knowledge failed. Error: git_failed`
-  - `Save to Knowledge failed. Error: raw_reclassification_target_exists`
-  - `A pending action already exists. Please confirm or cancel it first.`
-  - `No pending knowledge preview found. It may have expired; create a new preview first.`
+- **RAW storage path**: `/home/nerd/aiagentnerd-wiki/RAW/inbox/<filename>.md`
+- **Compiled wiki paths observed**: `concepts/random-messy-broken-test.md`, `architecture/random-note-about-knowledge-systems-and-structure.md`
+- **Git remote**: `github.com:AIAgentNerd/aiagentnerd-wiki.git`
+- **Compilation report format**: `compiled=N, skipped=N, failed=N, wikiPath=<path>`
+- **Git push output**: shows commit range and branch, e.g., `2faa26b..e52886a  main -> main`
+- **Observed error states**:
+  - `git_failed`: push to remote failed after local save
+  - `raw_reclassification_target_exists`: compiled target already present when reprocessing
+  - Preview expiration: unconfirmed previews expire, returning "No pending knowledge preview found"
+- **Concurrency guard**: the system rejects new preview requests while a pending action exists for the same file
+- **Auto-generated filenames**: derived from content, lowercased, hyphenated
+- **Suggested categories**: `inbox` (default), `concepts`, `architecture`
 
 ## Related
 - [[save-this-to-knowledge-with-preview-----category-architecture-filename-hermes-kn-4debc305-26df-4725-a347-4effb3d3b3e5]]
