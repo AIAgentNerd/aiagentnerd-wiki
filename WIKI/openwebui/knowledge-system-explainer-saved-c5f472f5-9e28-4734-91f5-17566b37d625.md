@@ -2,7 +2,7 @@
 title: Openwebui Knowledge System Explainer Saved C5f472f5 9e28 4734 91f5 17566b37d625
 source_raw: RAW/openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md
 compiled_wiki_path: WIKI/openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md
-compiled_at: 2026-05-07T09:56:25.604Z
+compiled_at: 2026-05-07T10:13:47.790Z
 type: system-note
 tags: [aiagentnerd, compiled, uncategorized, knowledge, explainer, saved, c5f472f5, 9e28]
 ---
@@ -10,38 +10,39 @@ tags: [aiagentnerd, compiled, uncategorized, knowledge, explainer, saved, c5f472
 # Openwebui Knowledge System Explainer Saved C5f472f5 9e28 4734 91f5 17566b37d625
 
 ## Summary
-OpenWebUI chat session (`c5f472f5-9e28-4734-91f5-17566b37d625`) exercising AiAgentNerd knowledge system ingestion workflows. The log captures a successful end-to-end save of the knowledge system explainer, a pending-state conflict blocking a second save, local large-content splitting behavior, and a stress test submission. It serves as a reference for how the dual-layer RAW/WIKI pipeline, confirmation safety, Git integration, and split/merge workflows behave in practice.
+The AiAgentNerd knowledge system uses a dual-layer architecture (RAW/WIKI) to transform unstructured input into structured, evolving knowledge. RAW serves as the editable source of truth while WIKI provides compiled, read-only structured output. The system enforces strict safety through a persistent pending state, explicit confirmation gates, and deterministic command parsing.
 
 ## Key Concepts
-- **Dual-layer knowledge architecture**: RAW layer (editable source of truth, may contain noise) and WIKI layer (structured, compiled, optimized for reuse, not manually edited)
-- **Ingestion pipeline**: input → intent detection → optional cleanup → preview → pending state → user confirm → RAW save → compile → WIKI generate → Git commit/push → retrieval
-- **Pending state safety**: All destructive or permanent operations require explicit confirmation; pending states persist and block new ingestion commands until resolved
-- **Large-content splitting**: Triggered when inputs exceed safe thresholds; performed locally without LLM overload; chunks follow naming pattern `topic-part-1.md`, `topic-part-2.md`, etc.
-- **Command parsing strictness**: Only the first line is evaluated for commands; body content is never scanned to prevent accidental triggers
-- **Cleanup system**: Scans for duplicates, low-value notes, and topic fragmentation; recommends merge, archive, or ignore; never auto-deletes; prefers archive over delete
-- **Deterministic behavior**: Every input should lead to predictable behavior; edge cases handled explicitly; no hidden state changes or silent truncation
+- **Dual-layer architecture**: RAW layer (source of truth, editable, may contain noise) and WIKI layer (structured, compiled, optimized for reuse, not manually edited)
+- **Ingestion pipeline**: input → RAW → compile → WIKI → Git → retrieval
+- **Intent detection**: commands parsed strictly from the first line only; no content scanning for commands to prevent accidental triggers
+- **Pending state**: persistent, acts as single source of truth for unconfirmed operations; never silently deleted; survives stage failures
+- **Preview-confirm-save gate**: no irreversible action occurs without explicit user confirmation
+- **Split workflow**: large inputs detected early, split locally without LLM overload, processed as chunks (e.g., `topic-part-1.md`)
+- **Merge workflow**: identifies related chunks or notes, proposes canonical versions, consolidates content, removes duplication while preserving unique insights
+- **Cleanup system**: scans for duplicates, low-value notes, and fragmentation; recommends merge, archive, or ignore; archive preferred over deletion; no automatic deletion
+- **Model routing**: selects appropriate model per task with safe fallbacks; avoids infinite retries
 
 ## Practical Use
-- **Saving new knowledge**: `save this to knowledge with preview` generates a preview; `confirm save` commits the RAW file, triggers compilation to WIKI, and pushes to Git
-- **Handling pending conflicts**: If a pending action exists, new save/split requests are rejected with the pending item count and path; resolve or cancel before proceeding
-- **Splitting long content**: `split large content` or `split long content` expects the source content after the first line; the system returns a batch preview with chunk count and filenames, awaiting confirmation
-- **Recombining splits**: After split-save, use merge workflows to consolidate related chunks into a canonical note, remove duplication, and preserve unique insights
-- **Cleanup usage**: `cleanup knowledge` or `cleanup knowledge about <topic>` scans the base and presents duplicate/similar/low-value groups with confidence scores and recommended actions
+- **Capture**: paste raw input; use `Clean this up and save it` for automatic ingestion, or `Save this to knowledge with preview` to review before committing
+- **Clean only**: `Clean this up` returns structured output without saving
+- **Merge**: `Merge these` for multiple chunks; `Merge this with existing knowledge about <topic> with preview` to update canonical notes; `Merge this with existing file <filename>.md with preview` for targeted updates
+- **Split**: `Split this into multiple notes` triggers local chunking when content exceeds safe thresholds
+- **Confirm/Cancel**: `confirm`, `cancel`, `confirm merge`, `cancel merge` gate all destructive operations
+- **Cleanup**: `cleanup knowledge` or `cleanup knowledge about <topic>` scans for duplicates, low-value notes, and similar topics; review grouped results (files, confidence, recommendation) then use `merge cleanup group <n> into canonical with preview`, `archive cleanup group <n>`, or `cancel cleanup`
+- **Safety**: archive is preferred over delete; backups created before changes; no automatic deletion
 
 ## Implementation Notes
-- **Successful save example** (explainer):
-  - RAW path: `/home/nerd/aiagentnerd-wiki/RAW/concepts/aiagentnerd-knowledge-system-explainer-and-workflow.md`
-  - WIKI path: `concepts/aiagentnerd-knowledge-system-explainer-and-workflow.md`
-  - Compile result: `compiled=1, skipped=0, failed=0`
-  - Git remote: `github.com:AIAgentNerd/aiagentnerd-wiki.git`
-  - Commit range: `7591472..c5e993b` on `main`
-- **Pending state storage**: `/home/nerd/aiagentnerd-system/tmp/pending-ingestions/hermes-pending-ingestion.json`
-- **Pending expiration example**: `2026-05-05T16:48:39.542Z`
-- **Deep dive split preview**: Generated 1 chunk pending as `architecture/aiagentnerd-knowledge-system-deep-dive-and-operational-framework.md`; confirmation not completed in this log
-- **Stress test**: Submitted via `split long content` with repetitive sections testing ingestion, splitting, pending safety, merging, cleanup, and determinism; assistant response truncated in source
-- **Git constraints**: Only commit touched files; avoid global staging; maintain clean history
-- **Model routing**: Select appropriate model per task; fallback safely; avoid infinite retries
-- **Edge cases to handle explicitly**: duplicate filenames, conflicting categories, partial saves, interrupted processes, large batch operations
+- **File paths**: RAW notes stored at `/home/nerd/aiagentnerd-wiki/RAW/<category>/<filename>`; compiled WIKI notes mapped to `<category>/<filename>`; system pending state stored at `/home/nerd/aiagentnerd-system/tmp/pending-ingestions/hermes-pending-ingestion.json`
+- **Git target**: `github.com:AIAgentNerd/aiagentnerd-wiki.git`
+- **Ingestion pipeline** (10 steps): receive input → detect intent → optional clean → generate preview → create pending state → user confirms → save RAW → compile → generate WIKI → Git commit/push
+- **Chunk naming convention**: `topic-part-1.md`, `topic-part-2.md`, etc.
+- **Command parsing**: strict first-line evaluation only; no content scanning for commands
+- **Pending state requirements**: persistent; safe; single source of truth; never silently deleted; survives independent of later stage success/failure
+- **Git constraints**: commit only touched files; avoid global staging; maintain clean history
+- **Model routing**: select model per task; fallback safely; avoid infinite retries
+- **Edge cases**: duplicate filenames, conflicting categories, partial saves, interrupted processes, large batch operations
+- **Anti-patterns**: hidden failures, silent truncation, inconsistent states
 
 ## Related
 - [[aiagentnerd-knowledge-system-explainer-and-workflow]]

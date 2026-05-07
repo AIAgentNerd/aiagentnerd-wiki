@@ -1152,4 +1152,4 @@ The system becomes your external brain.
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625]]
-- Last compiled: 2026-05-07T09:56:25.604Z
+- Last compiled: 2026-05-07T10:13:47.790Z
