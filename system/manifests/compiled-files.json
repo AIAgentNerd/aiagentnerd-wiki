@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T07:04:16.826Z",
+  "updatedAt": "2026-05-07T07:11:34.932Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -650,28 +650,12 @@
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/aiagentnerd-knowledge-system-explainer-and-workflow.md",
       "gitCommitted": false
     },
-    "openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md": {
-      "rawPath": "openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md",
-      "wikiPath": "openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md",
-      "rawHash": "ea18cbd740160b66e11a9491f10adf5437f9e8bc28d50c50808d53373f74c0dc",
-      "compiledAt": "2026-05-07T06:59:36.140Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md",
-      "gitCommitted": false
-    },
-    "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md": {
-      "rawPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
-      "wikiPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
-      "rawHash": "fc1834dd7eb65f3c51dd7b0ef4c3182df47a87e4df25cc4acdc2f3dab194ab1c",
-      "compiledAt": "2026-05-07T07:01:46.668Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
-      "gitCommitted": false
-    },
-    "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md": {
-      "rawPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
-      "wikiPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
-      "rawHash": "99587a7024781fde8ff17bb5d221a91a55b69c276bc22fe0f0cce1618cc02e24",
-      "compiledAt": "2026-05-07T07:04:16.818Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+    "concepts/small-test-chunk.md": {
+      "rawPath": "concepts/small-test-chunk.md",
+      "wikiPath": "concepts/small-test-chunk.md",
+      "rawHash": "c41c8f54d6b491cac238abc22cb3ba07d9a1a80a9e5c4bab4a1bf582150465b7",
+      "compiledAt": "2026-05-07T07:11:34.926Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/small-test-chunk.md",
       "gitCommitted": false
     }
   }
