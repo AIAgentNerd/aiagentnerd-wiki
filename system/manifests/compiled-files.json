@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T10:51:48.410Z",
+  "updatedAt": "2026-05-07T11:01:33.364Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -654,8 +654,16 @@
       "rawPath": "concepts/small-test-chunk.md",
       "wikiPath": "concepts/small-test-chunk.md",
       "rawHash": "c41c8f54d6b491cac238abc22cb3ba07d9a1a80a9e5c4bab4a1bf582150465b7",
-      "compiledAt": "2026-05-07T10:51:48.404Z",
+      "compiledAt": "2026-05-07T11:00:59.820Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/small-test-chunk.md",
+      "gitCommitted": false
+    },
+    "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md": {
+      "rawPath": "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
+      "wikiPath": "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
+      "rawHash": "e9b40355e01ce1a4110396a1ad7a0acea25f3663be73d90a039176b6dbf32479",
+      "compiledAt": "2026-05-07T11:01:33.356Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
       "gitCommitted": false
     }
   }
