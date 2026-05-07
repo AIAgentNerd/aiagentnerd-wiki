@@ -2,7 +2,7 @@
 title: Openwebui Broken Test Preview Bbffa48b Fb2b 4f65 Ac58 2963bd6e0b82
 source_raw: RAW/openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md
 compiled_wiki_path: WIKI/openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md
-compiled_at: 2026-05-07T08:03:01.667Z
+compiled_at: 2026-05-07T08:23:23.675Z
 type: system-note
 tags: [aiagentnerd, compiled, uncategorized, broken, preview, bbffa48b, fb2b, 4f65]
 ---
@@ -10,39 +10,41 @@ tags: [aiagentnerd, compiled, uncategorized, broken, preview, bbffa48b, fb2b, 4f
 # Openwebui Broken Test Preview Bbffa48b Fb2b 4f65 Ac58 2963bd6e0b82
 
 ## Summary
-OpenWebUI chat transcript capturing edge cases and failure modes in the AiAgentNerd knowledge ingestion pipeline. Demonstrates git push failures, reclassification target collisions, expired preview tokens, and pending-action blocking behavior during save-to-knowledge operations.
+This note captures a series of attempts to save a raw test note about systems architecture and pipelines into the knowledge system. The process encountered multiple issues, including failed saves and existing reclassification targets.
 
 ## Key Concepts
-- **Preview workflow**: two-step save requiring preview generation followed by explicit `confirm save`
-- **Pending action lock**: only one knowledge action may be pending at a time; new requests are blocked until confirmation or cancellation
-- **Safe raw capture fallback**: when automatic cleaning fails, the system generates a literal raw preview instead of structured content
-- **RAW vs compiled notes**: RAW files are unprocessed source captures; compiled notes are enriched, structured, and stored in `WIKI/` with metadata
-- **Auto-categorization**: inputs are assigned categories (e.g., `inbox`, `concepts`, `architecture`) and auto-generated filenames
-- **Git-backed persistence**: saves trigger git commits pushed to `github.com:AIAgentNerd/aiagentnerd-wiki.git`
+- **RAW Notes**: Unprocessed, original source documents.
+- **Compiled Notes**: Processed, structured versions of RAW notes.
+- **Knowledge System**: A system that captures, organizes, and improves knowledge over time.
+- **Preview**: A safe, uncommitted version of a note for review before saving.
+- **Reclassification Target Exists**: An error indicating that a note with the same filename already exists in the target category.
 
 ## Practical Use
-- Use `confirm save` to finalize a preview; if the preview expires, regenerate it
-- Cancel existing pending actions before creating new previews when blocked
-- If `raw_reclassification_target_exists` occurs, retry by compiling the existing RAW file rather than re-saving
-- Expect compilation metrics (`compiled=N, skipped=N, failed=N`) and a target `wikiPath` after successful saves
-- RAW files land in `/home/nerd/aiagentnerd-wiki/RAW/<category>/<filename>.md`
-- Generic cancel commands may fail if not targeted at the specific pending action type
+- **Save to Knowledge with Preview**: Use this command to create a preview of a note before saving it to the knowledge system.
+- **Confirm Save**: Finalize the save operation after reviewing the preview.
+- **Cancel**: Abort the save operation if needed.
+- **Error Handling**: Understand and handle errors like `git_failed` and `raw_reclassification_target_exists`.
 
 ## Implementation Notes
-- **Error states observed**:
-  - `git_failed`: git push failed during save; may retry on next attempt
-  - `raw_reclassification_target_exists`: a compiled note already exists for this RAW content; system suggests compiling `RAW/inbox/<file>.md` directly
-  - `No pending knowledge preview found. It may have expired`: the preview token was invalidated before confirmation
-- **Pipeline output example**:
+- **RAW Note Structure**:
+  ```yaml
+  ---
+  category: inbox
+  filename: <filename>.md
+  type: raw
+  ---
+  # <Title>
+  ## Original Source
+  ```text
+  <raw content>
   ```
-  Compile: compiled=1, skipped=0, failed=0, wikiPath=concepts/random-messy-broken-test.md
-  Git: To github.com:AIAgentNerd/aiagentnerd-wiki.git
-     2faa26b..e52886a  main -> main
   ```
-- **Directory mapping**:
-  - RAW inputs: `RAW/inbox/...`
-  - Compiled outputs: `concepts/...`, `architecture/...`, or `WIKI/...`
-- The assistant distinguishes between RAW (original, unprocessed) and compiled (curated with frontmatter, summary, key concepts, cross-references)
+- **Error Messages**:
+  - `git_failed`: The Git operation failed, possibly due to a conflict or network issue.
+  - `raw_reclassification_target_exists`: A note with the same filename already exists in the target category, preventing reclassification.
+- **Retry Steps**:
+  - For `git_failed`, check the Git repository for conflicts and try the save operation again.
+  - For `raw_reclassification_target_exists`, manually rename the note or merge it with the existing one.
 
 ## Related
 - [[save-this-to-knowledge-with-preview-----category-architecture-filename-hermes-kn-4debc305-26df-4725-a347-4effb3d3b3e5]]
