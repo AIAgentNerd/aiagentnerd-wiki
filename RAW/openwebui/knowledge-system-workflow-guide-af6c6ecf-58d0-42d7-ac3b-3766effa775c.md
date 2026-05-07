@@ -4,7 +4,7 @@ source: openwebui
 openwebui_chat_id: af6c6ecf-58d0-42d7-ac3b-3766effa775c
 created_at: 1777971405
 updated_at: 1777973345
-exported_at: 2026-05-06T02:45:01.869688
+exported_at: 2026-05-07T02:45:01.978795
 
 ---
 
@@ -2278,4 +2278,4 @@ If you intended to save this somewhere (e.g., system logs, wiki page), I need cl
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c]]
-- Last compiled: 2026-05-06T15:24:33.042Z
+- Last compiled: 2026-05-07T07:04:16.818Z
