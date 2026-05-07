@@ -2,7 +2,7 @@
 title: Openwebui Save To Knowledge Category Architecture Filename Aiagentnerd Backend Hardeni 909d0e21 46ec 4eb0 A526 F3c3ebef4fa9
 source_raw: RAW/openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md
 compiled_wiki_path: WIKI/openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md
-compiled_at: 2026-05-07T07:56:39.021Z
+compiled_at: 2026-05-07T08:15:06.380Z
 type: system-note
 tags: [aiagentnerd, compiled, uncategorized, save, knowledge, category, architecture, filename]
 ---
@@ -10,74 +10,41 @@ tags: [aiagentnerd, compiled, uncategorized, save, knowledge, category, architec
 # Openwebui Save To Knowledge Category Architecture Filename Aiagentnerd Backend Hardeni 909d0e21 46ec 4eb0 A526 F3c3ebef4fa9
 
 ## Summary
-Documents the debugging and hardening phase that stabilized the AiAgentNerd / Hermes backend knowledge system. The work moved ingestion, compilation, cleanup, and Git synchronization from a fragile prototype to a deterministic, production-grade pipeline built on preview-first safety, deterministic intent routing, active consistency verification, and resilient error recovery.
+This note documents the debugging and hardening phase that moved the AiAgentNerd / Hermes backend knowledge system from a fragile prototype to a deterministic, production-grade ingestion and compilation pipeline. It covers resilience improvements to Save-to-Knowledge, deterministic intent routing, pending-state safety, chunked large-input handling, safer cleanup and Git operations, RAW/WIKI consistency verification, and logging privacy controls.
 
 ## Key Concepts
-- **RAW as source of truth** — immutable captured input; WIKI is the derived, compiled usable layer
-- **Preview-before-confirm** — all Save-to-Knowledge writes require explicit preview and user confirmation before any filesystem or Git change
-- **Deterministic intent routing** — commands are recognized from the first line only; pasted body content cannot accidentally trigger actions
-- **Pending state safety** — only one pending action may be active at a time; overlapping requests are blocked until the current one is confirmed or cancelled
-- **Resilient ingestion** — valid RAW is preserved exactly; messy input is cleaned locally or via Clean Up Source; failed cleanup falls back to a safe RAW capture
-- **File-exists resolution** — duplicate filenames offer safe choices: merge with existing, overwrite with preview, or save as a new version
-- **Chunking guard** — central OpenRouter oversized-prompt detection with safe hard-splitting for supported long-context tasks
-- **Cleanup safety** — delete is disabled; archive is preferred; canonical files are protected; auto-cleanup only archives high-confidence targets
-- **Git safety** — stage only explicitly touched files; refuse push if unrelated staged files exist; use argument-based commits
-- **RAW/WIKI consistency verification** — manifest is not blindly trusted; WIKI existence and metadata are verified after compile
-- **Compile failure recovery** — if a compile reports failure but the WIKI file exists with matching metadata, treat as recovered success
-- **Logging privacy** — log first command line and message length only; never store full pasted user content
+- **RAW is source of truth**; WIKI is the compiled, usable derived layer.
+- **Preview-before-confirm** is enforced for all Save-to-Knowledge writes, merges, and cleanups.
+- **Deterministic intent routing** relies on the first command line so pasted content does not accidentally trigger actions.
+- **Pending state safety** blocks overlapping pending actions (ingestion, merge, cleanup, auto cleanup, mark superseded).
+- **Fuzzy pending commands** allow inexact phrasing (e.g., "save as new version", "merge existing", "never mind") only when a pending state exists.
+- **File-exists resolution** defaults to safe preview-first options: merge with existing, overwrite with preview, or save as new version.
+- **Chunking guard** intercepts oversized prompts before OpenRouter calls; only supported task types are chunked.
+- **Cleanup safety**: delete is disabled, archive is preferred, canonical files are protected, and auto cleanup only archives high-confidence targets.
+- **Archive filtering** excludes archived files from merge candidates, cleanup scans, and auto cleanup selection.
+- **Git safety**: only explicitly touched files are staged, unrelated staged changes block push, and commits use argument-based execution with path-traversal guards.
+- **RAW/WIKI consistency** is actively verified post-compile rather than blindly trusting the manifest.
+- **Compile failure recovery** treats a compile as successful if the WIKI file exists and metadata matches despite an apparent failure.
+- **Logging privacy** avoids storing full pasted content; logs first command line, message length, handler, and safe error metadata.
 
 ## Practical Use
-- **Core ingestion flow** — paste anything → preview → confirm → save RAW safely → compile into usable WIKI knowledge.
-- **Duplicate handling** — when a target filename already exists, Hermes offers merge, overwrite with preview, or save as a new version. The default safe behavior avoids overwriting.
-- **Fuzzy pending commands** — during an active pending state, informal phrases are understood without exact wording, e.g. `save as new version`, `merge existing`, `overwrite file`, `replace file`, `confirm`, `yes save`, `cancel`, `never mind`. Fuzzy matching only runs when a pending state exists.
-- **Cleanup workflow** — run `cleanup knowledge` or `cleanup knowledge about <topic>`. Review grouped duplicates, low-value notes, and similar topics. Merge into canonical files or archive groups. No automatic deletion.
-- **Archive filtering** — archived files are excluded from merge candidates, cleanup scans, and auto-cleanup selection to prevent repeated reprocessing.
-- **Verified flows** — messy input saves, structured RAW saves, duplicate resolution, save-as-new-version, compile result includes `wikiPath`, false `compile_failed` recovery, RAW/WIKI creation, Git push, preview-first behavior, and fuzzy pending commands.
+- Use this reference to understand backend safety constraints and expected behaviors when operating the knowledge system.
+- Always expect a **preview → confirm** flow before any write to RAW, WIKI, or Git.
+- If a filename already exists, choose between merge, overwrite with preview, or save as a new version rather than allowing silent overwrites.
+- When a pending action is active, resolve it (confirm/cancel) before starting another; fuzzy command matching is available only in pending states.
+- For large inputs, ensure the task type is one of the supported chunking types; otherwise the request will be rejected.
+- During cleanup, review suggested groups and confirm merges or archives; automatic deletion is disabled and low/medium confidence groups are skipped.
+- Git pushes include only known touched files; do not stage unrelated changes.
+- Confirmed tested flows: messy input saves successfully; structured RAW saves successfully; duplicate filename resolution works; save as new version works; compile result includes `wikiPath`; false `compile_failed` response was fixed; RAW and WIKI files are created; Git push succeeds; preview-first behavior works; fuzzy pending commands work.
 
 ## Implementation Notes
-- **Save-to-Knowledge resilience**
-  - Valid RAW is preserved exactly.
-  - Near-RAW input is normalized locally.
-  - Messy input is routed through Clean Up Source.
-  - Failed cleanup produces a safe RAW capture fallback.
-  - All save writes require preview and confirmation.
-- **Intent routing hardening**
-  - Intent detection relies on the first command line where practical.
-  - Prevents pasted source content from triggering save, merge, cleanup, or split commands.
-- **Pending state safety**
-  - Multiple active pending actions are prevented.
-  - Checked states: ingestion preview, merge preview, cleanup preview, auto cleanup preview, mark superseded preview.
-  - If a pending action already exists, the user must confirm or cancel it first.
-- **Chunking hardening**
-  - Oversized prompts are detected before model calls.
-  - Supported chunking tasks: `wiki_compile`, `merge_knowledge`, `cleanup_processing`, `save_to_knowledge_cleanup`.
-  - Unsupported generic chat is rejected with a clear message.
-  - Long lines and blocks are hard-split safely.
-  - Chunking logs include size, threshold, and task type.
-- **Cleanup safety**
-  - Delete is disabled.
-  - Archive is preferred over delete.
-  - Canonical files must not be archived by auto cleanup.
-  - Auto cleanup only archives safe, high-confidence targets.
-  - Low and medium confidence groups are skipped.
-  - All write actions require preview and confirmation.
-- **Git safety**
-  - Removed `git add .`; only explicit touched files are staged.
-  - Unrelated staged files cause push refusal.
-  - `git commit` uses argument-based execution instead of shell-string interpolation.
-  - Path traversal guards protect file operations.
-- **RAW/WIKI consistency pipeline**
-  - WIKI existence is verified after compile.
-  - Missing WIKI files force recompile.
-  - Classifier target changes force recompile.
-  - Stale old WIKI copies are archived.
-  - Manifest entries are updated only after verified compile.
-- **Compile failure recovery**
-  - If compile appears to fail but the WIKI file exists and metadata matches, Hermes treats the compile as recovered success and logs the mismatch.
-- **Logging privacy**
-  - Logs record the first command line instead of full pasted content.
-  - Logs include message length and selected handler.
-  - Route-level errors use safe metadata, message, and code only.
+- **Save-to-Knowledge Resilience**: valid RAW is preserved exactly; near-RAW is normalized locally; messy input is cleaned through Clean Up Source; failed cleanup falls back to a safe RAW capture.
+- **Intent Routing Hardening**: command detection uses the first line of input to distinguish commands from pasted source content, reducing accidental execution.
+- **Chunking Hardening**: an OpenRouter guard detects oversized prompts pre-call. Supported chunking tasks are `wiki_compile`, `merge_knowledge`, `cleanup_processing`, and `save_to_knowledge_cleanup`. Long lines and blocks are hard-split safely; unsupported generic chat is rejected with a clear message. Chunking logs include size, threshold, and task type.
+- **Cleanup Safety**: the Knowledge Cleanup Agent skips delete actions; it only archives safe, high-confidence targets. Canonical files must not be archived by auto cleanup. All write actions require preview and confirmation.
+- **Git Safety**: `git add .` was removed. Only explicit touched files are staged; if unrelated staged files are detected, the push is refused. `git commit` uses argument-based execution instead of shell-string interpolation. Path traversal guards protect file operations.
+- **RAW/WIKI Consistency**: after compile, WIKI existence is verified. Missing WIKI files force recompile; classifier target changes force recompile; stale old WIKI copies are archived. Manifest entries are updated only after a verified compile. False compile failures are recovered when WIKI metadata proves success, and the mismatch is logged.
+- **Logging Privacy**: logs record the first command line, message length, and selected handler rather than full user body content. Route-level errors expose only safe metadata, message, and code.
 
 ## Related
 - [[save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575]]
