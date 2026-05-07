@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T09:56:25.610Z",
+  "updatedAt": "2026-05-07T10:01:11.233Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -654,24 +654,8 @@
       "rawPath": "concepts/small-test-chunk.md",
       "wikiPath": "concepts/small-test-chunk.md",
       "rawHash": "c41c8f54d6b491cac238abc22cb3ba07d9a1a80a9e5c4bab4a1bf582150465b7",
-      "compiledAt": "2026-05-07T09:51:59.558Z",
+      "compiledAt": "2026-05-07T10:01:11.225Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/small-test-chunk.md",
-      "gitCommitted": false
-    },
-    "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md": {
-      "rawPath": "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
-      "wikiPath": "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
-      "rawHash": "63e4e173040995fbedc139c3136df534b76441136dd5d83d14e494fc8085f9d5",
-      "compiledAt": "2026-05-07T09:53:16.649Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
-      "gitCommitted": false
-    },
-    "openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md": {
-      "rawPath": "openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md",
-      "wikiPath": "openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md",
-      "rawHash": "ea18cbd740160b66e11a9491f10adf5437f9e8bc28d50c50808d53373f74c0dc",
-      "compiledAt": "2026-05-07T09:56:25.604Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md",
       "gitCommitted": false
     }
   }
