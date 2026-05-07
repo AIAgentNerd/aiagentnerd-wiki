@@ -2,7 +2,7 @@
 title: Openwebui Save To Knowledge With Preview Filename Codex Web App Quickstart And Command Sty Dd39234d 4541 4723 A5e0 174691c08c95
 source_raw: RAW/openwebui/save-to-knowledge-with-preview-filename-codex-web-app-quickstart-and-command-sty-dd39234d-4541-4723-a5e0-174691c08c95.md
 compiled_wiki_path: WIKI/openwebui/save-to-knowledge-with-preview-filename-codex-web-app-quickstart-and-command-sty-dd39234d-4541-4723-a5e0-174691c08c95.md
-compiled_at: 2026-05-07T08:29:49.090Z
+compiled_at: 2026-05-07T10:27:22.520Z
 type: system-note
 tags: [aiagentnerd, compiled, uncategorized, save, knowledge, with, preview, filename]
 ---
@@ -10,47 +10,49 @@ tags: [aiagentnerd, compiled, uncategorized, save, knowledge, with, preview, fil
 # Openwebui Save To Knowledge With Preview Filename Codex Web App Quickstart And Command Sty Dd39234d 4541 4723 A5e0 174691c08c95
 
 ## Summary
-Guidelines for using OpenAI Codex (Web App and CLI) within the AiAgentNerd ecosystem. Codex should be treated as an implementation-focused execution engine—an AI developer that builds, edits, and debugs—rather than a conversational advisor. The note defines prompt structure, distinguishes Codex from ChatGPT, outlines a two-step Web-then-CLI workflow for Mission Control development, and situates Codex within the long-term architecture alongside Hermes and the semantic wiki.
+Guidelines for using OpenAI Codex as an execution layer within the AiAgentNerd workflow. Covers the task-oriented mental model, a four-part prompt structure (Context, Task, Requirements, Constraints), and a two-step workflow that uses the Codex Web App for feature generation and the CLI for local integration and debugging. Clarifies Codex’s complementary role to the semantic wiki and Hermes orchestration in the target architecture.
 
 ## Key Concepts
-- **Task-Oriented Mental Model**: Treat Codex as a junior engineer that executes concrete implementation tasks. Good prompts are commands, not conversations (e.g., "build this feature", "fix this bug").
-- **ChatGPT vs. Codex**: ChatGPT is for architecture, brainstorming, strategy, and refinement ("think with me"). Codex is for creating files, editing code, implementing features, and integrating systems ("build this for me").
-- **Four-Part Prompt Structure**: Context, Task, Requirements, Constraints. This structure produces significantly better implementation quality than vague prompts.
-- **Web App vs. CLI**: 
-  - Web App: high-level feature generation, multi-file implementations, autonomous scaffolding.
-  - CLI: local integration, debugging, precise edits, real-time iteration inside live repos.
-- **Complementary Systems**: Codex is an execution layer; the Obsidian/wiki system remains the source of truth for durable semantic knowledge, canonical architecture, and operational understanding.
+- **Task-oriented mental model**: Frame Codex prompts as concrete implementation commands (e.g., “build this feature”, “fix this bug”) rather than open-ended conversation
+- **ChatGPT vs. Codex**: ChatGPT is for architecture, brainstorming, and strategy (“think with me”); Codex is for creating files, editing code, and implementing features (“build this for me”)
+- **Prompt structure**: Effective prompts contain four sections: Context, Task, Requirements, Constraints
+- **Codex Web App vs. CLI**: Web App delegates high-level feature generation, multi-file scaffolding, and autonomous execution; CLI handles local integration, precise edits, debugging, and real-time iteration
+- **Execution vs. memory**: Codex accelerates implementation but does not replace the semantic wiki’s durable knowledge, canonical architecture, or operational memory
+- **Target architecture**: `semantic wiki + operational memory + agent orchestration (Hermes) + AI execution layer (Codex) + Mission Control UI`
 
 ## Practical Use
-- **Prompt framing**: Use concrete commands such as:
-  - `build this feature`
-  - `create this endpoint`
-  - `modify this file`
-  - `refactor this component`
-  - `update this workflow`
-- **Two-step workflow for Mission Control development**:
-  1. **Codex Web App**: Generate features, scaffold UI, create architecture foundations, and produce first-pass implementations (e.g., generate the mission control dashboard, create the agent grid, build the task panel).
-  2. **Codex CLI**: Integrate generated code into the live repo, adapt to the real backend structure, debug, refactor, and connect APIs (e.g., connect the frontend to Hermes endpoints, fix `server.js` conflicts, refine task routing).
-- Example prompt structure:
-  ```txt
-  Context: We have a Node.js backend running on port 3100.
-  Task: Add a POST /api/chat endpoint.
-  Requirements: Accept JSON input; return JSON response; do not break existing routes.
-  Constraints: Use Express; keep code modular.
-  ```
+- Use the **Codex Web App** for autonomous feature generation, UI scaffolding, large implementation tasks, and initial architecture (e.g., generate the mission control dashboard, create an agent grid, build a task panel)
+- Use the **Codex CLI** locally to integrate generated code into existing repos, adapt to real backend structures, debug, refactor, and connect APIs (e.g., connect the frontend to Hermes endpoints, fix `server.js` conflicts, refine task routing)
+- Apply the structured prompt template—Context, Task, Requirements, Constraints—to produce significantly better implementation quality than vague conversational prompts
+- Maintain the wiki as the canonical source for semantic knowledge and organizational intelligence while treating Codex as the implementation engine operating on top of it
 
 ## Implementation Notes
-- **Codex Web App purpose**: Delegation to an AI development team for autonomous, multi-file execution and feature scaffolding.
-- **Codex CLI purpose**: Pair-programming with an AI engineer for precise, local edits and integration.
-- **Long-term architectural direction**:
+- **Recommended prompt template**:
   ```txt
-  semantic wiki + operational memory + agent orchestration + AI execution layer
+  Context:
+  We have a Node.js backend running on port 3100.
+
+  Task:
+  Add a POST /api/chat endpoint.
+
+  Requirements:
+  - Accept JSON input
+  - Return JSON response
+  - Do not break existing routes
+
+  Constraints:
+  - Use Express
+  - Keep code modular
   ```
-  - **Wiki**: stores durable knowledge.
-  - **Hermes**: orchestrates workflows and memory.
-  - **Codex**: accelerates implementation and coding execution.
-  - **Mission Control**: provides the operational UI layer.
-- This separation is intended to create a scalable, model-independent AI-native operating system architecture.
+- **Two-phase workflow for Mission Control development**:
+  1. **Web App phase**: feature generation, UI scaffolding, large implementation tasks, initial architecture
+  2. **CLI phase**: integrating generated code, adapting to backend structure, debugging, API connectivity
+- **Long-term architectural stack**:
+  - Wiki stores durable knowledge
+  - Hermes orchestrates workflows and memory
+  - Codex accelerates implementation and coding execution
+  - Mission Control provides the operational UI layer
+- **Metadata**: category `apps`; tags include `codex`, `openai`, `coding-agents`, `workflows`, `ai-development`, `mission-control`; created 2026-05-06; source labeled `chatgpt`
 
 ## Related
 - [[save-this-to-knowledge-with-preview-----category-architecture-filename-hermes-kn-4debc305-26df-4725-a347-4effb3d3b3e5]]
