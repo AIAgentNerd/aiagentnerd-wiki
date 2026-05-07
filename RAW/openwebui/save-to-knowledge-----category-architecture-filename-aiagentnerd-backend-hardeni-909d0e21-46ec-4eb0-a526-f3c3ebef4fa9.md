@@ -176,7 +176,7 @@ source: openwebui
 openwebui_chat_id: 909d0e21-46ec-4eb0-a526-f3c3ebef4fa9
 created_at: 1777963995
 updated_at: 1777965221
-exported_at: 2026-05-06T02:45:01.869220
+exported_at: 2026-05-07T02:45:01.978343
 
 ---
 
@@ -1047,4 +1047,4 @@ Pending: merge preview for architecture/aiagentnerd-backend-hardening-summary-me
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9]]
-- Last compiled: 2026-05-06T15:40:46.609Z
+- Last compiled: 2026-05-07T05:57:05.525Z
