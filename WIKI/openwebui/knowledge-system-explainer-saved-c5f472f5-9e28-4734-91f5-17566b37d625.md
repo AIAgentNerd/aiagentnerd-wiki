@@ -2,7 +2,7 @@
 title: Openwebui Knowledge System Explainer Saved C5f472f5 9e28 4734 91f5 17566b37d625
 source_raw: RAW/openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md
 compiled_wiki_path: WIKI/openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md
-compiled_at: 2026-05-07T09:32:34.792Z
+compiled_at: 2026-05-07T09:56:25.604Z
 type: system-note
 tags: [aiagentnerd, compiled, uncategorized, knowledge, explainer, saved, c5f472f5, 9e28]
 ---
@@ -10,47 +10,38 @@ tags: [aiagentnerd, compiled, uncategorized, knowledge, explainer, saved, c5f472
 # Openwebui Knowledge System Explainer Saved C5f472f5 9e28 4734 91f5 17566b37d625
 
 ## Summary
-This note captures a live system test of the AiAgentNerd knowledge ingestion pipeline, exercising RAW-to-WIKI compilation, large-content splitting, merge workflows, and cleanup behaviors. It documents the dual-layer knowledge architecture, strict command parsing, pending state safety mechanisms, and operational constraints including Git integration and model routing. The session includes a structured explainer, a deep-dive operational framework, and a repetitive stress test to verify local chunking and deterministic behavior.
+OpenWebUI chat session (`c5f472f5-9e28-4734-91f5-17566b37d625`) exercising AiAgentNerd knowledge system ingestion workflows. The log captures a successful end-to-end save of the knowledge system explainer, a pending-state conflict blocking a second save, local large-content splitting behavior, and a stress test submission. It serves as a reference for how the dual-layer RAW/WIKI pipeline, confirmation safety, Git integration, and split/merge workflows behave in practice.
 
 ## Key Concepts
-- **RAW vs WIKI dual-layer architecture**: RAW is the editable source of truth; WIKI is compiled, structured, and not manually edited
-- **Ingestion pipeline**: input → intent detection → optional cleaning → preview → pending state → user confirm → RAW save → compile → WIKI → Git → retrieval
-- **Strict command parsing**: only the first line is evaluated for commands; content is never scanned for accidental triggers
-- **Pending state system**: persistent, safe, single source of truth stored at `/home/nerd/aiagentnerd-system/tmp/pending-ingestions/hermes-pending-ingestion.json`; never silently deleted
-- **Large content splitting**: detected early and split locally into chunks like `topic-part-1.md` without LLM processing; batch preview generated before confirmation
-- **Merge workflow**: recombine split chunks or new info into canonical notes, removing duplication while preserving unique insights
-- **Cleanup system**: scans all notes to detect duplicates, low-value content, and fragmentation; suggests merge, archive, or ignore; no automatic deletion
-- **Safety model**: preview → confirm → save; archive preferred over delete; backups created before changes
-- **Determinism**: explicit edge case handling; no hidden state changes, silent truncation, or hidden failures
+- **Dual-layer knowledge architecture**: RAW layer (editable source of truth, may contain noise) and WIKI layer (structured, compiled, optimized for reuse, not manually edited)
+- **Ingestion pipeline**: input → intent detection → optional cleanup → preview → pending state → user confirm → RAW save → compile → WIKI generate → Git commit/push → retrieval
+- **Pending state safety**: All destructive or permanent operations require explicit confirmation; pending states persist and block new ingestion commands until resolved
+- **Large-content splitting**: Triggered when inputs exceed safe thresholds; performed locally without LLM overload; chunks follow naming pattern `topic-part-1.md`, `topic-part-2.md`, etc.
+- **Command parsing strictness**: Only the first line is evaluated for commands; body content is never scanned to prevent accidental triggers
+- **Cleanup system**: Scans for duplicates, low-value notes, and topic fragmentation; recommends merge, archive, or ignore; never auto-deletes; prefers archive over delete
+- **Deterministic behavior**: Every input should lead to predictable behavior; edge cases handled explicitly; no hidden state changes or silent truncation
 
 ## Practical Use
-- **Ingesting new knowledge**: `Clean this up and save it` or `Save this to knowledge with preview` → review preview → `confirm`
-- **Merging content**: `Merge these` for multiple chunks; `Merge this with existing knowledge about <topic> with preview` to update canonical notes; `Merge this with existing file <filename>.md with preview` for targeted updates
-- **Splitting large inputs**: `Split this into multiple notes` triggers local chunking when content exceeds safe thresholds
-- **Running cleanup**: `cleanup knowledge` or `cleanup knowledge about <topic>` generates groups (duplicate, low-value, similar topic); then `merge cleanup group N into canonical with preview` or `archive cleanup group N`
-- **Confirming or canceling**: `confirm`, `cancel`, `confirm merge`, `cancel merge`, `confirm cleanup merge`, `confirm archive`, `cancel cleanup`
-- **Daily flow**: capture raw input → merge with existing knowledge → combine related ideas → run periodic cleanup
-- **System paths**: RAW files save to `/home/nerd/aiagentnerd-wiki/RAW/<category>/`; WIKI compiles to `WIKI/<category>/`; Git pushes to `github.com:AIAgentNerd/aiagentnerd-wiki.git`
+- **Saving new knowledge**: `save this to knowledge with preview` generates a preview; `confirm save` commits the RAW file, triggers compilation to WIKI, and pushes to Git
+- **Handling pending conflicts**: If a pending action exists, new save/split requests are rejected with the pending item count and path; resolve or cancel before proceeding
+- **Splitting long content**: `split large content` or `split long content` expects the source content after the first line; the system returns a batch preview with chunk count and filenames, awaiting confirmation
+- **Recombining splits**: After split-save, use merge workflows to consolidate related chunks into a canonical note, remove duplication, and preserve unique insights
+- **Cleanup usage**: `cleanup knowledge` or `cleanup knowledge about <topic>` scans the base and presents duplicate/similar/low-value groups with confidence scores and recommended actions
 
 ## Implementation Notes
-- **Pipeline stages**:
-  1. Input received
-  2. Intent detected from first line only
-  3. Content optionally cleaned
-  4. Preview generated
-  5. Pending state written to `/home/nerd/aiagentnerd-system/tmp/pending-ingestions/hermes-pending-ingestion.json`
-  6. User confirms via reply command
-  7. RAW file saved to `/home/nerd/aiagentnerd-wiki/RAW/<category>/<filename>`
-  8. Compile process runs (`compiled=1, skipped=0, failed=0` on success)
-  9. WIKI file generated at `WIKI/<category>/<filename>`
-  10. Git commit and push of only touched files to `github.com:AIAgentNerd/aiagentnerd-wiki.git`
-- **Split behavior**: When inputs exceed safe thresholds, the system splits locally before LLM processing to avoid token limits and structured-output overhead. Chunks follow `topic-part-N.md` naming. Each chunk is saved as a separate RAW file and compiled individually.
-- **Merge behavior**: After splitting, related chunks should be identified and consolidated into a canonical note. The system proposes the canonical target, merges content, removes duplication, and preserves unique insights.
-- **Pending state requirements**: Must persist independently of success or failure in later stages. A pending action blocks new ingestion until confirmed or canceled.
-- **Git constraints**: Only commit files touched by the current operation; avoid global staging (`git add .`) to maintain a clean history.
-- **Model routing**: Select an appropriate model per task; implement safe fallbacks; avoid infinite retry loops.
-- **Edge cases handled explicitly**: duplicate filenames, conflicting categories, partial saves, interrupted processes, and large batch operations.
-- **Stress test observations**: The session included repetitive large blocks across six conceptual sections (ingestion, splitting, pending state, merging, cleanup, determinism) to verify that local chunking and pipeline safety behave deterministically under volume.
+- **Successful save example** (explainer):
+  - RAW path: `/home/nerd/aiagentnerd-wiki/RAW/concepts/aiagentnerd-knowledge-system-explainer-and-workflow.md`
+  - WIKI path: `concepts/aiagentnerd-knowledge-system-explainer-and-workflow.md`
+  - Compile result: `compiled=1, skipped=0, failed=0`
+  - Git remote: `github.com:AIAgentNerd/aiagentnerd-wiki.git`
+  - Commit range: `7591472..c5e993b` on `main`
+- **Pending state storage**: `/home/nerd/aiagentnerd-system/tmp/pending-ingestions/hermes-pending-ingestion.json`
+- **Pending expiration example**: `2026-05-05T16:48:39.542Z`
+- **Deep dive split preview**: Generated 1 chunk pending as `architecture/aiagentnerd-knowledge-system-deep-dive-and-operational-framework.md`; confirmation not completed in this log
+- **Stress test**: Submitted via `split long content` with repetitive sections testing ingestion, splitting, pending safety, merging, cleanup, and determinism; assistant response truncated in source
+- **Git constraints**: Only commit touched files; avoid global staging; maintain clean history
+- **Model routing**: Select appropriate model per task; fallback safely; avoid infinite retries
+- **Edge cases to handle explicitly**: duplicate filenames, conflicting categories, partial saves, interrupted processes, large batch operations
 
 ## Related
 - [[aiagentnerd-knowledge-system-explainer-and-workflow]]
