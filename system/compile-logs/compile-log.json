@@ -62911,5 +62911,203 @@
     "reason": "skipped_large_input",
     "size": 27508,
     "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
+  },
+  {
+    "timestamp": "2026-05-08T15:42:00.297Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "architecture/hermes-clean-save-compile-sync-test.md",
+    "previousRawPath": null,
+    "wikiPath": "architecture/hermes-clean-save-compile-sync-test.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 3848 > 3080. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:00.357Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/hermes-clean-save-compile-sync-test.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 3848 > 3080. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:00.662Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "architecture/hermes-full-native-memory-pipeline-test.md",
+    "previousRawPath": null,
+    "wikiPath": "architecture/hermes-full-native-memory-pipeline-test.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 3804 > 3251. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:00.704Z",
+    "action": "compile_system_raw",
+    "rawPath": "architecture/hermes-full-native-memory-pipeline-test.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 3804 > 3251. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:00.991Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "concepts/hermes-native-auto-pipeline-test.md",
+    "previousRawPath": null,
+    "wikiPath": "concepts/hermes-native-auto-pipeline-test.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 3786 > 3251. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:01.046Z",
+    "action": "compile_system_raw",
+    "rawPath": "concepts/hermes-native-auto-pipeline-test.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 3786 > 3251. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:01.323Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "infrastructure/hermes-mcp-save-compile-test.md",
+    "previousRawPath": null,
+    "wikiPath": "infrastructure/hermes-mcp-save-compile-test.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 3788 > 3251. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:01.377Z",
+    "action": "compile_system_raw",
+    "rawPath": "infrastructure/hermes-mcp-save-compile-test.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 3788 > 3251. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:01.658Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "infrastructure/hermes-native-memory-test.md",
+    "previousRawPath": null,
+    "wikiPath": "infrastructure/hermes-native-memory-test.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 3810 > 3251. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:01.710Z",
+    "action": "compile_system_raw",
+    "rawPath": "infrastructure/hermes-native-memory-test.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 3810 > 3251. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:02.072Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 8466 > 3251. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:02.124Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 8466 > 3251. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:02.487Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 11598 > 3251. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:02.511Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 11598 > 3251. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:02.820Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 10467 > 3080. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:02.840Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 10467 > 3080. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:03.223Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 13908 > 3080. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:03.278Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 13908 > 3080. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:03.640Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 12818 > 3251. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:03.659Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 12818 > 3251. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:03.918Z",
+    "action": "compile_specific_system_raw",
+    "rawPath": "openwebui/save-to-knowledge-with-preview-filename-codex-web-app-quickstart-and-command-sty-dd39234d-4541-4723-a5e0-174691c08c95.md",
+    "previousRawPath": null,
+    "wikiPath": "openwebui/save-to-knowledge-with-preview-filename-codex-web-app-quickstart-and-command-sty-dd39234d-4541-4723-a5e0-174691c08c95.md",
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 7298 > 3080. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:03.972Z",
+    "action": "compile_system_raw",
+    "rawPath": "openwebui/save-to-knowledge-with-preview-filename-codex-web-app-quickstart-and-command-sty-dd39234d-4541-4723-a5e0-174691c08c95.md",
+    "wikiPath": null,
+    "result": "failure",
+    "error": "{\"error\":{\"message\":\"Prompt tokens limit exceeded: 7298 > 3080. To increase, visit https://openrouter.ai/settings/credits and add more credits\",\"code\":402,\"metadata\":{\"provider_name\":null}},\"user_id\":\"user_39npHucTY0feSj9Ni26d26MTYuE\"}"
+  },
+  {
+    "timestamp": "2026-05-08T15:42:03.996Z",
+    "action": "skip_specific_system_raw",
+    "rawPath": "web/Karpathy-Style LLM Wiki.md",
+    "previousRawPath": null,
+    "wikiPath": "web/Karpathy-Style LLM Wiki.md",
+    "result": "skipped",
+    "reason": "skipped_large_input",
+    "size": 27508,
+    "error": "This input is too large for normal chat. Please use split/preview or provide a smaller chunk."
   }
 ]
