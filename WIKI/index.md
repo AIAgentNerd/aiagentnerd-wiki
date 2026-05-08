@@ -83,6 +83,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad]] — architecture/cleanup-knowledge-about-deck-deeec384-5ce3-477e-884a-aff13904a4ad.md
 - [[cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4]] — architecture/cleanup-knowledge-about-hermes-setup-ef1de140-a2ad-459a-8174-ae17d74be2f4.md
 - [[cloudflare-network]] — architecture/cloudflare-network.md
+- [[hermes-clean-save-compile-sync-test]] — architecture/hermes-clean-save-compile-sync-test.md
 - [[hermes-full-native-memory-pipeline-test]] — architecture/hermes-full-native-memory-pipeline-test.md
 - [[hermes-knowledge-ingestion-system]] — architecture/hermes-knowledge-ingestion-system.md
 - [[hermes-knowledge-system-full-architecture]] — architecture/hermes-knowledge-system-full-architecture.md
