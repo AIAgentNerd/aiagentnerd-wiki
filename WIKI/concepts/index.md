@@ -34,6 +34,7 @@
 
 ## General
 
+- [[hermes-native-auto-pipeline-test]] — concepts/hermes-native-auto-pipeline-test.md
 - [[llm-wiki]] — concepts/llm-wiki.md
 - [[Topic brains]] — concepts/Topic brains.md
 

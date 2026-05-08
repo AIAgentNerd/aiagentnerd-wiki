@@ -19,6 +19,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[aiagentnerd-master-notes]] — concepts/aiagentnerd-master-notes.md
 - [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — concepts/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
 - [[deck]] — concepts/deck.md
+- [[hermes-native-auto-pipeline-test]] — concepts/hermes-native-auto-pipeline-test.md
 - [[index]] — concepts/index.md
 - [[ingest-endpoint-test]] — concepts/ingest-endpoint-test.md
 - [[karpathy-llm-wiki]] — concepts/karpathy-llm-wiki.md
