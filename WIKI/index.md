@@ -37,6 +37,8 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143]] — infrastructure/clean-this-up-and-save-it-ok-so-basically-you-need-to-restart-hermes-using-pm2-r-1218946d-06ba-47ad-a3b4-08b528bc7143.md
 - [[git-obsidian-setup]] — infrastructure/git-obsidian-setup.md
 - [[hermes-knowledge-system-full-architecture]] — infrastructure/hermes-knowledge-system-full-architecture.md
+- [[hermes-mcp-save-compile-test]] — infrastructure/hermes-mcp-save-compile-test.md
+- [[hermes-native-memory-test]] — infrastructure/hermes-native-memory-test.md
 - [[hermes-service-restart-and-troubleshooting]] — infrastructure/hermes-service-restart-and-troubleshooting.md
 - [[hermes-service-restart-and-troubleshooting-merged]] — infrastructure/hermes-service-restart-and-troubleshooting-merged.md
 - [[hermes-service-restart-and-troubleshooting-merged-2]] — infrastructure/hermes-service-restart-and-troubleshooting-merged-2.md

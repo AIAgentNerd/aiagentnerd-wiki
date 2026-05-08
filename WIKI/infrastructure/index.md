@@ -19,6 +19,8 @@
 ## General
 
 - [[git-obsidian-setup]] — infrastructure/git-obsidian-setup.md
+- [[hermes-mcp-save-compile-test]] — infrastructure/hermes-mcp-save-compile-test.md
+- [[hermes-native-memory-test]] — infrastructure/hermes-native-memory-test.md
 
 ## Hermes
 
