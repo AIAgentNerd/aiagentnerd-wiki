@@ -108,6 +108,7 @@
 
 ## General
 
+- [[hermes-full-native-memory-pipeline-test]] — architecture/hermes-full-native-memory-pipeline-test.md
 - [[model-routing-reliability]] — architecture/model-routing-reliability.md
 
 ## Git
