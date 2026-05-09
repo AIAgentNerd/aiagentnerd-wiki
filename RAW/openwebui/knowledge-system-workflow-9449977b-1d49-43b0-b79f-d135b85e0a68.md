@@ -1495,4 +1495,4 @@ No pending knowledge preview found. It may have expired; create a new preview fi
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68]]
-- Last compiled: 2026-05-09T15:42:21.992Z
+- Last compiled: 2026-05-09T15:52:26.084Z
