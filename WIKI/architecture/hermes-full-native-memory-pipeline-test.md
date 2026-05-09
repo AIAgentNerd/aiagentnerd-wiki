@@ -2,7 +2,7 @@
 title: Architecture Hermes Full Native Memory Pipeline Test
 source_raw: RAW/architecture/hermes-full-native-memory-pipeline-test.md
 compiled_wiki_path: WIKI/architecture/hermes-full-native-memory-pipeline-test.md
-compiled_at: 2026-05-09T16:32:33.693Z
+compiled_at: 2026-05-09T16:52:55.971Z
 type: system-note
 tags: [aiagentnerd, compiled, architecture, hermes, full, native, memory, pipeline]
 ---
@@ -10,21 +10,21 @@ tags: [aiagentnerd, compiled, architecture, hermes, full, native, memory, pipeli
 # Architecture Hermes Full Native Memory Pipeline Test
 
 ## Summary
-Validates the complete Hermes-native memory pipeline from initial save through compile to final git sync. This end-to-end test confirms that the native workflow for persisting system memory operates correctly across all stages.
+Validates the end-to-end Hermes-native memory workflow across its three core stages: save, compile, and Git synchronization. This test ensures the automated pipeline can reliably move raw content into the system wiki and persist it in version control.
 
 ## Key Concepts
-- **Hermes-native memory pipeline**: The internal save → compile → git sync workflow for machine memory.
-- **Save**: Capturing raw memory or state into the system.
-- **Compile**: Processing raw inputs into structured wiki notes.
-- **Git sync**: Committing compiled artifacts to the canonical repository.
+- **Hermes-native memory workflow**: The built-in pipeline by which Hermes manages system memory.
+- **Save**: Initial capture and persistence of raw memory content.
+- **Compile**: Transformation of raw notes into structured wiki entries.
+- **Git sync**: Version-control synchronization of compiled output.
 
 ## Practical Use
-- Verify end-to-end pipeline integrity by confirming each stage hands off correctly to the next.
-- Ensure compiled outputs reach their target wiki paths and are synchronized to the system repository without manual intervention.
+- Run as a smoke test after pipeline or infrastructure changes to confirm the memory system remains functional.
+- Use to verify that raw notes successfully propagate from initial save through compilation to the Git-backed wiki.
 
 ## Implementation Notes
-- This note serves as a pipeline validation marker; it does not specify individual test commands, assertions, or error handling.
-- The compiled target path is `architecture/hermes-full-native-memory-pipeline-test.md`.
+- The tested pipeline sequence is strictly `save → compile → git sync`.
+- This is an internal architecture test for the native memory subsystem, not an external integration.
 
 ## Related
 - [[hermes-native-auto-pipeline-test]]
