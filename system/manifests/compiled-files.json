@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T18:48:08.809Z",
+  "updatedAt": "2026-05-09T19:21:04.647Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -661,10 +661,10 @@
     "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md": {
       "rawPath": "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
       "wikiPath": "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
-      "rawHash": "e9b40355e01ce1a4110396a1ad7a0acea25f3663be73d90a039176b6dbf32479",
-      "compiledAt": "2026-05-07T11:01:33.356Z",
+      "rawHash": "f47ba172d9d65e848ee8eb947620043c09544700768981aca57ddddd8a2c734e",
+      "compiledAt": "2026-05-09T19:21:04.639Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
-      "gitCommitted": true
+      "gitCommitted": false
     },
     "architecture/hermes-clean-save-compile-sync-test.md": {
       "rawPath": "architecture/hermes-clean-save-compile-sync-test.md",
@@ -702,8 +702,16 @@
       "rawPath": "architecture/hermes-full-native-memory-pipeline-test.md",
       "wikiPath": "architecture/hermes-full-native-memory-pipeline-test.md",
       "rawHash": "7f85e3c4e0626427c13b6077758ab1177c5004454bcd0bd39516a2cef0059e6e",
-      "compiledAt": "2026-05-09T18:48:08.801Z",
+      "compiledAt": "2026-05-09T19:17:30.346Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/hermes-full-native-memory-pipeline-test.md",
+      "gitCommitted": false
+    },
+    "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md": {
+      "rawPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+      "wikiPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+      "rawHash": "71d20197a9a45fb28a9657ff3907a1c5051a747bbc6aa2e85405dd0d899581e8",
+      "compiledAt": "2026-05-09T19:20:47.303Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
       "gitCommitted": false
     }
   }
