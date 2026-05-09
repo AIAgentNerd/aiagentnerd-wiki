@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T17:39:30.097Z",
+  "updatedAt": "2026-05-09T17:47:33.064Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -698,12 +698,12 @@
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/hermes-native-auto-pipeline-test.md",
       "gitCommitted": false
     },
-    "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md": {
-      "rawPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
-      "wikiPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
-      "rawHash": "fc1834dd7eb65f3c51dd7b0ef4c3182df47a87e4df25cc4acdc2f3dab194ab1c",
-      "compiledAt": "2026-05-09T17:39:30.089Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
+    "architecture/hermes-full-native-memory-pipeline-test.md": {
+      "rawPath": "architecture/hermes-full-native-memory-pipeline-test.md",
+      "wikiPath": "architecture/hermes-full-native-memory-pipeline-test.md",
+      "rawHash": "7f85e3c4e0626427c13b6077758ab1177c5004454bcd0bd39516a2cef0059e6e",
+      "compiledAt": "2026-05-09T17:47:33.057Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/hermes-full-native-memory-pipeline-test.md",
       "gitCommitted": false
     }
   }
