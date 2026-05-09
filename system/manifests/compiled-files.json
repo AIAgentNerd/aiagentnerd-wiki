@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T17:09:31.600Z",
+  "updatedAt": "2026-05-09T17:15:19.984Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -702,16 +702,16 @@
       "rawPath": "architecture/hermes-full-native-memory-pipeline-test.md",
       "wikiPath": "architecture/hermes-full-native-memory-pipeline-test.md",
       "rawHash": "7f85e3c4e0626427c13b6077758ab1177c5004454bcd0bd39516a2cef0059e6e",
-      "compiledAt": "2026-05-09T17:03:02.552Z",
+      "compiledAt": "2026-05-09T17:12:45.753Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/hermes-full-native-memory-pipeline-test.md",
       "gitCommitted": false
     },
-    "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md": {
-      "rawPath": "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
-      "wikiPath": "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
-      "rawHash": "fe1137dca7a161b5e870b6d22b6b09826295cf8ea3ff0799fb69b1d0905e97f5",
-      "compiledAt": "2026-05-09T17:09:31.592Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
+    "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md": {
+      "rawPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
+      "wikiPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
+      "rawHash": "fc1834dd7eb65f3c51dd7b0ef4c3182df47a87e4df25cc4acdc2f3dab194ab1c",
+      "compiledAt": "2026-05-09T17:15:19.977Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
       "gitCommitted": false
     }
   }
