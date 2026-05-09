@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T18:06:45.464Z",
+  "updatedAt": "2026-05-09T18:12:45.844Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -698,12 +698,28 @@
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/hermes-native-auto-pipeline-test.md",
       "gitCommitted": false
     },
+    "architecture/hermes-full-native-memory-pipeline-test.md": {
+      "rawPath": "architecture/hermes-full-native-memory-pipeline-test.md",
+      "wikiPath": "architecture/hermes-full-native-memory-pipeline-test.md",
+      "rawHash": "7f85e3c4e0626427c13b6077758ab1177c5004454bcd0bd39516a2cef0059e6e",
+      "compiledAt": "2026-05-09T18:07:34.378Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/hermes-full-native-memory-pipeline-test.md",
+      "gitCommitted": false
+    },
     "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md": {
       "rawPath": "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
       "wikiPath": "openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
       "rawHash": "fe1137dca7a161b5e870b6d22b6b09826295cf8ea3ff0799fb69b1d0905e97f5",
-      "compiledAt": "2026-05-09T18:06:45.457Z",
+      "compiledAt": "2026-05-09T18:11:20.593Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
+      "gitCommitted": false
+    },
+    "openwebui/save-to-knowledge-with-preview-filename-codex-web-app-quickstart-and-command-sty-dd39234d-4541-4723-a5e0-174691c08c95.md": {
+      "rawPath": "openwebui/save-to-knowledge-with-preview-filename-codex-web-app-quickstart-and-command-sty-dd39234d-4541-4723-a5e0-174691c08c95.md",
+      "wikiPath": "openwebui/save-to-knowledge-with-preview-filename-codex-web-app-quickstart-and-command-sty-dd39234d-4541-4723-a5e0-174691c08c95.md",
+      "rawHash": "2f5d93bb43f0370edf0cd691773933ecabcbf23545d2abd6e711e3ab5a1c85b1",
+      "compiledAt": "2026-05-09T18:12:45.813Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/save-to-knowledge-with-preview-filename-codex-web-app-quickstart-and-command-sty-dd39234d-4541-4723-a5e0-174691c08c95.md",
       "gitCommitted": false
     }
   }

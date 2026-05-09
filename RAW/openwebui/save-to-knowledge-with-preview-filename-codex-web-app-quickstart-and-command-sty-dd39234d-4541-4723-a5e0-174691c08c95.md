@@ -612,4 +612,4 @@ This separation creates a scalable and model-independent AI-native operating sys
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/openwebui/save-to-knowledge-with-preview-filename-codex-web-app-quickstart-and-command-sty-dd39234d-4541-4723-a5e0-174691c08c95]]
-- Last compiled: 2026-05-09T16:27:12.061Z
+- Last compiled: 2026-05-09T18:12:45.813Z

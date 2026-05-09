@@ -2,7 +2,7 @@
 title: Architecture Hermes Full Native Memory Pipeline Test
 source_raw: RAW/architecture/hermes-full-native-memory-pipeline-test.md
 compiled_wiki_path: WIKI/architecture/hermes-full-native-memory-pipeline-test.md
-compiled_at: 2026-05-09T17:58:15.138Z
+compiled_at: 2026-05-09T18:07:34.378Z
 type: system-note
 tags: [aiagentnerd, compiled, architecture, hermes, full, native, memory, pipeline]
 ---
@@ -10,20 +10,22 @@ tags: [aiagentnerd, compiled, architecture, hermes, full, native, memory, pipeli
 # Architecture Hermes Full Native Memory Pipeline Test
 
 ## Summary
-Validates the complete Hermes-native memory pipeline from initial save through compilation to git synchronization.
+End-to-end validation of the Hermes-native memory pipeline, confirming that operational data flows correctly through save, compile, and git sync stages into the system wiki.
 
 ## Key Concepts
-- **Hermes-native memory workflow**: The internal system for persisting machine memory
-- **Pipeline stages**: save → compile → git sync
-- **End-to-end test**: Architectural validation covering all pipeline phases
+- **Hermes-native memory workflow**: Internal pipeline for persisting machine memory and operational logs.
+- **Save**: Initial capture of raw operational data.
+- **Compile**: Transformation of raw notes into structured wiki entries.
+- **Git sync**: Committing compiled notes to the `aiagentnerd-system` repository.
 
 ## Practical Use
-- Verify that memory entries save correctly, compile into wiki format, and sync to the system repository without manual intervention.
-- Use as a smoke test after changes to the memory pipeline, compilation logic, or git integration.
+- Verify that the complete memory pipeline functions correctly from data capture through version control.
+- Confirm that machine-generated logs and state reliably reach the curated system wiki.
 
 ## Implementation Notes
-- Tests the full sequence: save → compile → git sync.
-- Validates end-to-end operation of the native memory system.
+- Test covers three sequential stages: save → compile → git sync.
+- Target repository: `aiagentnerd-system`.
+- Output should appear at the target wiki path after successful sync.
 
 ## Related
 - [[hermes-native-auto-pipeline-test]]
