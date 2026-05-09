@@ -2,7 +2,7 @@
 title: Architecture Hermes Full Native Memory Pipeline Test
 source_raw: RAW/architecture/hermes-full-native-memory-pipeline-test.md
 compiled_wiki_path: WIKI/architecture/hermes-full-native-memory-pipeline-test.md
-compiled_at: 2026-05-09T18:17:30.918Z
+compiled_at: 2026-05-09T18:32:32.897Z
 type: system-note
 tags: [aiagentnerd, compiled, architecture, hermes, full, native, memory, pipeline]
 ---
@@ -10,21 +10,22 @@ tags: [aiagentnerd, compiled, architecture, hermes, full, native, memory, pipeli
 # Architecture Hermes Full Native Memory Pipeline Test
 
 ## Summary
-End-to-end test of the Hermes-native memory pipeline covering the complete save, compile, and git synchronization workflow.
+A test of the complete Hermes-native memory pipeline covering the save, compile, and git sync stages. It validates that a raw note can flow through the full internal workflow end-to-end and land in the system wiki correctly.
 
 ## Key Concepts
-- **Hermes-native memory pipeline**: The integrated workflow for capturing, compiling, and persisting machine memory
-- **Save stage**: Raw note capture and storage
-- **Compile stage**: Processing raw notes into structured wiki format
-- **Git sync stage**: Synchronizing compiled notes to version control
+- **Hermes-native memory pipeline**: The internal workflow for persisting system knowledge from raw capture to version-controlled storage.
+- **Save**: Initial ingestion and storage of a raw note.
+- **Compile**: Transformation of raw input into a clean, structured wiki note.
+- **Git sync**: Commit and push of the compiled note to the `aiagentnerd-system` repository.
 
 ## Practical Use
-- Verify that the full memory pipeline operates correctly across all three stages
-- Confirm that raw architectural notes flow through compilation and into the system git repository without manual intervention
+- Use this test to verify that the full memory pipeline operates correctly from raw ingestion through to compiled, version-controlled output.
+- Confirm that each stage (save, compile, git sync) completes without errors and produces the expected output format and file placement.
 
 ## Implementation Notes
-- This is an architecture-level validation test
-- The pipeline sequence is: save → compile → git sync
+- The pipeline begins with a raw note in the `architecture/` category.
+- The expected flow is: raw note → compilation into clean markdown → commit and push to the system wiki repository.
+- No additional configuration, commands, or error messages are specified in the source material.
 
 ## Related
 - [[hermes-native-auto-pipeline-test]]
