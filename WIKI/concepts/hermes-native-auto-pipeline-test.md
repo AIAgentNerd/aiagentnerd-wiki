@@ -2,7 +2,7 @@
 title: Concepts Hermes Native Auto Pipeline Test
 source_raw: RAW/concepts/hermes-native-auto-pipeline-test.md
 compiled_wiki_path: WIKI/concepts/hermes-native-auto-pipeline-test.md
-compiled_at: 2026-05-09T12:58:14.824Z
+compiled_at: 2026-05-09T13:08:26.773Z
 type: system-note
 tags: [aiagentnerd, compiled, concepts, hermes, native, auto, pipeline, workflow]
 ---
@@ -10,19 +10,17 @@ tags: [aiagentnerd, compiled, concepts, hermes, native, auto, pipeline, workflow
 # Concepts Hermes Native Auto Pipeline Test
 
 ## Summary
-A concept note for testing the combined save-and-compile MCP workflow within the Hermes system. This verifies that raw content can be persisted and compiled through the native automation pipeline.
+Validates the combined save and compile MCP workflow within the Hermes native automation pipeline.
 
 ## Key Concepts
-- **Combined save+compile MCP workflow**: Native Hermes automation that handles persisting raw notes and triggering compilation in sequence
-- **Pipeline testing**: Validation of the end-to-end raw-to-wiki automation path
+- **Hermes native auto pipeline**: The automated processing pipeline for system notes
+- **Save+compile MCP workflow**: Combined Model Context Protocol operation that persists a raw note and compiles it to wiki format
 
 ## Practical Use
-- Test the integrated save and compile steps as a single workflow
-- Confirm that raw notes are correctly processed through the native Hermes pipeline
+- End-to-end test to confirm that raw notes flow correctly through the automated save and compile pipeline
 
 ## Implementation Notes
-- The test specifically targets the combined save+compile MCP workflow
-- Used to verify automation behavior when ingesting and compiling raw concept notes
+- Minimal test case requiring no additional configuration beyond the standard Hermes MCP tooling
 
 ## Related
 - [[hermes-full-native-memory-pipeline-test]]
