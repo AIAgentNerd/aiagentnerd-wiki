@@ -4,7 +4,7 @@ source: openwebui
 openwebui_chat_id: c5f472f5-9e28-4734-91f5-17566b37d625
 created_at: 1777996790
 updated_at: 1777998126
-exported_at: 2026-05-09T02:45:01.137803
+exported_at: 2026-05-10T02:45:01.297010
 
 ---
 
@@ -1149,7 +1149,4 @@ The system becomes your external brain.
 
 ## ASSISTANT
 
----
-## Compiled Wiki
-- WIKI: [[WIKI/openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625]]
-- Last compiled: 2026-05-09T18:39:52.007Z
+

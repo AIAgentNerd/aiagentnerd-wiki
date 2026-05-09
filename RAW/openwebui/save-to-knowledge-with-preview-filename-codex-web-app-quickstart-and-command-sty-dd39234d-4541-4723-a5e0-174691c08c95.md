@@ -222,7 +222,7 @@ source: openwebui
 openwebui_chat_id: dd39234d-4541-4723-a5e0-174691c08c95
 created_at: 1778074011
 updated_at: 1778074169
-exported_at: 2026-05-09T02:45:01.138396
+exported_at: 2026-05-10T02:45:01.297577
 
 ---
 
@@ -609,7 +609,4 @@ This separation creates a scalable and model-independent AI-native operating sys
 
 ## ASSISTANT
 
----
-## Compiled Wiki
-- WIKI: [[WIKI/openwebui/save-to-knowledge-with-preview-filename-codex-web-app-quickstart-and-command-sty-dd39234d-4541-4723-a5e0-174691c08c95]]
-- Last compiled: 2026-05-09T18:12:45.813Z
+

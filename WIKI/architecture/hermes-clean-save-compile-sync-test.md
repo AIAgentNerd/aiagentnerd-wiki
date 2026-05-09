@@ -2,7 +2,7 @@
 title: Architecture Hermes Clean Save Compile Sync Test
 source_raw: RAW/architecture/hermes-clean-save-compile-sync-test.md
 compiled_wiki_path: WIKI/architecture/hermes-clean-save-compile-sync-test.md
-compiled_at: 2026-05-09T13:17:32.357Z
+compiled_at: 2026-05-09T14:02:08.565Z
 type: system-note
 tags: [aiagentnerd, compiled, architecture, hermes, clean, save, compile, sync]
 ---
@@ -10,23 +10,23 @@ tags: [aiagentnerd, compiled, architecture, hermes, clean, save, compile, sync]
 # Architecture Hermes Clean Save Compile Sync Test
 
 ## Summary
-A test note validating the native Hermes clean-save-compile-sync workflow. Rough knowledge pasted into Workspace is automatically processed into RAW format, compiled into structured WIKI notes, and synchronized to the Git repository.
+Validates the native Hermes clean-save-compile-sync workflow. Tests the full pipeline from rough Workspace input through RAW generation, WIKI compilation, and Git synchronization.
 
 ## Key Concepts
-- **Hermes workflow**: clean-save-compile-sync pipeline for knowledge management
-- **Workspace**: Entry point for rough, unprocessed knowledge
-- **Memory**: System component that transforms workspace content into RAW and compiled WIKI formats
-- **Git sync**: Final stage pushing compiled wiki notes to version control
+- **Clean-save-compile-sync**: Hermes native workflow for processing rough knowledge into structured system memory
+- **Workspace**: Input area for unparsed, informal builder notes
+- **RAW**: Intermediate machine format before compilation
+- **WIKI**: Final compiled and structured internal documentation state
+- **Git sync**: Persistence layer for version-controlled wiki storage
 
 ## Practical Use
-- Paste unstructured or draft knowledge into the Hermes Workspace for automated processing
-- Verify end-to-end flow from raw input to structured, version-controlled wiki output
-- Use as a reference test case when debugging the save-compile-sync pipeline
+- Paste rough knowledge into Workspace to trigger automated RAW capture, compilation, and Git sync.
+- Ensures informal notes are transformed into structured, versioned system memory without manual formatting.
 
 ## Implementation Notes
-- Workflow stages: Workspace input → RAW generation → WIKI compilation → Git synchronization
-- Triggered by native Hermes operations rather than manual file editing
-- Designed to reduce friction in capturing and persisting system knowledge
+- Pipeline stages: Workspace → RAW → WIKI → Git
+- Compiled artifacts are written to the architecture path in the wiki repository
+- Intended for system and architecture notes that require persistence and versioning
 
 ## Related
 - [[hermes-mcp-save-compile-test]]

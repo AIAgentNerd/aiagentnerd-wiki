@@ -11,4 +11,4 @@ This tests the combined save+compile MCP workflow.
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/concepts/hermes-native-auto-pipeline-test]]
-- Last compiled: 2026-05-09T13:43:28.661Z
+- Last compiled: 2026-05-09T14:22:49.060Z

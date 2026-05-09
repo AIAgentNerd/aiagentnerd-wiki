@@ -4,7 +4,7 @@ source: openwebui
 openwebui_chat_id: af6c6ecf-58d0-42d7-ac3b-3766effa775c
 created_at: 1777971405
 updated_at: 1777973345
-exported_at: 2026-05-09T02:45:01.136886
+exported_at: 2026-05-10T02:45:01.296099
 
 ---
 
@@ -2274,8 +2274,3 @@ random messy broken test
 
 I received your test message: "random messy broken test".  
 If you intended to save this somewhere (e.g., system logs, wiki page), I need clarification on the target location and whether you want to see a preview first (preview functionality isn’t currently surfaced in this text interface). For now, I can log this as a system event if that’s what you want. Let me know.
-
----
-## Compiled Wiki
-- WIKI: [[WIKI/openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c]]
-- Last compiled: 2026-05-09T19:20:47.303Z
