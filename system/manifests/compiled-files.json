@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T15:18:35.757Z",
+  "updatedAt": "2026-05-09T15:25:28.981Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -698,28 +698,12 @@
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/hermes-native-auto-pipeline-test.md",
       "gitCommitted": false
     },
-    "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md": {
-      "rawPath": "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
-      "wikiPath": "openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
-      "rawHash": "63e4e173040995fbedc139c3136df534b76441136dd5d83d14e494fc8085f9d5",
-      "compiledAt": "2026-05-09T15:13:30.772Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
-      "gitCommitted": false
-    },
-    "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md": {
-      "rawPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
-      "wikiPath": "openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
-      "rawHash": "fc1834dd7eb65f3c51dd7b0ef4c3182df47a87e4df25cc4acdc2f3dab194ab1c",
-      "compiledAt": "2026-05-09T15:17:16.946Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
-      "gitCommitted": false
-    },
-    "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md": {
-      "rawPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
-      "wikiPath": "openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
-      "rawHash": "71d20197a9a45fb28a9657ff3907a1c5051a747bbc6aa2e85405dd0d899581e8",
-      "compiledAt": "2026-05-09T15:18:35.749Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+    "architecture/hermes-full-native-memory-pipeline-test.md": {
+      "rawPath": "architecture/hermes-full-native-memory-pipeline-test.md",
+      "wikiPath": "architecture/hermes-full-native-memory-pipeline-test.md",
+      "rawHash": "7f85e3c4e0626427c13b6077758ab1177c5004454bcd0bd39516a2cef0059e6e",
+      "compiledAt": "2026-05-09T15:25:28.958Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/hermes-full-native-memory-pipeline-test.md",
       "gitCommitted": false
     }
   }
