@@ -2,7 +2,7 @@
 title: Architecture Hermes Full Native Memory Pipeline Test
 source_raw: RAW/architecture/hermes-full-native-memory-pipeline-test.md
 compiled_wiki_path: WIKI/architecture/hermes-full-native-memory-pipeline-test.md
-compiled_at: 2026-05-09T15:36:09.457Z
+compiled_at: 2026-05-09T15:58:13.689Z
 type: system-note
 tags: [aiagentnerd, compiled, architecture, hermes, full, native, memory, pipeline]
 ---
@@ -10,23 +10,17 @@ tags: [aiagentnerd, compiled, architecture, hermes, full, native, memory, pipeli
 # Architecture Hermes Full Native Memory Pipeline Test
 
 ## Summary
-End-to-end validation of the Hermes-native memory workflow, covering the full lifecycle from raw note ingestion through compilation to git-backed persistence.
+Validates the complete Hermes-native memory workflow spanning save, compilation, and git synchronization stages.
 
 ## Key Concepts
-- **Hermes-native memory pipeline**: Internal system workflow for capturing, structuring, and versioning machine memory
-- **Save stage**: Initial persistence of raw notes
-- **Compile stage**: Transformation of raw notes into structured wiki format
-- **Git sync stage**: Synchronization of compiled output to the `aiagentnerd-system` repository
+- **Hermes-native memory pipeline**: End-to-end workflow for persisting system memory
+- **Save → compile → git sync**: The three stages of the native memory lifecycle
 
 ## Practical Use
-- Verify that the complete save → compile → git sync chain functions correctly
-- Confirm compiled wiki notes reach the system repository without manual intervention
-- Use as a smoke test after changes to the memory pipeline or git sync configuration
+- End-to-end test of the memory pipeline to ensure raw notes are saved, compiled into wiki format, and synced to the system repository.
 
 ## Implementation Notes
-- Pipeline sequence is strictly ordered: save → compile → git sync
-- Tests the native integration rather than external or manual workflows
-- Successful completion indicates the automated memory lifecycle is operational
+- Test artifact with no additional technical configuration specified.
 
 ## Related
 - [[hermes-native-auto-pipeline-test]]
