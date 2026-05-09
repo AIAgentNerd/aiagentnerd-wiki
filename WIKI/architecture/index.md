@@ -113,6 +113,8 @@
 
 ## General
 
+- [[deck-agent-control-room-test]] — architecture/deck-agent-control-room-test.md
+- [[deck-mission-control-ui-test]] — architecture/deck-mission-control-ui-test.md
 - [[massive-hermes-chunking-test]] — architecture/massive-hermes-chunking-test.md
 - [[model-routing-reliability]] — architecture/model-routing-reliability.md
 
