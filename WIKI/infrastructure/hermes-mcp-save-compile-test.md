@@ -2,7 +2,7 @@
 title: Infrastructure Hermes Mcp Save Compile Test
 source_raw: RAW/infrastructure/hermes-mcp-save-compile-test.md
 compiled_wiki_path: WIKI/infrastructure/hermes-mcp-save-compile-test.md
-compiled_at: 2026-05-09T12:58:26.413Z
+compiled_at: 2026-05-09T13:20:24.545Z
 type: system-note
 tags: [aiagentnerd, compiled, infrastructure, hermes, mcp, save, compile]
 ---
@@ -10,17 +10,18 @@ tags: [aiagentnerd, compiled, infrastructure, hermes, mcp, save, compile]
 # Infrastructure Hermes Mcp Save Compile Test
 
 ## Summary
-A test note for the native Hermes MCP `save_to_knowledge` tool.
+System test validating the native Hermes MCP `save_to_knowledge` tool for persisting compiled wiki notes to the infrastructure knowledge base.
 
 ## Key Concepts
-- Hermes MCP save/compile pipeline
-- `save_to_knowledge` tool
+- **Hermes MCP**: The Model Context Protocol integration used by the Hermes orchestrator
+- **save_to_knowledge**: Native MCP tool that handles writing compiled wiki output to the target repository
 
 ## Practical Use
-- Verify that Hermes can save and compile RAW notes into the system wiki via MCP
+- Verify the MCP save pipeline correctly writes compiled notes to the designated wiki path
+- Used during infrastructure validation or when testing changes to the compilation and persistence workflow
 
 ## Implementation Notes
-- No operational configuration or logic; intended purely as a pipeline test
+- Raw source and target wiki path: `infrastructure/hermes-mcp-save-compile-test.md`
 
 ## Related
 - [[hermes-clean-save-compile-sync-test]]

@@ -11,4 +11,4 @@ This tests the full save → compile → git sync Hermes-native memory workflow.
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/architecture/hermes-full-native-memory-pipeline-test]]
-- Last compiled: 2026-05-09T12:57:45.119Z
+- Last compiled: 2026-05-09T13:19:17.774Z

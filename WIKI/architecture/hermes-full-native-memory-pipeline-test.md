@@ -2,7 +2,7 @@
 title: Architecture Hermes Full Native Memory Pipeline Test
 source_raw: RAW/architecture/hermes-full-native-memory-pipeline-test.md
 compiled_wiki_path: WIKI/architecture/hermes-full-native-memory-pipeline-test.md
-compiled_at: 2026-05-09T12:57:45.119Z
+compiled_at: 2026-05-09T13:19:17.774Z
 type: system-note
 tags: [aiagentnerd, compiled, architecture, hermes, full, native, memory, pipeline]
 ---
@@ -10,28 +10,26 @@ tags: [aiagentnerd, compiled, architecture, hermes, full, native, memory, pipeli
 # Architecture Hermes Full Native Memory Pipeline Test
 
 ## Summary
-A test of the complete Hermes-native memory pipeline spanning the save, compile, and git sync stages. It validates that the full workflow from raw note to version-controlled wiki entry functions end-to-end.
+End-to-end validation of the Hermes-native memory pipeline, exercising the complete lifecycle from raw note save through compilation to git repository synchronization.
 
 ## Key Concepts
-- **Hermes-native memory workflow**: The internal pipeline for persisting machine memory and system notes
-- **Save → Compile → Git Sync**: The core stages for processing raw notes into the `aiagentnerd-system` wiki
-- **End-to-end pipeline test**: Verification that all stages execute correctly in sequence
+- **Hermes-native memory workflow**: The internal system pipeline for persisting machine memory
+- **Save → compile → git sync**: The three sequential stages that constitute the full memory entry lifecycle
 
 ## Practical Use
-- Validate the full memory pipeline after changes to any individual stage
-- Confirm that raw notes are saved, compiled, and synchronized to git without manual intervention
-- Use as a reference test when debugging pipeline failures
+- Verify that raw notes are correctly ingested, compiled into wiki format, and synchronized to the git repository
+- Confirm pipeline integrity across all automated stages without manual intervention
 
 ## Implementation Notes
-- This note serves as a lightweight marker for the complete pipeline test
-- The workflow targets the `aiagentnerd-system` repository for machine memory and operational records
+- The test spans the full set of pipeline stages: save, compile, and git sync
+- Intended as an architecture-level validation of the Hermes memory system
 
 ## Related
+- [[hermes-native-auto-pipeline-test]]
 - [[hermes-native-memory-test]]
 - [[hermes-knowledge-system-full-architecture]]
 - [[hermes-clean-save-compile-sync-test]]
 - [[raw-test]]
-- [[hermes-knowledge-system-full-architecture]]
 
 ## Source
 - RAW: [[RAW/architecture/hermes-full-native-memory-pipeline-test]]

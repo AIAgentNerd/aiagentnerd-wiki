@@ -11,4 +11,4 @@ This tests the native Hermes MCP save_to_knowledge tool.
 ---
 ## Compiled Wiki
 - WIKI: [[WIKI/infrastructure/hermes-mcp-save-compile-test]]
-- Last compiled: 2026-05-09T12:58:26.413Z
+- Last compiled: 2026-05-09T13:20:24.545Z
