@@ -2,7 +2,7 @@
 title: Architecture Hermes Full Native Memory Pipeline Test
 source_raw: RAW/architecture/hermes-full-native-memory-pipeline-test.md
 compiled_wiki_path: WIKI/architecture/hermes-full-native-memory-pipeline-test.md
-compiled_at: 2026-05-09T14:36:51.476Z
+compiled_at: 2026-05-09T14:41:49.970Z
 type: system-note
 tags: [aiagentnerd, compiled, architecture, hermes, full, native, memory, pipeline]
 ---
@@ -10,21 +10,20 @@ tags: [aiagentnerd, compiled, architecture, hermes, full, native, memory, pipeli
 # Architecture Hermes Full Native Memory Pipeline Test
 
 ## Summary
-Validates the complete Hermes-native memory workflow spanning save, compile, and git synchronization stages. Ensures the native pipeline can capture, process, and persist system memory without gaps.
+Validates the complete Hermes-native memory pipeline, ensuring the save, compile, and git sync stages function together as an integrated workflow.
 
 ## Key Concepts
-- **Hermes-native memory pipeline**: The internal workflow for persisting machine memory
-- **Save stage**: Initial capture of raw notes or system state
-- **Compile stage**: Transformation of raw inputs into structured wiki notes
-- **Git sync stage**: Propagation of compiled notes to the system repository via version control
+- **Hermes-native memory pipeline**: The internal workflow for persisting system memory
+- **Save → compile → git sync**: The three-stage lifecycle tested end-to-end
+- **Workflow validation**: Architecture test confirming pipeline integrity across all stages
 
 ## Practical Use
-- Run this test to confirm end-to-end integrity of the memory pipeline
-- Use to detect failures at any stage (save, compile, or sync) before they affect operational logs or system state
+- Run to verify that memory writes propagate correctly through compilation and land in the git-backed system store
+- Use as a smoke test after changes to the memory pipeline, compiler, or git synchronization logic
 
 ## Implementation Notes
-- The test exercises the full sequence: save → compile → git sync
-- No additional configuration or external dependencies are mentioned in the source material
+- Tests the full lifecycle: save (capture), compile (process/format), git sync (persist to repository)
+- Categorized as an architecture-level validation test
 
 ## Related
 - [[hermes-native-auto-pipeline-test]]
