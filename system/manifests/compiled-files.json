@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T13:35:43.212Z",
+  "updatedAt": "2026-05-09T13:43:28.668Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -670,16 +670,16 @@
       "rawPath": "architecture/hermes-full-native-memory-pipeline-test.md",
       "wikiPath": "architecture/hermes-full-native-memory-pipeline-test.md",
       "rawHash": "7f85e3c4e0626427c13b6077758ab1177c5004454bcd0bd39516a2cef0059e6e",
-      "compiledAt": "2026-05-09T13:33:45.048Z",
+      "compiledAt": "2026-05-09T13:43:11.827Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/hermes-full-native-memory-pipeline-test.md",
       "gitCommitted": false
     },
-    "infrastructure/hermes-native-memory-test.md": {
-      "rawPath": "infrastructure/hermes-native-memory-test.md",
-      "wikiPath": "infrastructure/hermes-native-memory-test.md",
-      "rawHash": "453422107efd2941745a2a0b343a6af212afaba5ccd4cafda0da4f2e82b91070",
-      "compiledAt": "2026-05-09T13:35:43.193Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/hermes-native-memory-test.md",
+    "concepts/hermes-native-auto-pipeline-test.md": {
+      "rawPath": "concepts/hermes-native-auto-pipeline-test.md",
+      "wikiPath": "concepts/hermes-native-auto-pipeline-test.md",
+      "rawHash": "10593bc9bc1ae00db342b607350c4d06987c2bd2e4ba8ed4ebce12a6c21ddaeb",
+      "compiledAt": "2026-05-09T13:43:28.661Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/hermes-native-auto-pipeline-test.md",
       "gitCommitted": false
     }
   }
