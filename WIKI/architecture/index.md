@@ -113,6 +113,7 @@
 
 ## General
 
+- [[massive-hermes-chunking-test]] — architecture/massive-hermes-chunking-test.md
 - [[model-routing-reliability]] — architecture/model-routing-reliability.md
 
 ## Git

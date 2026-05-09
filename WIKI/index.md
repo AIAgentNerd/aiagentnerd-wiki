@@ -91,6 +91,7 @@ Auto-generated index of notes in the unified AiAgentNerd wiki.
 - [[knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06]] — architecture/knowledge-cleanup-request-a247bbff-d697-4a97-8a17-1e56c851ba06.md
 - [[knowledge-ingestion-system]] — architecture/knowledge-ingestion-system.md
 - [[lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture]] — architecture/lets-try-again-save-this-to-knowledge-with-preview-random-test-about-systems-architecture.md
+- [[massive-hermes-chunking-test]] — architecture/massive-hermes-chunking-test.md
 - [[mobile-ingestion-and-hermes-skill]] — architecture/mobile-ingestion-and-hermes-skill.md
 - [[model-routing-reliability]] — architecture/model-routing-reliability.md
 - [[random-note-about-knowledge-systems-and-structure]] — architecture/random-note-about-knowledge-systems-and-structure.md
