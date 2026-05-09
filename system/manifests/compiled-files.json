@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T14:41:49.978Z",
+  "updatedAt": "2026-05-09T14:52:00.407Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -702,7 +702,7 @@
       "rawPath": "architecture/hermes-full-native-memory-pipeline-test.md",
       "wikiPath": "architecture/hermes-full-native-memory-pipeline-test.md",
       "rawHash": "7f85e3c4e0626427c13b6077758ab1177c5004454bcd0bd39516a2cef0059e6e",
-      "compiledAt": "2026-05-09T14:41:49.970Z",
+      "compiledAt": "2026-05-09T14:52:00.399Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/hermes-full-native-memory-pipeline-test.md",
       "gitCommitted": false
     }
