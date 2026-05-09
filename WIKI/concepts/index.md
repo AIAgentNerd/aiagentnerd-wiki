@@ -1,5 +1,9 @@
 # Concepts
 
+## Auto
+
+- [[hermes-native-auto-pipeline-test]] — concepts/hermes-native-auto-pipeline-test.md
+
 ## Broken
 
 - [[random-messy-broken-test]] — concepts/random-messy-broken-test.md
@@ -34,7 +38,6 @@
 
 ## General
 
-- [[hermes-native-auto-pipeline-test]] — concepts/hermes-native-auto-pipeline-test.md
 - [[llm-wiki]] — concepts/llm-wiki.md
 - [[Topic brains]] — concepts/Topic brains.md
 
@@ -45,6 +48,7 @@
 ## Hermes
 
 - [[deck]] — concepts/deck.md
+- [[hermes-native-auto-pipeline-test]] — concepts/hermes-native-auto-pipeline-test.md
 
 ## Info
 
@@ -73,6 +77,10 @@
 ## Name
 
 - [[your-karpathy-file-name]] — concepts/your-karpathy-file-name.md
+
+## Native
+
+- [[hermes-native-auto-pipeline-test]] — concepts/hermes-native-auto-pipeline-test.md
 
 ## Pending
 

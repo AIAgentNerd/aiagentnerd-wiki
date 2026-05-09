@@ -19,11 +19,11 @@
 ## General
 
 - [[git-obsidian-setup]] — infrastructure/git-obsidian-setup.md
-- [[hermes-mcp-save-compile-test]] — infrastructure/hermes-mcp-save-compile-test.md
 
 ## Hermes
 
 - [[hermes-knowledge-system-full-architecture]] — infrastructure/hermes-knowledge-system-full-architecture.md
+- [[hermes-mcp-save-compile-test]] — infrastructure/hermes-mcp-save-compile-test.md
 - [[hermes-native-memory-test]] — infrastructure/hermes-native-memory-test.md
 - [[hermes-service-restart-and-troubleshooting]] — infrastructure/hermes-service-restart-and-troubleshooting.md
 - [[hermes-service-restart-and-troubleshooting-merged]] — infrastructure/hermes-service-restart-and-troubleshooting-merged.md
@@ -42,6 +42,10 @@
 
 - [[hermes-knowledge-system-full-architecture]] — infrastructure/hermes-knowledge-system-full-architecture.md
 - [[save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575]] — infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md
+
+## Mcp
+
+- [[hermes-mcp-save-compile-test]] — infrastructure/hermes-mcp-save-compile-test.md
 
 ## Memory
 
@@ -78,6 +82,7 @@
 
 ## Save
 
+- [[hermes-mcp-save-compile-test]] — infrastructure/hermes-mcp-save-compile-test.md
 - [[save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575]] — infrastructure/save-it-to-knowledge-category-architecture-filename-hermes-knowledge-ingestion-s-cf1c4209-ed9a-4a13-a4a4-d57f77d2f575.md
 
 ## Service

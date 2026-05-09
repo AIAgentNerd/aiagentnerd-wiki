@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T12:49:32.050Z",
+  "updatedAt": "2026-05-09T13:01:57.036Z",
   "files": {
     "docs/aiagentnerd-master-notes.md": {
       "rawPath": "docs/aiagentnerd-master-notes.md",
@@ -661,33 +661,33 @@
     "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md": {
       "rawPath": "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
       "wikiPath": "openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
-      "rawHash": "e9b40355e01ce1a4110396a1ad7a0acea25f3663be73d90a039176b6dbf32479",
-      "compiledAt": "2026-05-07T11:01:33.356Z",
+      "rawHash": "f47ba172d9d65e848ee8eb947620043c09544700768981aca57ddddd8a2c734e",
+      "compiledAt": "2026-05-09T13:01:57.030Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
-      "gitCommitted": false
-    },
-    "architecture/hermes-clean-save-compile-sync-test.md": {
-      "rawPath": "architecture/hermes-clean-save-compile-sync-test.md",
-      "wikiPath": "architecture/hermes-clean-save-compile-sync-test.md",
-      "rawHash": "3a5236f85497e6fb2e1b88eb5c2e135a2297ec8898af27dfc88a49bc26a847d6",
-      "compiledAt": "2026-05-09T12:47:36.334Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/hermes-clean-save-compile-sync-test.md",
       "gitCommitted": false
     },
     "architecture/hermes-full-native-memory-pipeline-test.md": {
       "rawPath": "architecture/hermes-full-native-memory-pipeline-test.md",
       "wikiPath": "architecture/hermes-full-native-memory-pipeline-test.md",
       "rawHash": "7f85e3c4e0626427c13b6077758ab1177c5004454bcd0bd39516a2cef0059e6e",
-      "compiledAt": "2026-05-09T12:48:07.815Z",
+      "compiledAt": "2026-05-09T12:57:45.119Z",
       "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/architecture/hermes-full-native-memory-pipeline-test.md",
       "gitCommitted": false
     },
-    "infrastructure/hermes-native-memory-test.md": {
-      "rawPath": "infrastructure/hermes-native-memory-test.md",
-      "wikiPath": "infrastructure/hermes-native-memory-test.md",
-      "rawHash": "453422107efd2941745a2a0b343a6af212afaba5ccd4cafda0da4f2e82b91070",
-      "compiledAt": "2026-05-09T12:49:32.043Z",
-      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/hermes-native-memory-test.md",
+    "concepts/hermes-native-auto-pipeline-test.md": {
+      "rawPath": "concepts/hermes-native-auto-pipeline-test.md",
+      "wikiPath": "concepts/hermes-native-auto-pipeline-test.md",
+      "rawHash": "10593bc9bc1ae00db342b607350c4d06987c2bd2e4ba8ed4ebce12a6c21ddaeb",
+      "compiledAt": "2026-05-09T12:58:14.824Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/concepts/hermes-native-auto-pipeline-test.md",
+      "gitCommitted": false
+    },
+    "infrastructure/hermes-mcp-save-compile-test.md": {
+      "rawPath": "infrastructure/hermes-mcp-save-compile-test.md",
+      "wikiPath": "infrastructure/hermes-mcp-save-compile-test.md",
+      "rawHash": "ea2d2cfb98f0c7272440827a37de42ba16d4f0d4eacd451004fb3c3f9282e97e",
+      "compiledAt": "2026-05-09T12:58:26.413Z",
+      "fullPath": "/home/nerd/aiagentnerd-wiki/WIKI/infrastructure/hermes-mcp-save-compile-test.md",
       "gitCommitted": false
     }
   }
