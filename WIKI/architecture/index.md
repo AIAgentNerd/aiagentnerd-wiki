@@ -62,6 +62,10 @@
 
 - [[test-raw-bypass]] — architecture/test-raw-bypass.md
 
+## Clean
+
+- [[hermes-clean-save-compile-sync-test]] — architecture/hermes-clean-save-compile-sync-test.md
+
 ## Cleanup
 
 - [[cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd]] — architecture/cleanup-knowledge-3a89446a-083e-41f8-8936-334f0e4c58cd.md
@@ -100,6 +104,7 @@
 
 ## Full
 
+- [[hermes-full-native-memory-pipeline-test]] — architecture/hermes-full-native-memory-pipeline-test.md
 - [[hermes-knowledge-system-full-architecture]] — architecture/hermes-knowledge-system-full-architecture.md
 
 ## Functionality
@@ -108,8 +113,6 @@
 
 ## General
 
-- [[hermes-clean-save-compile-sync-test]] — architecture/hermes-clean-save-compile-sync-test.md
-- [[hermes-full-native-memory-pipeline-test]] — architecture/hermes-full-native-memory-pipeline-test.md
 - [[model-routing-reliability]] — architecture/model-routing-reliability.md
 
 ## Git
@@ -123,6 +126,8 @@
 
 ## Hermes
 
+- [[hermes-clean-save-compile-sync-test]] — architecture/hermes-clean-save-compile-sync-test.md
+- [[hermes-full-native-memory-pipeline-test]] — architecture/hermes-full-native-memory-pipeline-test.md
 - [[hermes-knowledge-ingestion-system]] — architecture/hermes-knowledge-ingestion-system.md
 - [[hermes-knowledge-system-full-architecture]] — architecture/hermes-knowledge-system-full-architecture.md
 - [[mobile-ingestion-and-hermes-skill]] — architecture/mobile-ingestion-and-hermes-skill.md
@@ -160,6 +165,10 @@
 
 - [[mobile-ingestion-and-hermes-skill]] — architecture/mobile-ingestion-and-hermes-skill.md
 
+## Native
+
+- [[hermes-full-native-memory-pipeline-test]] — architecture/hermes-full-native-memory-pipeline-test.md
+
 ## Networking
 
 - [[aiagentnerd-master-notes]] — architecture/aiagentnerd-master-notes.md
@@ -185,6 +194,7 @@
 
 ## Save
 
+- [[hermes-clean-save-compile-sync-test]] — architecture/hermes-clean-save-compile-sync-test.md
 - [[save-this-to-knowledge-with-preview-----category-architecture-filename-hermes-kn-4debc305-26df-4725-a347-4effb3d3b3e5]] — architecture/save-this-to-knowledge-with-preview-----category-architecture-filename-hermes-kn-4debc305-26df-4725-a347-4effb3d3b3e5.md
 - [[save-this-to-knowledge-with-preview-this-document-talks-about-cleanup-archive-me-f8699000-87a3-4a87-aa95-f6997d445829]] — architecture/save-this-to-knowledge-with-preview-this-document-talks-about-cleanup-archive-me-f8699000-87a3-4a87-aa95-f6997d445829.md
 - [[save-to-knowledge-skill]] — architecture/save-to-knowledge-skill.md
