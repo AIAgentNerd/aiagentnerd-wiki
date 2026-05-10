@@ -16,10 +16,6 @@
 
 - [[current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7]] — concepts/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md
 
-## Deck
-
-- [[deck]] — concepts/deck.md
-
 ## Endpoint
 
 - [[ingest-endpoint-test]] — concepts/ingest-endpoint-test.md
@@ -38,6 +34,7 @@
 
 ## General
 
+- [[deck]] — concepts/deck.md
 - [[llm-wiki]] — concepts/llm-wiki.md
 - [[Topic brains]] — concepts/Topic brains.md
 
@@ -47,7 +44,6 @@
 
 ## Hermes
 
-- [[deck]] — concepts/deck.md
 - [[hermes-native-auto-pipeline-test]] — concepts/hermes-native-auto-pipeline-test.md
 
 ## Info
@@ -89,10 +85,6 @@
 ## Practice
 
 - [[vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903]] — concepts/vocabulary-fill-in-practice-f67d0798-14ad-4737-8865-7aeac8ab9903.md
-
-## Queue
-
-- [[deck]] — concepts/deck.md
 
 ## Random
 
