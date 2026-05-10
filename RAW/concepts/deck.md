@@ -54,3 +54,20 @@ Deck acts as:
 ## Compiled Wiki
 - WIKI: [[WIKI/concepts/deck]]
 - Last compiled: 2026-04-29T15:11:10.160Z
+
+## Merged Knowledge
+
+<!-- hermes_merge_source: RAW/architecture/deck-agent-control-room-test.md -->
+### Merged from RAW/architecture/deck-agent-control-room-test.md
+
+# Deck Agent Control Room Test
+
+Deck is the visual operational cockpit for AiAgentNerd. It shows agents, tasks, system health, memory status, and routing activity.
+
+
+<!-- hermes_merge_source: RAW/architecture/deck-mission-control-ui-test.md -->
+### Merged from RAW/architecture/deck-mission-control-ui-test.md
+
+# Deck Mission Control UI Test
+
+Deck is the mission control interface for AiAgentNerd. It shows crew status, task routing, agent panels, memory activity, and system health.
