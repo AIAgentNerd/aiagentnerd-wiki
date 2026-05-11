@@ -1,0 +1,1 @@
+This proves Workspace can ingest memory directly via MCP.
