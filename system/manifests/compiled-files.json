@@ -592,6 +592,14 @@
       "updated_at": "2026-05-08T14:15:46Z",
       "wikiPath": "WIKI/concepts/your-karpathy-file-name.md"
     },
+    "WIKI/inbox/hermes-agent-goal-feature-md.md": {
+      "category": "inbox",
+      "compiled_at": "2026-05-11 22:50:25",
+      "rawPath": "RAW/inbox/hermes-agent-goal-feature.md",
+      "title": "Hermes Agent /goal Feature \u2014 Persistent Objective System, Workflow, and Best Practices",
+      "updated_at": "2026-05-11T15:50:25Z",
+      "wikiPath": "WIKI/inbox/hermes-agent-goal-feature-md.md"
+    },
     "WIKI/infrastructure/Networking Ports and IPs.md": {
       "category": "infrastructure",
       "compiled_at": "2026-05-05T07:08:57.785Z",
@@ -857,6 +865,6 @@
       "wikiPath": "WIKI/workflows/content ingestion.md"
     }
   },
-  "updatedAt": "2026-05-11T13:00:03Z",
+  "updatedAt": "2026-05-11T15:50:25Z",
   "version": 1
 }
