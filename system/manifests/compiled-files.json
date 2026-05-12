@@ -274,10 +274,10 @@
     },
     "WIKI/architecture/codex-compact-workflow.md": {
       "category": "architecture",
-      "compiled_at": "2026-05-12 16:13:50",
+      "compiled_at": "2026-05-12 17:31:42",
       "rawPath": "RAW/architecture/codex-compact-workflow.md",
       "title": "Codex Compact Workflow",
-      "updated_at": "2026-05-12T09:13:50Z",
+      "updated_at": "2026-05-12T10:31:42Z",
       "wikiPath": "WIKI/architecture/codex-compact-workflow.md"
     },
     "WIKI/architecture/context-window-management-openclaw-agent-intelligence-optimization-and-memory-architecture.md": {
@@ -905,6 +905,6 @@
       "wikiPath": "WIKI/workspace/clean-ux-test.md"
     }
   },
-  "updatedAt": "2026-05-12T09:13:50Z",
+  "updatedAt": "2026-05-12T10:31:42Z",
   "version": 1
 }
