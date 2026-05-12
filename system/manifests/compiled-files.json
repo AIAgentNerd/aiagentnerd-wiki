@@ -560,6 +560,14 @@
       "updated_at": "2026-05-08T14:15:46Z",
       "wikiPath": "WIKI/concepts/llm-wiki.md"
     },
+    "WIKI/concepts/preview-compile-test.md": {
+      "category": "concepts",
+      "compiled_at": "2026-05-12 09:45:52",
+      "rawPath": "RAW/concepts/preview-compile-test.md",
+      "title": "Preview Compile Test",
+      "updated_at": "2026-05-12T02:45:52Z",
+      "wikiPath": "WIKI/concepts/preview-compile-test.md"
+    },
     "WIKI/concepts/random-messy-broken-test.md": {
       "category": "concepts",
       "compiled_at": "2026-05-05T09:32:41.314Z",
@@ -889,6 +897,6 @@
       "wikiPath": "WIKI/workspace/clean-ux-test.md"
     }
   },
-  "updatedAt": "2026-05-12T02:28:08Z",
+  "updatedAt": "2026-05-12T02:45:52Z",
   "version": 1
 }
