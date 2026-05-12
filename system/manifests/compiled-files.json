@@ -272,6 +272,14 @@
       "updated_at": "2026-05-08T14:15:46Z",
       "wikiPath": "WIKI/architecture/cloudflare-network.md"
     },
+    "WIKI/architecture/codex-compact-workflow.md": {
+      "category": "architecture",
+      "compiled_at": "2026-05-12 16:13:50",
+      "rawPath": "RAW/architecture/codex-compact-workflow.md",
+      "title": "Codex Compact Workflow",
+      "updated_at": "2026-05-12T09:13:50Z",
+      "wikiPath": "WIKI/architecture/codex-compact-workflow.md"
+    },
     "WIKI/architecture/context-window-management-openclaw-agent-intelligence-optimization-and-memory-architecture.md": {
       "category": "architecture",
       "compiled_at": "2026-05-12 00:11:11",
@@ -897,6 +905,6 @@
       "wikiPath": "WIKI/workspace/clean-ux-test.md"
     }
   },
-  "updatedAt": "2026-05-12T02:45:52Z",
+  "updatedAt": "2026-05-12T09:13:50Z",
   "version": 1
 }

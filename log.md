@@ -132,3 +132,10 @@
 - source: RAW/concepts/preview-compile-test.md
 - target: WIKI/concepts/preview-compile-test.md
 - result: success
+
+
+## 2026-05-12T09:13:50Z
+- action: hermes_native_compile
+- source: RAW/architecture/codex-compact-workflow.md
+- target: WIKI/architecture/codex-compact-workflow.md
+- result: success
