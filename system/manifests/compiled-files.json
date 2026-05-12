@@ -520,6 +520,14 @@
       "updated_at": "2026-05-10T09:01:29Z",
       "wikiPath": "WIKI/concepts/deck.md"
     },
+    "WIKI/concepts/guided-followup-workflow-test.md": {
+      "category": "concepts",
+      "compiled_at": "2026-05-12 09:18:33",
+      "rawPath": "RAW/concepts/guided-followup-workflow-test.md",
+      "title": "Guided Followup Workflow Test",
+      "updated_at": "2026-05-12T02:18:33Z",
+      "wikiPath": "WIKI/concepts/guided-followup-workflow-test.md"
+    },
     "WIKI/concepts/hermes-native-auto-pipeline-test.md": {
       "category": "concepts",
       "compiled_at": "2026-05-09T14:22:49.060Z",
@@ -871,8 +879,16 @@
       "title": "Content Ingestion #workflow",
       "updated_at": "2026-05-08T14:15:46Z",
       "wikiPath": "WIKI/workflows/content ingestion.md"
+    },
+    "WIKI/workspace/clean-ux-test.md": {
+      "category": "workspace",
+      "compiled_at": "2026-05-12 09:28:08",
+      "rawPath": "RAW/workspace/clean-ux-test.md",
+      "title": "Clean UX Test",
+      "updated_at": "2026-05-12T02:28:08Z",
+      "wikiPath": "WIKI/workspace/clean-ux-test.md"
     }
   },
-  "updatedAt": "2026-05-11T17:11:11Z",
+  "updatedAt": "2026-05-12T02:28:08Z",
   "version": 1
 }

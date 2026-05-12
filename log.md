@@ -111,3 +111,17 @@
 - source: RAW/architecture/context-window-management-openclaw-agent-intelligence-optimization-and-memory-architecture.md
 - target: WIKI/architecture/context-window-management-openclaw-agent-intelligence-optimization-and-memory-architecture.md
 - result: success
+
+
+## 2026-05-12T02:18:33Z
+- action: hermes_native_compile
+- source: RAW/concepts/guided-followup-workflow-test.md
+- target: WIKI/concepts/guided-followup-workflow-test.md
+- result: success
+
+
+## 2026-05-12T02:28:08Z
+- action: hermes_native_compile
+- source: RAW/workspace/clean-ux-test.md
+- target: WIKI/workspace/clean-ux-test.md
+- result: success
