@@ -97,3 +97,17 @@
 - source: RAW/inbox/hermes-agent-goal-feature.md
 - target: WIKI/inbox/hermes-agent-goal-feature-md.md
 - result: success
+
+
+## 2026-05-11T17:04:08Z
+- action: hermes_native_compile
+- source: RAW/architecture/context-window-management-openclaw-agent-intelligence-optimization-and-memory-architecture.md
+- target: WIKI/architecture/context-window-management-openclaw-agent-intelligence-optimization-and-memory-architecture.md
+- result: success
+
+
+## 2026-05-11T17:11:11Z
+- action: hermes_native_compile
+- source: RAW/architecture/context-window-management-openclaw-agent-intelligence-optimization-and-memory-architecture.md
+- target: WIKI/architecture/context-window-management-openclaw-agent-intelligence-optimization-and-memory-architecture.md
+- result: success

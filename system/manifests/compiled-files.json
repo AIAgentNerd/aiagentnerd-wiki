@@ -272,6 +272,14 @@
       "updated_at": "2026-05-08T14:15:46Z",
       "wikiPath": "WIKI/architecture/cloudflare-network.md"
     },
+    "WIKI/architecture/context-window-management-openclaw-agent-intelligence-optimization-and-memory-architecture.md": {
+      "category": "architecture",
+      "compiled_at": "2026-05-12 00:11:11",
+      "rawPath": "RAW/architecture/context-window-management-openclaw-agent-intelligence-optimization-and-memory-architecture.md",
+      "title": "Context Window Management \u2014 OpenClaw Agent Intelligence, Optimization, and Memory Architecture",
+      "updated_at": "2026-05-11T17:11:11Z",
+      "wikiPath": "WIKI/architecture/context-window-management-openclaw-agent-intelligence-optimization-and-memory-architecture.md"
+    },
     "WIKI/architecture/deck-agent-control-room-test.md": {
       "category": "architecture",
       "compiled_at": "2026-05-10 16:27:09",
@@ -865,6 +873,6 @@
       "wikiPath": "WIKI/workflows/content ingestion.md"
     }
   },
-  "updatedAt": "2026-05-11T15:50:25Z",
+  "updatedAt": "2026-05-11T17:11:11Z",
   "version": 1
 }
