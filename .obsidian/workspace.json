@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIKI/architecture/model-routing-reliability.md",
+                "file": "WIKI/workflows/content ingestion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "model-routing-reliability"
+              "title": "content ingestion"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 306.5
   },
   "right": {
     "id": "568a5829684a372f",
@@ -194,45 +194,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1beed2ef81d1a2aa",
+  "active": "df489f19c1969cec",
   "lastOpenFiles": [
-    "WIKI/index.md",
-    "git.md",
-    "INDEX.md",
-    "log.md",
-    "topic-brains.md",
-    "Untitled.base",
+    "index.md",
+    "WIKI/workspace/index.md",
+    "WIKI/workspace/clean-ux-test.md",
+    "WIKI/workspace",
+    "WIKI/troubleshooting/new-chat-fba354d7-5e23-430f-a0de-89635cec202b.md",
+    "WIKI/troubleshooting/index.md",
+    "WIKI/services/kids-art-clutter-solutions-27bed5d6-254e-48da-9d47-202acc53f560.md",
+    "WIKI/services/hermes-cleanup-system.md",
+    "WIKI/services/2026-04-30T09-34-36-567Z-d73099b8-3211-482e-9359-93eff9d39801.md",
+    "WIKI/services/2026-04-30T09-34-03-702Z-97bba13e-8095-4f44-995d-1398af93b407.md",
+    "WIKI/services/2026-04-30T09-33-08-023Z-7d152c30-ef2e-4ac0-9288-8bb570a37193.md",
+    "WIKI/openwebui/save-to-knowledge-with-preview-filename-codex-web-app-quickstart-and-command-sty-dd39234d-4541-4723-a5e0-174691c08c95.md",
+    "WIKI/openwebui/save-to-knowledge-----category-architecture-filename-aiagentnerd-backend-hardeni-909d0e21-46ec-4eb0-a526-f3c3ebef4fa9.md",
+    "WIKI/openwebui/new-chat-538a6d4c-495a-4807-93a4-549df022cb7f.md",
+    "WIKI/openwebui/knowledge-system-workflow-guide-af6c6ecf-58d0-42d7-ac3b-3766effa775c.md",
+    "WIKI/openwebui/knowledge-system-workflow-9449977b-1d49-43b0-b79f-d135b85e0a68.md",
+    "WIKI/openwebui/knowledge-system-explainer-saved-c5f472f5-9e28-4734-91f5-17566b37d625.md",
+    "WIKI/openwebui/index.md",
+    "WIKI/openwebui/broken-test-preview-bbffa48b-fb2b-4f65-ac58-2963bd6e0b82.md",
+    "WIKI/openwebui",
+    "WIKI/concepts/random-messy-broken-test.md",
+    "WIKI/concepts/preview-compile-test.md",
+    "WIKI/concepts/ingest-endpoint-test.md",
+    "WIKI/concepts/hermes-native-auto-pipeline-test.md",
+    "WIKI/concepts/guided-followup-workflow-test.md",
+    "WIKI/concepts/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md",
+    "WIKI/concepts/aiagentnerd-knowledge-system-explainer-and-workflow.md",
+    "WIKI/architecture/test-raw-bypass.md",
+    "WIKI/_archived/services",
+    "WIKI/_archived/infrastructure",
+    "WIKI/_archived",
+    "RAW/source_chunks/massive-hermes-chunking-test",
+    "RAW/source_chunks",
+    "RAW/infrastructure",
+    "RAW/_archived/openwebui",
+    "RAW/_archived",
     "Untitled.canvas",
-    "WIKI/services/deck.md",
-    "WIKI/infrastructure/acr-dashboard-ui-b5cd7aa5-335b-4342-8461-29717600d1fa.md",
-    "WIKI/infrastructure/acr-overview-da74bd9b-66f7-4705-a7f5-11c50645f812.md",
-    "WIKI/infrastructure/agent-control-room-acr-fb05e0f0-c846-45b2-9728-dd7bd55af8ca.md",
-    "WIKI/infrastructure/current-model-info-b2c3571b-712e-4f82-8396-34b87b7f16d7.md",
-    "WIKI/concepts/deck.md",
-    "WIKI/architecture/model-routing-reliability.md",
-    "WIKI/apps/deck.md",
-    "_archive/raw-tests/test/quality-test.md",
-    "_archive/raw-tests/test/auto-test.md",
-    "_archive/wiki-tests-leftover/test-nginx.md",
-    "_archive/wiki-tests-leftover/test-memory-loop.md",
-    "_archive/wiki-tests-leftover/system-functionality-test-671903ef-e8f7-4afc-8ff2-ad2c8d1423eb.md",
-    "_archive/wiki-tests-leftover/quality-test.md",
-    "_archive/wiki-tests-leftover/karpathy-llm-wiki-test.md",
-    "_archive/wiki-tests-leftover/hermes-wiki-split-test-split.md",
-    "_archive/wiki-tests-leftover/hermes-wiki-split-test-save.md",
-    "_archive/wiki-tests-leftover/hermes-wiki-split-test-capture.md",
-    "_archive/wiki-tests/test-compile.md",
-    "_archive/wiki-tests/test-b.md",
-    "_archive/wiki-tests/test-a.md",
-    "_archive/raw-tests/test",
-    "_archive/wiki-tests-leftover",
-    "_archive/wiki-tests",
-    "_archive/uuid-wiki-files",
-    "_archive/raw-tests",
-    "_archive/openwebui-random",
-    "_archive",
-    "RAW/openwebui/exports/openwebui-2026-04-30_02-45-01.db",
-    "RAW/openwebui/exports/openwebui-2026-04-29_02-45-01.db",
     "Untitled 1.canvas"
   ]
 }
